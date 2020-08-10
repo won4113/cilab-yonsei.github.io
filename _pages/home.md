@@ -19,25 +19,25 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
     </ol>
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV_SHJ.png" alt="Slide 1" />
+            <div class="carousel-caption bg-dark mb-4">
+              <h1>ECCV 2020</h1>
+              <p>Kernelized Memory Network for Video Object Segmentation</p>
+            </div>
+        </div>
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TITS_AJH.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TITS_AJH.png" alt="Slide 2" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Intelligent Transportation Systems (TITS)</h3>
               <p>Novel Vehicle Bounding Box Tracking Using a Low-End 3D Laser Scanner</p>
             </div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TII_JHG.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TII_JHG.png" alt="Slide 3" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Industrial Informatics (TII)</h3>
               <p>Mixture Density-PoseNet and Its Application to Monocular Camera-based Global Localization</p>
-            </div>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV_SHJ.png" alt="Slide 2" />
-            <div class="carousel-caption bg-dark mb-4">
-              <h1>ECCV 2020</h1>
-              <p>Kernelized Memory Network for Video Object Segmentation</p>
             </div>
         </div>
     </div>
