@@ -1,12 +1,12 @@
 ---
-title: "CILAB - Honer/Award"
+title: "CILAB - Honor/Award"
 layout: gridlay
-excerpt: "CILAB -- Honer/Award"
+excerpt: "CILAB -- Honor/Award"
 sitemap: false
-permalink: /honer_award/
+permalink: /honor_award/
 ---
 
-# Honer/Award
+# Honor/Award
 
 {% assign last_year = site.data.year_information.current_year %}
 {% assign first_year = site.data.year_information.ha_first_showing_year %}
@@ -14,7 +14,7 @@ permalink: /honer_award/
 {% for current_year in (first_year..last_year) reversed %}
 {% assign initial_state = 0 %}
 
-{% for publi in site.data.honer_award_list %}
+{% for publi in site.data.honor_award_list %}
 {% if publi.year == current_year %}
 
 {% if initial_state == 0 %}
