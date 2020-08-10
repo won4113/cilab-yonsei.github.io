@@ -1,0 +1,137 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  cv:
+#    url:
+#    exist: 0 or 1
+
+- name: Jisu Kim
+  photo: jisukim.jpg
+  info: Master's/Doctoral Combined Programs
+  email: jisukim2000@yonsei.ac.kr
+  research: Machine Vision Technology
+  affiliation:  
+  cv:
+    url:
+    exist: 0
+
+- name: Sungjin Jo
+  photo: sungjinjo.jpg
+  info: Master's/Doctoral Combined Programs
+  email: seongjin.jo111@yonsei.ac.kr
+  research: Mobile Robotics
+  affiliation: 
+  cv:
+    url: 
+    exist: 0
+
+- name: Minho Cho
+  photo: minhocho.jpg
+  info: Master's/Doctoral Combined Programs
+  email: minho8849@yonsei.ac.kr
+  research: Intelligent Vehicle System
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Junhyuk Hyun
+  photo: junhyukhyun.jpg
+  info: Master's/Doctoral Combined Programs
+  email: jhhyun@yonsei.ac.kr
+  research: Machine Vision Technology
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Haemin Cho
+  photo: haemincho.jpg
+  info: Master's/Doctoral Combined Programs
+  email: hm.cho@yonsei.ac.kr
+  research: Mobile Robotics
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Wonje Jang
+  photo: wonjejang.jpg
+  info: Master's/Doctoral Combined Programs
+  email: jangwj1256@yonsei.ac.kr
+  research: Intelligent Vehicle System
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Suhyeon Lee
+  photo: suhyeonlee.jpg
+  info: Master's/Doctoral Combined Programs
+  email: hyeon93@yonsei.ac.kr
+  research: Machine Vision Technology
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Seongwon Lee
+  photo: seongwonlee.jpg
+  info: Master's/Doctoral Combined Programs
+  email: won4113@yonsei.ac.kr
+  research: Mobile Robotics
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Suhan Woo
+  photo: suhanwoo.jpg
+  info: Master's/Doctoral Combined Programs
+  email: wsh112@yonsei.ac.kr
+  research: Machine Vision Technology
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Hongje Seong
+  photo: hongjeseong.jpg
+  info: Master's/Doctoral Combined Programs
+  email: hjseong@yonsei.ac.kr
+  research: Machine Vision Technology
+  affiliation: 
+  cv:
+    url: cv_hongjeseong.pdf
+    exist: 1
+
+- name: Minseong Park
+  photo: minseongpark.jpg
+  info: Master's/Doctoral Combined Programs
+  email: msp922@yonsei.ac.kr
+  research: Intelligent Vehicle System
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Youngjo Lee
+  photo: youngjolee.jpg
+  info: Master's/Doctoral Combined Programs
+  email: lzozo95@yonsei.ac.kr
+  research: Machine Vision Technology
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Gyu Hyeon Pak
+  photo: gyuhyeonpak.jpg
+  info: Master's/Doctoral Combined Programs
+  email: ghpak1002@yonsei.ac.kr
+  research: Mobile Robotics
+  affiliation: 
+  cv:
+    url:
+    exist: 0

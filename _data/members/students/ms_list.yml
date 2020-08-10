@@ -36,15 +36,6 @@
     url:
     exist: 0
 
-- name: Minseong Park
-  photo: minseongpark.jpg
-  info: Master's/Doctoral Combined Programs
-  email: msp922@yonsei.ac.kr
-  research: Intelligent Vehicle System
-  affiliation: 
-  cv:
-    url:
-    exist: 0
 
 - name: Chungmyeon Lee
   photo: chungmyeonlee.jpg
@@ -56,15 +47,7 @@
     url:
     exist: 0
 
-- name: Youngjo Lee
-  photo: youngjolee.jpg
-  info: Master's/Doctoral Combined Programs
-  email: lzozo95@yonsei.ac.kr
-  research: Machine Vision Technology
-  affiliation: 
-  cv:
-    url:
-    exist: 0
+
 
 - name: Young Joo Kim
   photo: youngjookim.jpg
@@ -85,14 +68,3 @@
   cv:
     url:
     exist: 0
-
-- name: Gyu Hyeon Pak
-  photo: gyuhyeonpak.jpg
-  info: Master's/Doctoral Combined Programs
-  email: ghpak1002@yonsei.ac.kr
-  research: Mobile Robotics
-  affiliation: 
-  cv:
-    url:
-    exist: 0
-
