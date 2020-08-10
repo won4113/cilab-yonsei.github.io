@@ -1,0 +1,1081 @@
+#- title:
+#  authors:
+#  journal:
+#  year:
+#  month:
+#  vol:
+#  issue:
+#  page:
+#  description: 
+#  accepted:
+
+- title: Novel Vehicle Bounding Box Tracking Using a Low-End 3D Laser Scanner
+  authors: Jonghyun An and Euntai Kim
+  journal: IEEE Transactions on Intelligent Transportation Systems
+  year: 2020
+  month:
+  vol:
+  issue:
+  page:
+  description: "Early Access"
+  accepted: 1
+- title: "FOSNet: An End-to-End Trainable Deep Neural Network for Scene Recognition"
+  authors: Hongje Seong, Junhyuk Hyun and Euntai Kim
+  journal: IEEE Access
+  year: 2020
+  month: Dec
+  vol: 8
+  issue: 1
+  page: 82066-82077
+  description: ""
+  accepted: 0
+- title: "New Monte Carlo Localization Using Deep Initialization: A Three-Dimensional LiDAR and a Camera Fusion Approach"
+  authors: HyungGi Jo and Euntai Kim
+  journal: IEEE Access
+  year: 2020
+  month: Dec
+  vol: 8
+  issue: 1
+  page: 74485-74496
+  description: ""
+  accepted: 0
+- title: Mixture Density-PoseNet and Its Application to Monocular Camera-based Global Localization
+  authors: HyungGi Jo, Woosub Lee and Euntai Kim
+  journal: IEEE Transactions on Industrial Informatics
+  year: 2020
+  month:
+  vol:
+  issue:
+  page:
+  description: ""
+  accepted: 1
+- title: A Pedestrian Detection System Accelerated by Kernelized Proposals
+  authors: Jeonghyun Baek, Junhyuk Hyun and Euntai Kim
+  journal: IEEE Transactions on Intelligent Transportation Systems
+  year: 2020
+  month: Mar
+  vol: 21
+  issue: 3
+  page: 1216-1228
+  description: ""
+  accepted: 0
+- title: A New Contour-Based Approach to Moving Object Detection and Tracking Using a Low-end 3-Dimensional Laser Scanner
+  authors: Jhonghyun An, Baehoon Choi, Hyunju Kim and Euntai Kim
+  journal: IEEE Transactions on Vehicular Technology
+  year: 2019
+  month: Aug
+  vol: 68
+  issue: 8
+  page: 7392-7405
+  description: ""
+  accepted: 0
+- title: Multiple Object Tracking via Feature Pyramid Siamese Networks
+  authors: Sangyun Lee and Euntai Kim
+  journal: IEEE Access
+  year: 2019
+  month: Dec
+  vol: 7
+  issue: # 없음 https://ieeexplore.ieee.org/abstract/document/8587153
+  page: 8181-8194
+  description: ""
+  accepted: 0
+- title: A new support vector machine with an optimal additive kernel
+  authors: Jeonghyun Baek and Euntai Kim
+  journal: Neurocomputing
+  year: 2019
+  month: Feb
+  vol: 329
+  issue: #없음 https://www.sciencedirect.com/science/article/pii/S0925231218312207
+  page: 279-299
+  description: ""
+  accepted: 0
+- title: Probabilistic Ship Detection and Classification Using Deep Learning
+  authors: Kwanghyun Kim, Sungjun Hong, Baehoon Choi and Euntai Kim
+  journal: Applied Science
+  year: 2018
+  month: Jun
+  vol: 8
+  issue: 6
+  page: 936
+  description: ""
+  accepted: 0
+- title: Sparse pseudoinverse incremental extreme learning machine
+  authors: Peyman Hosseinzadeh Kassani, Andrew Beng Jin Teoh and Euntai Kim
+  journal: Neurocomputing
+  year: 2018
+  month: Apr
+  vol: 287
+  issue: #없음 https://www.sciencedirect.com/science/article/pii/S0925231218301280
+  page: 128-142
+  description: ""
+  accepted: 0
+- title: Efficient Grid-Based Rao-Blackwellized Particle Filter SLAM With Inter-Particle Map Sharing
+  authors: HyungGi Jo, Hae Min Cho, Sungjin Jo and Euntai Kim
+  journal: IEEE/ASME Transactions on Mechatronics
+  year: 2018
+  month: Apr
+  vol: 23
+  issue: 2
+  page: 714-724
+  description: ""
+  accepted: 0
+- title: Evolutionary Modified Fuzzy Nearest Neighbor Rule for Pattern Classification
+  authors: Peyman Hosseinzadeh Kassani, Andrew Beng Jin Teoh and Euntai Kim
+  journal: Expert Systems With Applications
+  year: 2017
+  month: Dec
+  vol: 88
+  issue: 1
+  page: 258-269
+  description: ""
+  accepted: 0
+- title: Efficient Pedestrian Detection at Nighttime Using a Thermal Camera
+  authors: Jeonghyun Baek, Sungjun Hong, Jisu Kim and Euntai Kim
+  journal: Sensors
+  year: 2017
+  month: Aug
+  vol: 17
+  issue: 8
+  page: 1850
+  description: ""
+  accepted: 0
+- title: New Compact 3-Dimensional Shape Descriptor for a Depth Camera in Indoor Enviroments
+  authors: Hyukdoo Choi and Euntai Kim
+  journal: Sensors
+  year: 2017
+  month: Apr
+  vol: 17
+  issue: 4
+  page: 876-895
+  description: ""
+  accepted: 0
+- title: Fast and Efficient Pedestrian Detection via Cascade Implementation of Additive Kernel Support Vector Machine
+  authors: Jeonghyun Baek, Jisu Kim and Euntai Kim
+  journal: IEEE Transactions on Intelligent Transportation Systems
+  year: 2017
+  month: Apr
+  vol: 18
+  issue: 4
+  page: 902-916
+  description: ""
+  accepted: 0
+- title: "Continuous Space Estimation: Increasing WiFi-Based Indoor Localization Resolution without Increasing the Site-Survey Effort"
+  authors: Noelia Hernández, Manuel Ocaña, Jose M. Alonso and Euntai Kim
+  journal: Sensors
+  year: 2017
+  month: Jan
+  vol: 17
+  issue: 1
+  page: 147-169
+  description: ""
+  accepted: 0
+- title: Novel Intersection Type Recognition for Autonomous Vehicles Using A Multi-Layer Laser Scanner
+  authors: Jhonghyun An, Baehoon Choi, Kwee-Bo Sim and Euntai Kim
+  journal: Sensors
+  year: 2016
+  month: Jul
+  vol: 16
+  issue: 7
+  page: 1123-1137
+  description: ""
+  accepted: 0
+- title: A Newborn Track Detection and State Estimation Algorithm Using Bernoulli Random Finite Sets
+  authors: Baehoon Choi, Seongkeun Park and Euntai Kim
+  journal: IEEE Transactions on Signal Processing
+  year: 2016
+  month: May
+  vol: 64
+  issue: 10
+  page: 2660-2674
+  description: ""
+  accepted: 0
+- title: Wet Area and Puddle Detection for Advanced Driver Assistance Systems (ADAS) Using a Stereo Camera
+  authors: Jisu Kim, Jeonghyun Baek, Hyukdoo Choi and Euntai Kim
+  journal: International Journal of Control, Automation and Systems
+  year: 2016
+  month: Feb
+  vol: 14
+  issue: 1
+  page: 263-271
+  description: ""
+  accepted: 0
+- title: Bayesian Learning of a Search Region for Pedestrian Detection
+  authors: Jeonghyun Baek, Sungjun Hong, Jisu Kim and Euntai Kim
+  journal: Multimedia Tools and Applications
+  year: 2016
+  month: Jan
+  vol: 75
+  issue: 2
+  page: 863-885
+  description: ""
+  accepted: 0
+- title: Pedestrian/Vehicle Detection Using a 2.5-dimensional Multi-layer Laser Scanner
+  authors: Beomseong Kim, Baehoon Choi, Seongkeun Park, Hyunju Kim and Euntai Kim
+  journal: IEEE Sensors Journal
+  year: 2016
+  month: Jan
+  vol: 16
+  issue: 2
+  page: 400-408
+  description: ""
+  accepted: 0
+- title: New Vehicle Detection Method with Aspect Ratio Estimation for Hypothesized Windows
+  authors: Jisu Kim, Jeonghyun Baek, Yongseo Park and Euntai Kim
+  journal: Sensors
+  year: 2015
+  month: Dec
+  vol: 15
+  issue: 12
+  page: 30927-30940
+  description: ""
+  accepted: 0
+- title: A Novel On-road Vehicle Detection Method Using πHOG
+  authors: Jisu Kim, Jeonghyun Baek and Euntai Kim
+  journal: IEEE Transactions on Intelligent Transportation Systems
+  year: 2015
+  month: Dec
+  vol: 16
+  issue: 6
+  page: 3414-3429
+  description: ""
+  accepted: 0
+- title: General Dimensional Multiple-Output Support Vector Regressions and Their Multiple Kernel Learning
+  authors: Wooyong Chung, Jisu Kim, Heejin Lee and Euntai Kim
+  journal: IEEE Transactions on Cybernetics
+  year: 2015
+  month: Nov
+  vol: 45
+  issue: 11
+  page: 2572-2584
+  description: "Source Code : http://cilab.yonsei.ac.kr/pubs/DB/source_code.zip"
+  accepted: 0
+- title: A Novel Part-based Approach to Mean-Shift Algorithm for Visual Tracking
+  authors: Jae Pil Hwang, Jeonghyun Baek, Baehoon Choi and Euntai Kim
+  journal: International Journal of Control, Automation and Systems
+  year: 2015
+  month: Apr
+  vol: 13
+  issue: 2
+  page: 443-453
+  description: ""
+  accepted: 0
+- title: Robust Object Segmentation using a Multi-layer Laser Scanner
+  authors: Beomseong Kim, Baehoon Choi, Minkyun Yoo, Hyunju Kim and Euntai Kim
+  journal: Sensors
+  year: 2014
+  month: Oct
+  vol: 14
+  issue: 11
+  page: 20400
+  description: ""
+  accepted: 0
+- title: An Efficient Genetic Selection of the Presentation Order in Simplified Fuzzy ARTMAP Patterns
+  authors: Jeonghyun Baek, Heesung Lee, Byungyun Lee, Heejin Lee and Euntai Kim
+  journal: Applied Soft Computing
+  year: 2014
+  month: Sep
+  vol: 22
+  issue: # 없음 https://www.sciencedirect.com/science/article/pii/S1568494614001331
+  page: 101-107
+  description: ""
+  accepted: 0
+- title: Simultaneous Global Localization and Mapping
+  authors: Hyukdoo Choi, Kwang Woong Yang and Euntai Kim
+  journal: IEEE/ASME Transactions on Mechatronics
+  year: 2014
+  month: Aug
+  vol: 19
+  issue: 4
+  page: 1160-1170
+  description: ""
+  accepted: 0
+- title: A probabilistic image-weighting scheme for robust silhouette-based gait recognition
+  authors: Heesung Lee, Jeonghyun Baek and Euntai Kim
+  journal: Multimedia Tools and Applications
+  year: 2014
+  month: Jun
+  vol: 70
+  issue: 3
+  page: 1399-1419
+  description: ""
+  accepted: 0
+- title: A New Gait Recognition System Based on Hierarchical Fair Competition-based Parallel Genetic Algorithm and Selective Neural Network Ensemble
+  authors: Heesung Lee, Heejin Lee and Euntai Kim
+  journal: International Journal of Control, Automation and Systems
+  year: 2014
+  month: Feb
+  vol: 12
+  issue: 1
+  page: 202-207
+  description: ""
+  accepted: 0
+- title: An Efficient Ceiling-view SLAM Using Relational Constraints Between Landmarks
+  authors: Hyukdoo Choi, Ryunseok Kim and Euntai Kim
+  journal: International Journal of Advanced Robotic Systems
+  year: 2014
+  month: Jan
+  vol: 11
+  issue: 4
+  page: # 없음 https://journals.sagepub.com/doi/full/10.5772/57225
+  description: ""
+  accepted: 0
+- title: A New cvSLAM Exploiting a Partially Known Landmark Association
+  authors: Dong Yeop Kim, Hyukdoo Choi, Heesung Lee and Euntai Kim
+  journal: Advanced Robotics
+  year: 2013
+  month: Oct
+  vol: 27
+  issue: # 없음 https://www.tandfonline.com/doi/full/10.1080/01691864.2013.805470
+  page: 1073-1086
+  description: ""
+  accepted: 0
+- title: A new kernelized approach to wireless sensor network localization
+  authors: Jaehun Lee, Wooyong Chung and Euntai Kim
+  journal: Information Sciences
+  year: 2013
+  month: Sep
+  vol: 243
+  issue: # 없음 https://www.sciencedirect.com/science/article/pii/S0020025513003289
+  page: 20-38
+  description: ""
+  accepted: 0
+- title: Human biometric Identification through integration of footprint and gait
+  authors: Heesung Lee, Byungyun Lee, Jin-Woo Jung, Sungjun Hong and Euntai Kim
+  journal: International Journal of Control, Automation, and Systems
+  year: 2013
+  month: Aug
+  vol: 11
+  issue: 4
+  page: 826-833
+  description: ""
+  accepted: 0
+- title: A Novel Range-free Localization Based on Multi-dimensional Support Vector Regression Trained in the Primal Space
+  authors: Jaehun Lee, Baehoon Choi and Euntai Kim
+  journal: IEEE Transactions on Neural Networks and Learning Systems
+  year: 2013
+  month: Jul
+  vol: 24
+  issue: 7
+  page: 1099-1113
+  description: ""
+  accepted: 0
+- title: Multiclass lagrangian support vector machine
+  authors: Jae Pil Hwang, Baehoon Choi, In Wha Hong and Euntai Kim
+  journal: Neural Computing and Applications
+  year: 2013
+  month: Mar
+  vol: 22
+  issue: 3-4
+  page: 703-710
+  description: ""
+  accepted: 0
+- title: Probabilistic gait modeling and recognition
+  authors: Sungjun Hong, Heesung Lee and Euntai Kim
+  journal: IET Computer Vision
+  year: 2013
+  month: Feb
+  vol: 7
+  issue: 1
+  page: 56-70
+  description: ""
+  accepted: 0
+- title: A new selective neural network ensemble with negative correlation
+  authors: Heesung Lee, Euntai Kim and Witold Pedrycz
+  journal: Applied Intelligence
+  year: 2012
+  month: Dec
+  vol: 37
+  issue: # 없음 https://link.springer.com/content/pdf/10.1007/s10489-012-0342-3.pdf
+  page: 488-498
+  description: ""
+  accepted: 0
+- title: "Efficient Simultaneous Localization and Mapping Based on Ceiling-View: Ceiling Boundary Feature Map Approach"
+  authors: Hyukdoo Choi, Dong Yeop Kim, Jae Pil Hwang, Chang-Woo Park and Euntai Kim
+  journal: Advanced Robotics
+  year: 2012
+  month: Apr
+  vol: 26
+  issue: 5-6
+  page: 653-671
+  description: ""
+  accepted: 0
+- title: "A new state estimation method for chaotic signals: Map-particle filter method"
+  authors: Seongkeun Park, Jae Pil Hwang and Euntai Kim
+  journal: Expert Systems with Applications
+  year: 2011
+  month: Sep
+  vol: 38
+  issue: 9
+  page: 11442-11446
+  description: ""
+  accepted: 0
+- title: A new weighted approach to imbalanced data classification problem via support vector machine with quadratic cost function
+  authors: Jae Pil Hwang, Seongkeun Park and Euntai Kim
+  journal: Expert Systems with Applications
+  year: 2011
+  month: Jul
+  vol: 38
+  issue: 7
+  page: 8580-8585
+  description: ""
+  accepted: 0
+- title: A new range-free localization method using quadratic programming
+  authors: Jaehun Lee, Wooyong Chung and Euntai Kim
+  journal: Computer Communications
+  year: 2011
+  month: Jun
+  vol: 34
+  issue: 8
+  page: 998-1010
+  description: ""
+  accepted: 0
+- title: Probabilistic background subtraction in a video-based recognition system
+  authors: Heesung Lee, Sungjun Hong and Euntai Kim
+  journal: KSII Transactions on Internet and Information Systems
+  year: 2011
+  month: Apr
+  vol: 5
+  issue: 4
+  page: 782-804
+  description: ""
+  accepted: 0
+- title: Dual margin approach on a Lagrangian support vector machine
+  authors: Jae Pil Hwang, Seongkeun Park and Euntai Kim
+  journal: International Journal of Computer Mathematics
+  year: 2011
+  month: Mar
+  vol: 88
+  issue: 4
+  page: 695-708
+  description: ""
+  accepted: 0
+- title: Automatic gait recognition based on probabilistic approach
+  authors: Imran Fareed Nizami, Sungjun Hong, Heesung Lee, Byungyun Lee and Euntai Kim
+  journal: International Journal of Imaging Systems and Technology
+  year: 2010
+  month: Dec
+  vol: 20
+  issue: 4
+  page: 400-408
+  description: ""
+  accepted: 0
+- title: An efficient design of nearest neighbor classifier for various-scale problems
+  authors: Heesung Lee, Sungjun Hong, Imran Fareed Nizami and Euntai Kim
+  journal: Pattern Recognition Letters
+  year: 2010
+  month: Jul
+  vol: 31
+  issue: 9
+  page: 1020-1027
+  description: ""
+  accepted: 0
+- title: Vehicle tracking using a microwave radar for situation awareness
+  authors: Seongkeun Park, Jae Pil Hwang, Euntai Kim and Hyung-Jin Kang
+  journal: Control Engineering Practice
+  year: 2010
+  month: Apr
+  vol: 18
+  issue: 4
+  page: 383-395
+  description: ""
+  accepted: 0
+- title: "A new genetic approach for structure learning of bayesian networks: matrix genetic algorithm"
+  authors: Jaehun Lee, Wooyong Chung, Euntai Kim and Soohan Kim
+  journal: International Journal of Control, Automation, and Systems
+  year: 2010
+  month: Apr
+  vol: 8
+  issue: 2
+  page: 398-407
+  description: ""
+  accepted: 0
+- title: A neural network approach to target classification for active safety systems using microwave radar
+  authors: Seongkeun Park, Jae Pil Hwang, Euntai Kim, Heejin Lee and Ho Gi Jung
+  journal: Expert Systems with Applications
+  year: 2010
+  month: Mar
+  vol: 37
+  issue: 3
+  page: 2340-2346
+  description: ""
+  accepted: 0
+- title: An Efficient Gait Recognition with Backpack Removal
+  authors: Heesung Lee, Sungjun Hong and Euntai Kim
+  journal: EURASIP Journal on Advances in Signal Processing
+  year: 2009
+  month: # 없음
+  vol: 2009
+  issue: 38484 # 애매함 https://link.springer.com/article/10.1155/2009/384384
+  page: 7
+  description: ""
+  accepted: 0
+- title: Gait Recognition Using Multi-Bipolarized Contour Vector
+  authors: Sungjun Hong, Heesung Lee, Kar-Ann Toh and Euntai Kim
+  journal: International Journal of Control, Automation
+  year: 2009
+  month: Oct
+  vol: 7
+  issue: 5
+  page: 799-808
+  description: ""
+  accepted: 0
+- title: A New Evolutionary Particle Filter for the Prevention of Sample Impoverishment
+  authors: Seongkeun Park, Jae Pil Hwang, Euntai Kim and Hyung-Jin Kang
+  journal: IEEE Transactions on Evolutionary Computation
+  year: 2009
+  month: Aug
+  vol: 13
+  issue: 4
+  page: 801-809
+  description: ""
+  accepted: 0
+- title: "A Noise Robust Gait Representation: Motion Energy Image"
+  authors: Heesung Lee, Sungjun Hong, Imran Fareed Nizami and Euntai Kim
+  journal: International Journal of Control, Automation, and Systems
+  year: 2009
+  month: Aug
+  vol: 7
+  issue: 4
+  page: 638-643
+  description: ""
+  accepted: 0
+- title: "A new probabilistic fuzzy model: fuzzification-maximization (FM) approach"
+  authors: Sungjun Hong, Heesung Lee and Euntai Kim
+  journal: International Journal of Approximate Reasoning
+  year: 2009
+  month: Jul
+  vol: 50
+  issue: 7
+  page: 1129-1147
+  description: ""
+  accepted: 0
+- title: A new genetic feature selection with neural network ensemble
+  authors: Heesung Lee, Sungjun Hong and Euntai Kim
+  journal: International Journal of Computer Mathematics
+  year: 2009
+  month: Jul
+  vol: 86
+  issue: 7
+  page: 1105-1117
+  description: ""
+  accepted: 0
+- title: A soft computing approach to localization in wireless sensor networks
+  authors: Sukhyun Yun, Jaehun Lee, Wooyong Chung, Euntai Kim and Soohan Kim
+  journal: Expert Systems with Applications
+  year: 2009
+  month: May
+  vol: 36
+  issue: 4
+  page: 7552-7561
+  description: ""
+  accepted: 0
+- title: Neural network ensemble with probabilistic fusion and its application to gait recognition
+  authors: Heesung Lee, Sungjun Hong and Euntai Kim
+  journal: Neurocomputing
+  year: 2009
+  month: Mar
+  vol: 72
+  issue: 7-9
+  page: 1557-1564
+  description: ""
+  accepted: 0
+- title: A Symbiotic Evolutionary Design of Error-Correcting Code with Minimal Power Consumption
+  authors: Heesung Lee and Euntai Kim
+  journal: ETRI Journal
+  year: 2008
+  month: Dec
+  vol: 30
+  issue: 6
+  page: 799-806
+  description: ""
+  accepted: 0
+- title: Real-Time Road Sign Detection Using Fuzzy-Boosting
+  authors: Changyong Yoon, Heejin Lee, Euntai Kim and Mignon Park
+  journal: IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences
+  year: 2008
+  month: Nov
+  vol: E91-A
+  issue: 11
+  page: 3346-3355
+  description: ""
+  accepted: 0
+- title: A New Genetic Design for Error Correcting Code for Power Minimization
+  authors: Heesung Lee and Euntai Kim
+  journal: Journal of Circuits, Systems, and Computers
+  year: 2008
+  month: Oct
+  vol: 717
+  issue: 5
+  page: 773-783
+  description: ""
+  accepted: 0
+- title: An Efficient Gait Recognition based on a Selective Neural Network Ensemble
+  authors: Heesung Lee, Sungjun Hong and Euntai Kim
+  journal: International Journal of Imaging Systems and Technology
+  year: 2008
+  month: Oct
+  vol: 18
+  issue: 4
+  page: 237-241
+  description: ""
+  accepted: 0
+- title: Structure Learning of Bayesian Networks Using Dual Genetic Algorithm
+  authors: Jaehun Lee, Wooyong Chung and Euntai Kim
+  journal: IEICE Transactions on Information and Systems
+  year: 2008
+  month: Jan
+  vol: E91-D
+  issue: 1
+  page: 32-43
+  description: ""
+  accepted: 0
+- title: Model reference adaptive synchronization of T-S fuzzy discrete chaotic systems using output tracking control
+  authors: Won-Ki Lee, Chang-Ho Hyun, Heejin Lee, Euntai Kim and Mignon Park
+  journal: Chaos, Solitons & Fractals
+  year: 2007
+  month: Dec
+  vol: 34
+  issue: 5
+  page: 1590-1598
+  description: ""
+  accepted: 0
+- title: Adaptive Synchronization of Uncertain Chaotic Systems Based on T–S Fuzzy Model
+  authors: Jae-Hun Kim, Chang-Ho Hyun, Euntai Kim and Mignon Park
+  journal: IEEE Transactions on Fuzzy Systems
+  year: 2007
+  month: Jun
+  vol: 15
+  issue: 3
+  page: 359-369
+  description: ""
+  accepted: 0
+- title: Information Granulation as a Basis of Fuzzy Modeling
+  authors: Euntai Kim and Witold Pedrycz
+  journal: Journal of Intelligent & Fuzzy Systems
+  year: 2007
+  month: May
+  vol: 18
+  issue: 2
+  page: 123-148
+  description: ""
+  accepted: 0
+- title: A Genetic Feature Weighting Scheme for Pattern Recognition
+  authors: Heesung Lee, Euntai Kim and Mignon Park
+  journal: Integrated Computer-Aided Engineering
+  year: 2007
+  month: Apr
+  vol: 14
+  issue: 2
+  page: 161-171
+  description: ""
+  accepted: 0
+- title: A New Two-phase Approach to Fuzzy Modeling for Nonlinear Function Approximation
+  authors: Wooyong Chung and Euntai Kim
+  journal: IEICE TRANSACTIONS on Information and Systems
+  year: 2006
+  month: Sep
+  vol: E89-D
+  issue: 9
+  page: 2473-2483
+  description: ""
+  accepted: 0
+- title: A New Genetic Approach to Structure Learning of Bayesian Networks
+  authors: Jaehun Lee, Wooyong Chung and Euntai Kim
+  journal: International Symposium on Neural Networks 2006
+  year: 2006
+  month: May
+  vol: # 불명 https://link.springer.com/chapter/10.1007/11759966_97
+  issue: # 없음
+  page: 659-668
+  description: ""
+  accepted: 0
+- title: "Robust Tracking Control of an Electrically Driven Robot : Adaptive Fuzzy Logic Approach"
+  authors: Jae Pil Hwang and Euntai Kim
+  journal: IEEE Transactions on Fuzzy Systems
+  year: 2006
+  month: Apr
+  vol: 14
+  issue: 2
+  page: 232-247
+  description: ""
+  accepted: 0
+- title: Adaptive fuzzy observer based synchronization design and secure communications of chaotic systems
+  authors: Chang-Ho Hyun, Jae-Hun Kim, Euntai Kim and Mignon Park
+  journal: Chaos, Solitons & Fractals
+  year: 2006
+  month: Feb
+  vol: 27
+  issue: 4
+  page: 930-940
+  description: ""
+  accepted: 0
+- title: Output feedback tracking control of MIMO systems using a fuzzy disturbance observer and its application to the speed control of a PM synchronous motor
+  authors: Euntai Kim and Sungryul Lee
+  journal: IEEE Transactions on Fuzzy Systems
+  year: 2005
+  month: Dec
+  vol: 13
+  issue: 6
+  page: 725-741
+  description: ""
+  accepted: 0
+- title: Synchronization of time-delayed T-S fuzzy chaotic systems via scalar output variable
+  authors: Jae-Hun Kim, Hyunseol Shin, Euntai Kim and Mignon Park
+  journal: International Journal of Bifurcation and Chaos
+  year: 2005
+  month: Aug
+  vol: 15
+  issue: 8
+  page: 2593-2601
+  description: ""
+  accepted: 0
+- title: A TSK Fuzzy Inference Algorithm for Online Identification
+  authors: Kyoungjung Kim, Eun Ju Whang, Chang-Woo Park, Euntai Kim and Mignon Park
+  journal: International Conference on Fuzzy Systems and Knowledge Discovery
+  year: 2005
+  month: Oct
+  vol: 3613
+  issue: PART I # https://yonsei.pure.elsevier.com/en/publications/a-tsk-fuzzy-inference-algorithm-for-online-identification-2
+  page: 179-188
+  description: ""
+  accepted: 0
+- title: Robust Analysis and Design for Discrete-Time Nonlinear Systems subject to Actuator Saturation via Fuzzy Control
+  authors: Sanghyung Lee, Euntai Kim, Hagbae Kim and Mignon Park
+  journal: IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Sciences
+  year: 2005
+  month: Aug
+  vol: E-88-A
+  issue: 8
+  page: 2181-2190
+  description: ""
+  accepted: 0
+- title: A New Immunotronic Approach to Hardware Fault Detection Using Symbiotic Evolution
+  authors: Sanghyung Lee, Euntai Kim, Eunjoo Song and Mignon Park
+  journal: IWINAC
+  year: 2005
+  month: Jun
+  vol: Part II
+  issue: # 없음 https://scholar.google.com/scholar?cluster=12743654121417375041&hl=ko&as_sdt=0,5
+  page: 133-142
+  description: ""
+  accepted: 0
+- title: Adaptive synchronization of T-S fuzzy chaotic systems with unknown parameters
+  authors: Jae-Hun Kim, Chang-Woo Park, Euntai Kim and Mignon Park
+  journal: Chaos, Solitons and Fractals
+  year: 2005
+  month: Jun
+  vol: 24
+  issue: 5
+  page: 1353-1361
+  description: ""
+  accepted: 0
+- title: Analysis and Design of an Affine Fuzzy System via Bilinear Matrix Inequality
+  authors: Euntai Kim, Chang-Hoon Lee and Young-Wan Cho
+  journal: IEEE Transactions on Fuzzy System
+  year: 2005
+  month: Feb
+  vol: 13
+  issue: 1
+  page: 115-123
+  description: ""
+  accepted: 0
+- title: Fuzzy adaptive synchronization of uncertain chaotic systems
+  authors: Jae-Hun Kim, Chang-Woo Park, Euntai Kim and Mignon Park
+  journal: Physics Letters A
+  year: 2005
+  month: Jan
+  vol: 334
+  issue: 4
+  page: 295-305
+  description: ""
+  accepted: 0
+- title: T-S Fuzzy Model-Based Synchronization of Time-Delay Chaotic System with Input Saturation
+  authors: Jae-Hun Kim, Hyunseok Shin, Euntai Kim and Mignon Park
+  journal: IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Sciences
+  year: 2004
+  month: Dec
+  vol: E87-A
+  issue: 12
+  page: 3372-3380
+  description: ""
+  accepted: 0
+- title: Robust TSK Fuzzy Modeling Approach Using Noise Clustering Concept for Function Approximation
+  authors: Kyoungjung Kim, Kyu Min Kyung, Chang-Woo Park, Euntai Kim and Mignon Park
+  journal: International Symposium on Computational and Information Sciences (LNCS)
+  year: 2004
+  month: Dec
+  vol: 3314
+  issue: # 없음 https://link.springer.com/chapter/10.1007/978-3-540-30497-5_84
+  page: 538-543
+  description: ""
+  accepted: 0
+- title: A Lyapunov function based direct model reference adaptive fuzzy control
+  authors: Youngwan Cho, Yangsun Lee, Kwangyup Lee and Euntai Kim
+  journal: International Conference on Knowledge-Based and Intelligent Information and Engineering Systems
+  year: 2004
+  month: Dec
+  vol: 3214
+  issue: # 없음 https://link.springer.com/chapter/10.1007/978-3-540-30133-2_27
+  page: 202-210
+  description: ""
+  accepted: 0
+- title: A New Computational Approach to Stability Analysis and Synthesis of Linguistic Fuzzy Control System
+  authors: Euntai Kim
+  journal: IEEE Transactions on Fuzzy Systems
+  year: 2004
+  month: Jun
+  vol: 12
+  issue: 3
+  page: 379-388
+  description: ""
+  accepted: 0
+- title: Output Feedback Tracking Control of Robot Manipulators with Model Uncertainty via Adaptive Fuzzy Logic
+  authors: Euntai Kim
+  journal: IEEE Transactions on Fuzzy Systems
+  year: 2004
+  month: Jun
+  vol: 12
+  issue: 3
+  page: 368-378
+  description: ""
+  accepted: 0
+- title: Fuzzy Disturbance Observer Approach to Robust Tracking Control of Nonlinear Sampled Systems With the Guaranteed Suboptimal H-∞ Performance
+  authors: Euntai Kim and Changwoo Park
+  journal: IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)
+  year: 2004
+  month: Jun
+  vol: 34
+  issue: 3
+  page: 1574-1581
+  description: ""
+  accepted: 0
+- title: "Comments on 'Robust tracking enhancement of robot systems including motor dynamics: A fuzzy-based dynamic game approach'"
+  authors: Euntai Kim
+  journal: IEEE Transactions on Fuzzy Systems
+  year: 2003
+  month: Oct
+  vol: 11
+  issue: 5
+  page: 703-705
+  description: ""
+  accepted: 0
+- title: Output Feedback Tracking Control Using a Fuzzy Disturbance Observer
+  authors: Euntai Kim and Mignon Park
+  journal: IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Science
+  year: 2003
+  month: Oct
+  vol: E86-A
+  issue: 10
+  page: 2693-2699
+  description: ""
+  accepted: 0
+- title: The state feedback control based on fuzzy observer for T-S fuzzy systems with unknown time-delay
+  authors: Hyunseok Shin, Euntai Kim and Mignon Park
+  journal: IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Science
+  year: 2003
+  month: Sep
+  vol: E86-A
+  issue: 9
+  page: 2333-2339
+  description: ""
+  accepted: 0
+- title: A discrete-time fuzzy disturbance observer and its application to control
+  authors: Euntai Kim
+  journal: IEEE Transactions on Fuzzy Systems
+  year: 2003
+  month: Jun
+  vol: 11
+  issue: 3
+  page: 399-410
+  description: ""
+  accepted: 0
+- title: A state observer for a special class of MIMO nonlinear sytsems and its application to induction motor
+  authors: Sungryul Lee, Euntai Kim and Mignon Park
+  journal: IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Sciences
+  year: 2003
+  month: Apr
+  vol: E86-A
+  issue: 4
+  page: 866-873
+  description: ""
+  accepted: 0
+- title: Human face detection via characterized convex regional relationship in color images
+  authors: Chang-Woo Park, Euntai Kim and Mignon Park
+  journal: IEICE TRANSACTIONS on Information and Systems
+  year: 2003
+  month: Apr
+  vol: E86-D
+  issue: 4
+  page: 759-762
+  description: ""
+  accepted: 0
+- title: An On-line Approach to Fuzzy Modeling
+  authors: Euntai Kim and Heesung Lee
+  journal: Fuzzy Systems & A.I
+  year: 2002
+  month: # 없음 http://mss.academiaromana-is.ro/2002/2002%20paper%20-01-%20Kim.pdf
+  vol: 8
+  issue: 1-3
+  page: 5–23
+  description: ""
+  accepted: 0
+- title: "Stability analysis and synthesis for an affine fuzzy control system via LMI and ILMI: continuous case"
+  authors: Euntai Kim and Seungwoo Kim
+  journal: IEEE Transactions on Fuzzy Systems
+  year: 2002
+  month: Jun
+  vol: 10
+  issue: 3
+  page: 391-400
+  description: ""
+  accepted: 0
+- title: A fuzzy disturbance observer and its application to control
+  authors: Euntai Kim
+  journal: IEEE Transactions on Fuzzy Systems
+  year: 2002
+  month: Feb
+  vol: 10
+  issue: 1
+  page: 77-84
+  description: ""
+  accepted: 0
+- title: A new sliding mode control with fuzzy boundary layer
+  authors: Heejin Lee, Euntai Kim, Hyung-Jin Kang and Mignon Park
+  journal: Fuzzy Sets and Systems
+  year: 2001
+  month: May
+  vol: 120
+  issue: 1
+  page: 135-143
+  description: ""
+  accepted: 0
+- title: A new approach to numerical stability analysis of fuzzy control systems
+  authors: Euntai Kim
+  journal: IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)
+  year: 2001
+  month: Feb
+  vol: 31
+  issue: 1
+  page: 107-114
+  description: ""
+  accepted: 0
+- title: "Stability analysis and synthesis for an affine fuzzy system via LMI and ILMI: discrete case"
+  authors: Euntai Kim and Dongyon Kim
+  journal: IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)
+  year: 2001
+  month: Feb
+  vol: 31
+  issue: 1
+  page: 132-140
+  description: ""
+  accepted: 0
+- title: New approaches to relaxed quadratic stability condition of fuzzy control Systems
+  authors: Euntai Kim and Heejin Lee
+  journal: IEEE Transactions on Fuzzy Systems
+  year: 2000
+  month: Oct
+  vol: 8
+  issue: 5
+  page: 523-534
+  description: ""
+  accepted: 0
+- title: Limit-cycle prediction of a fuzzy control system based on describing function method
+  authors: Euntai Kim, Heejin Lee and Mignon Park
+  journal: IEEE Transactions on Fuzzy Systems
+  year: 2000
+  month: Feb
+  vol: 8
+  issue: 1
+  page: 11-22
+  description: ""
+  accepted: 0
+- title: Numerical stability analysis of fuzzy control systems via quadratic programming and linear matrix inequalities
+  authors: Euntai Kim, Hyung-Jin Kang and Mignon Park
+  journal: "IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans"
+  year: 1999
+  month: Jul
+  vol: 29
+  issue: 4
+  page: 333-346
+  description: ""
+  accepted: 0
+- title: Fuzzy control of a direct current motor system and stability analysis
+  authors: Euntai Kim, Heejin Lee and Mignon Park
+  journal: Journal of Advanced Computational Intelligence
+  year: 1999
+  month: Dec
+  vol: 3
+  issue: 6
+  page: 515-519
+  description: ""
+  accepted: 0
+- title: Moving genetic algorithm based fuzzy modeling
+  authors: Euntai Kim, Heejin Lee, Chang-Hoon Lee and Jung-Hwan Kim
+  journal: Journal of Advanced Computational Intelligence
+  year: 1999
+  month: Jan  # 홈페이지 이상 https://www.researchgate.net/publication/220065127_Moving_Genetic_Algorithm_Based_Fuzzy_Modeling
+  vol: 3
+  issue: 4
+  page: 320-325
+  description: ""
+  accepted: 0
+- title: A new approach to the identification of a fuzzy mode
+  authors: Minkee Park, Seunghwan Ji, Euntai Kim and Mignon Park
+  journal: Fuzzy Sets and Systems
+  year: 1999
+  month: Jun
+  vol: 104
+  issue: 2
+  page: 169-181
+  description: ""
+  accepted: 0
+- title: A transformed input-domain approach to fuzzy modeling
+  authors: Euntai Kim, Minkee Park, Seungwoo Kim and Mignon Park
+  journal: IEEE Transactions on Fuzzy Systems
+  year: 1998
+  month: Nov
+  vol: 6
+  issue: 4
+  page: 596-604
+  description: ""
+  accepted: 0
+- title: Design of a sliding mode controller with fuzzy sliding surfaces
+  authors: Heejin Lee, Euntai Kim, Hyung-Jin Kang and Mignon Park
+  journal: IEE Proceedings - Control Theory and Applications
+  year: 1998
+  month: Sep
+  vol: 145
+  issue: 5
+  page: 411-418
+  description: ""
+  accepted: 0
+- title: A simply-identified Sugeno-type fuzzy model via double clustering
+  authors: Euntai Kim, Heejin Lee, Minkee Park, Mignon Park
+  journal: IEE Proceedings - Control Theory and Applications
+  year: 1998
+  month: Sep
+  vol: 145
+  issue: 5
+  page: 411-418
+  description: ""
+  accepted: 0
+- title: A new approach to fuzzy modeling
+  authors: Euntai Kim, Minkee Park, Seunghwan Ji and Mignon Park
+  journal: IEEE Transactions on Fuzzy Systems
+  year: 1997
+  month: Aug
+  vol: 5
+  issue: 3
+  page: 328-337
+  description: ""
+  accepted: 0
+- title: A new fuzzy adaptive controller using the parallel structure of fuzzy controllers and its application
+  authors: Seungwoo Kim, Euntai Kim and Mignon Park
+  journal: Fuzzy sets and Systems
+  year: 1996
+  month: Jul
+  vol: 81
+  issue: 2
+  page: 205-226
+  description: ""
+  accepted: 0

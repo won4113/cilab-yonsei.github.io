@@ -1,0 +1,247 @@
+#- title: 격자 지도 생성 장치 및 방법
+#  authors: 김은태, 이성원
+#  registration_number: 10-2095842
+#  year: 2020
+#  month: 3월
+#  description: ""
+- title: 격자 지도 생성 장치 및 방법
+  authors: 김은태, 조형기, 조해민, 이성원
+  registration_number: 10-2095842
+  year: 2020
+  month: 3월
+  description: ""
+  
+- title: 오브젝트 검출 장치 및 방법
+  authors: 김은태, 백정현
+  registration_number: 10-2001586
+  year: 2019
+  month: 7월
+  description: "" 
+- title: 파티클 간에 지도를 공유하는 이동체의 위치 추정 및 지도 작성 방법 및 장치
+  authors: 김은태, 조형기, 조해민
+  registration_number: 10-1965296
+  year: 2019
+  month: 3월
+  description: ""  
+
+- title: 깊이 영상에서 카메라 모델 및 필터를 이용한 도로 검출 방법 및 장치
+  authors: 김은태, 백정현, 김지수, 현준혁, 이수현
+  registration_number: 10-1911860
+  year: 2018
+  month: 10월
+  description: ""
+- title: Appratus And Method For Extracting Feature Point For Recognizing Obstacle Using Laser Scanner
+  authors: 김은태, 김지수, 백정현
+  registration_number: US9958260
+  year: 2018
+  month: 5월
+  description: ""
+- title: 도로 경계 검출 시스템 및 방법과 이를 이용한 차량
+  authors: 김은태, 안종현, 최배훈 ## 20200729: 안종현, 최배훈 추가 (ysis2.yonsei.ac.kr 참고)
+  registration_number: 10-1847838
+  year: 2018
+  month: 4월
+  description: ""
+- title: 도로 경계 검출 시스템 및 방법과 이를 이용한 차량 ## 이름이 위와 같음
+  authors: 김은태, 김범성 ## 20200729: 김범성 추가 (ysis2.yonsei.ac.kr 참고)
+  registration_number: 10-1847836
+  year: 2018
+  month: 4월
+  description: ""
+- title: Appratus And Method For Object Detection Based on Dominant Pixel Information
+  authors: 김은태, 백정현, 김지수
+  registration_number: US9928599
+  year: 2018
+  month: 3월
+  description: ""
+
+- title: System And Method For Writing Occupancy Grid Map Of Sensor Centered Coordinate System Using Laser Scanner
+  authors: 김은태, 최배훈, 김범성, 안종현, 김영원, 김현주, 장형선, 이훈, 박성근, 유민균
+  registration_number: US9827994
+  year: 2017
+  month: 11월
+  description: ""  
+- title: Apparatus And Method For Recognizing Obstacle Using Laser Scanner
+  authors: 김은태, 최배훈, 김범성, 장형선, 김영원, 이훈, 김현주, 유민균
+  registration_number: US9810787
+  year: 2017
+  month: 11월
+  description: ""  
+- title: 3차원 영상 생성 방법 및 장치
+  authors: 김은태, 조성진, 조형기, 조해민
+  registration_number: 10-1748674
+  year: 2017
+  month: 6월
+  description: ""  
+- title: 도로 영역 추출 장치 및 방법
+  authors: 김은태, 백정현, 김지수, 현준혁
+  registration_number: 10-1748675
+  year: 2017
+  month: 6월
+  description: ""  
+- title: Robot Cleaner And Method For Controlling The Same
+  authors: 김은태, 백정현, 신용민
+  registration_number: 10-2014-0072838 (US9,582,711, EP2957206)
+  year: 2017
+  month: 6월
+  description: ""  
+- title: 레이저스캐너를 이용한 센서중심 좌표계의 점유 격자지도를 작성하는 시스템
+  authors: 김은태, 김범성, 최배훈, 안종현, 김영원, 김현주, 장형선, 이훈, 박성근, 유민균
+  registration_number: 10-1734654
+  year: 2017
+  month: 5월
+  description: ""  
+- title: 장애물 인지 시스템 및 그 방법
+  authors: 김은태
+  registration_number: 10-1704139
+  year: 2017
+  month: 2월
+  description: ""  
+- title: 주행 차량에서 촬영된 영상에서의 차량 정보 검출 장치 및 그 방법
+  authors: 김은태, 김지수, 조민호
+  registration_number: 10-1694837
+  year: 2017
+  month: 1월
+  description: ""  
+
+- title: 레이저 스캐너를 이용하여 장애물을 인식하기 위한 특징점 추출 장치 및 방법
+  authors: 김은태, 김범성, 최배훈
+  registration_number: 10-1550972
+  year: 2015
+  month: 9월
+  description: ""  
+- title: 주요 픽셀 정보에 기반한 물체 검출 장치 및 그 방법
+  authors: 김은태, 김지수, 백정현
+  registration_number: 10-1556598
+  year: 2015
+  month: 9월
+  description: ""  
+- title: 도로의 젖은 영역 검출 장치 및 그 방법
+  authors: 김은태, 김지수, 백정현
+  registration_number: 10-1556602 
+  year: 2015
+  month: 9월
+  description: ""  
+- title: 에지 방향성분의 히스토그램에 기반하여, 자동차 검출에 적합한 특징 추출 방법
+  authors: 김은태, 김지수, 백정현
+  registration_number: 10-1527885
+  year: 2015
+  month: 6월
+  description: ""  
+- title: 스테레오 영상을 이용한 도로 물웅덩이 검출 장치 및 그 방법
+  authors: 김은태, 김지수, 백정현, 최혁두
+  registration_number: 10-1527886
+  year: 2015
+  month: 6월
+  description: ""  
+- title: 레이저 스캐너를 이용한 장애물 인식 장치 및 방법
+  authors: 김은태, 김범성, 최배훈
+  registration_number: 10-1491314
+  year: 2015
+  month: 2월
+  description: ""  
+
+- title: 이동 로봇의 전역위치인식 및 지도 업데이트 장치 및 방
+  authors: 김은태, 최혁두
+  registration_number: 10-1468545
+  year: 2014
+  month: 11월
+  description: ""  
+
+- title: SLAM 기술 기반 이동 로봇의 지도를 관리하기 위한 장치 및 그 방법
+  authors: 김은태, 최혁두
+  registration_number: 10-1280392
+  year: 2013
+  month: 6월
+  description: ""  
+
+- title: 이동 로봇의 위치 및 지도의 이중 보정 장치 및 방법
+  authors: 김은태, 최혁두, 김동엽, 황재필, 김영욱
+  registration_number: 10-1167627
+  year: 2012
+  month: 7월
+  description: ""  
+- title: 객체 인식 시스템과 그 방법, 및 상기 방법을 구현하는 프로그램이 기록된 기록매체
+  authors: 김은태, 홍성준, 이희성
+  registration_number: 10-1152721
+  year: 2012
+  month: 5월
+  description: ""  
+- title: 무선 센서 네트워크에서의 센서의 위치 추정 방법 및 이를 구현하기 위한 프로그램을 기록한 기록매체와 센서 위치 추정 장치
+  authors: 김은태, 이제헌
+  registration_number: 10-1136041
+  year: 2012
+  month: 4월
+  description: ""  
+- title: 자차 주변의 물체의 종류를 파악하기 위한 물체종류식별 방법 및 그 시스템
+  authors: 김은태, 박성근, 이희진, 정호기
+  registration_number: 10-1128161
+  year: 2012
+  month: 3월
+  description: ""  
+
+- title: 이동 로봇에서 자신의 위치를 추정하기 위한 방법 및 장치
+  authors: 김은태, 김동엽, 황재필
+  registration_number: 10-1072876
+  year: 2011
+  month: 10월
+  description: ""  
+- title: 걸음걸이 인식을 위한 가방제거 방법 및 시스템
+  authors: 김은태, 김재희
+  registration_number: 10-1029828
+  year: 2011
+  month: 4월
+  description: ""  
+
+- title: 물체의 위치 추적 장치 및 방법
+  authors: 김은태, 박성근, 황재필
+  registration_number: 10-963795
+  year: 2010
+  month: 6월
+  description: ""  
+- title: 스테레오 카메라 영상으로부터의 지면 추출 방법과 장치 및 이와 같은 방법을 구현하는 프로그램이 기록된 기록매체
+  authors: 김은태, 황재필
+  registration_number: 10-962329
+  year: 2010
+  month: 6월
+  description: ""  
+
+- title: 적분 히스토그램을 이용한 자동차 탐지 방법 및 시스템"
+  authors: 김은태, 황재필
+  registration_number: 10-867937
+  year: 2008
+  month: 11월
+  description: ""  
+- title: 비디오 영상에서 확률적 접근법을 이용한 생체인식방법
+  authors: 김은태, 오경세
+  registration_number: 10-852630
+  year: 2008
+  month: 8월
+  description: ""  
+- title: 걸음걸이를 이용한 생체 인식 방법
+  authors: 김은태, 홍성준
+  registration_number: 10-824757 ##20200729: 10824757에서 변경
+  year: 2008
+  month: 4월
+  description: ""  
+
+- title: 상황 인식 방법 및 이를 구현하기 위한 프로그램을 기록한 기록매체
+  authors: 김은태, 이제헌, 김승우
+  registration_number: 10-0757089
+  year: 2007
+  month: 9월
+  description: ""  
+- title: 확률적인 접근방법을 적용한 영상 감시 시스템 및 방법
+  authors: 김은태, 이희성, 오경세, 홍성준
+  registration_number: 10-0744158
+  year: 2007
+  month: 7월
+  description: ""  
+
+- title: 무선 통신 시스템 및 퍼지 알고리즘을 이용한 소의 원거리 진단
+  authors: 김은태, 이희진, 김동연
+  registration_number: 10-0313272
+  year: 2001
+  month: 10월
+  description: ""  
+

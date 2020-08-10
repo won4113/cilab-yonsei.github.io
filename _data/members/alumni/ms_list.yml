@@ -1,0 +1,305 @@
+#- name: HyungGi Jo
+#  photo: hygijo.jpg
+#  info: PhD Student
+#  email: HyungGi Jo@yonsei.ac.kr
+#  affiliation: KETI
+#  cv:
+#    url:
+#    exist: 0
+
+- name: Jung Ho Joo
+  photo: bio-photo.jpg
+  info: Master Student
+  email:
+  affiliation: Samsung Electronics Company
+  cv:
+    url:
+    exist: 0
+
+- name: Sung-il Jung
+  photo: bio-photo.jpg
+  info: Master Student
+  email:
+  affiliation: Samsung Electronics Company
+  cv:
+    url:
+    exist: 0
+
+- name: Sung Ha Lee
+  photo: bio-photo.jpg
+  info: Master Student
+  email:
+  affiliation: Hyundai Motors Company
+  cv:
+    url:
+    exist: 0
+
+- name: Sang-Kyu Park
+  photo: bio-photo.jpg
+  info: Master Student
+  email:
+  affiliation: Hyundai Motors Company
+  cv:
+    url:
+    exist: 0
+
+- name: Kyong Sae Oh
+  photo: Kyong Sae Oh.jpg
+  info: Master Student
+  email:
+  affiliation: Samsung Electronics Company
+  cv:
+    url:
+    exist: 0
+
+- name: Woo Min Jeong
+  photo: bio-photo.jpg
+  info: Master Student
+  email:
+  affiliation: Samsung Electronics Company
+  cv:
+    url:
+    exist: 0
+
+- name: Seungyong Oh
+  photo: bio-photo.jpg
+  info: Master Student
+  email:
+  affiliation: Samsung Electronics Company
+  cv:
+    url:
+    exist: 0
+
+- name: Kyung Jin Ryu
+  photo: bio-photo.jpg
+  info: Master Student
+  email:
+  affiliation: Hyundai Mobis
+  cv:
+    url:
+    exist: 0
+
+- name: Suk Hyun Yun
+  photo: Suk Hyun Yun.jpg
+  info: Master Student
+  email:
+  affiliation: Republic of Korea Navy
+  cv:
+    url:
+    exist: 0
+
+- name: Joongeon Park
+  photo: bio-photo.jpg
+  info: Master Student
+  email:
+  affiliation: LG Electronics
+  cv:
+    url:
+    exist: 0
+
+- name: Imran Fareed Nizami
+  photo: bio-photo.jpg
+  info: Master Student
+  email:
+  affiliation: Senior Assistant Professor, Bahria University Islamabad
+  cv:
+    url:
+    exist: 0
+
+- name: Jungmin Yoo
+  photo: bio-photo.jpg
+  info: Master Student
+  email:
+  affiliation: Puloon Technology Inc.
+  cv:
+    url:
+    exist: 0
+
+- name: Sungje An
+  photo: Sungje An.jpg
+  info: Master Student
+  email:
+  affiliation: Kia Motors
+  cv:
+    url:
+    exist: 0
+
+- name: Daeyeol Yang
+  photo: Daeyeol Yang.jpg
+  info: Master Student
+  email:
+  affiliation: Hyundai Mobis
+  cv:
+    url:
+    exist: 0
+
+- name: Dong Yeop Kim
+  photo: Dong Yeop Kim.jpg
+  info: Master Student
+  email:
+  affiliation: Korea Electronics Technology Institute (KETI)
+  cv:
+    url:
+    exist: 0
+
+- name: Sang Hun Jang
+  photo: Sang Hun Jang.jpg
+  info: Master Student
+  email:
+  affiliation: Republic of Korea Air Force
+  cv:
+    url:
+    exist: 0
+
+- name: Byung Woon Jang
+  photo: Byung Woon Jang.jpg
+  info: Master Student
+  email:
+  affiliation: LS Industrial System Co., LTD.
+  cv:
+    url:
+    exist: 0
+
+- name: Hwa Dong Sun
+  photo: Hwa Dong Sun.jpg
+  info: Master Student
+  email:
+  affiliation: Technical University Munich
+  cv:
+    url:
+    exist: 0
+
+- name: Byungyun Lee
+  photo: Byungyun Lee.jpg
+  info: Master Student
+  email:
+  affiliation: LG Electronics
+  cv:
+    url:
+    exist: 0
+
+- name: Jung Hoon Kim
+  photo: Jung Hoon Kim.jpg
+  info: Master Student
+  email:
+  affiliation: Korea Institute of Robot and Convergence(KIRO)
+  cv:
+    url:
+    exist: 0
+
+- name: Byung Ki Chae
+  photo: Byung Ki Chae.jpg
+  info: Master Student
+  email:
+  affiliation: LG Electronics
+  cv:
+    url:
+    exist: 0
+
+- name: Junho Moon
+  photo: Junho Moon.jpg
+  info: Master Student
+  email:
+  affiliation: LG Electronics
+  cv:
+    url:
+    exist: 0
+
+- name: Ryun Seok Kim
+  photo: Ryun Seok Kim.jpg
+  info: Master Student
+  email:
+  affiliation: Nexstreaming
+  cv:
+    url:
+    exist: 0
+
+- name: Dong Hoon Cha
+  photo: Dong Hoon Cha.jpg
+  info: Master Student
+  email:
+  affiliation: LG Electronics
+  cv:
+    url:
+    exist: 0
+
+- name: Insoo Kim
+  photo: Insoo Kim.jpg
+  info: Master Student
+  email:
+  affiliation: Korea Electronics Technology Institute (KETI)
+  cv:
+    url:
+    exist: 0
+
+- name: Choonghyun Son
+  photo: Choonghyun Son.jpg
+  info: Master Student
+  email:
+  affiliation: Ph.D Student, Yonsei University
+  cv:
+    url:
+    exist: 0
+
+- name: Yeonsub Jin
+  photo: Yeonsub Jin.jpg
+  info: Master Student
+  email:
+  affiliation: Korea Institute of Science and Technology (KIST)
+  cv:
+    url:
+    exist: 0
+
+- name: TaeYoung Choi
+  photo: TaeYoung Choi.jpg
+  info: Master Student
+  email:
+  affiliation: LG Electronics
+  cv:
+    url:
+    exist: 0
+
+- name: Heo Won Ho
+  photo: Heo Won Ho.jpg
+  info: Master Student
+  email:
+  affiliation: Korea Institute of Industrial Technology (KITECH)
+  cv:
+    url:
+    exist: 0
+
+- name: Yongkang Kong
+  photo: Yongkang Kong.jpg
+  info: Master Student
+  email:
+  affiliation: Samsung Electronics
+  cv:
+    url:
+    exist: 0
+
+- name: Kwanghyun Kim
+  photo: Kwanghyun Kim.jpg
+  info: Master Student
+  email:
+  affiliation: Republic of Korea Navy
+  cv:
+    url:
+    exist: 0
+
+- name: Hyunbae Chang
+  photo: Hyunbae Chang.jpg
+  info: Master Student
+  email: chang0977@yonsei.ac.kr
+  affiliation:
+  cv:
+    url:
+    exist: 0
+
+- name: Gibae Park
+  photo: Gibae Park.jpg
+  info: Master Student
+  email: wgpark111@naver.com
+  affiliation:
+  cv:
+    url:
+    exist: 0

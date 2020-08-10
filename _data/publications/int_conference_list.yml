@@ -1,0 +1,1127 @@
+#- title:
+#  authors:
+#  Conference:
+#  year:
+#  month:
+#  venue: 
+#  description:
+
+- title: "3D-DEEP: 3-Dimensional Deep-Learning Based on Elevation Patterns for Road Scene Interpretation"
+  authors:
+    A. H. Saz, Suhan Woo, H. C. Schez, I. P. Alonso, Euntai Kim, D. F. Llorca and M. A. Sotelo  #저자 모름
+  conference: Proc. of the IEEE Intelligent Vehicle Symposium (IV 2020)
+  year: 2020
+  month: October
+  venue: Las Vegas, United States
+  description: ""
+- title: Kernelized Memory Network for Video Object Segmentation
+  authors:
+    Hongje Seong, Junhyuk Hyun and Euntai Kim
+  conference: Proc. of the European Conference on Computer Vision (ECCV 2020)
+  year: 2020
+  month: August
+  venue: Glasgow, Scotland
+  description: ""
+- title: Is Whole Object Information Helpful for Scene Recognition?
+  authors:
+    Hongje Seong, Junhyuk Hyun and Euntai Kim
+  conference: Proc. of the 17th International Conference on Ubiquitous Robots (UR 2020)
+  year: 2020
+  month: June
+  venue: Kyoto, Japan
+  description: ""
+- title: A Kernel-based Approach for Video Object Segmentation
+  authors:
+    Hongje Seong, Junhyuk Hyun and Euntai Kim
+  conference: The 2020 DAVIS Challenge on Video Object Segmentation (DAVIS'20, CVPR Workshop)
+  year: 2020
+  month: June
+  venue: Seattle, United States
+  description: ""
+
+
+  #2019
+- title: Normal Distribution Mixture Matching based Model Free Object Tracking Using 2D LIDAR
+  authors:
+    Baehoon Choi, Hyung Gi Jo and Euntai Kim
+  conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)
+  year: 2019
+  month: November
+  venue: Macau, China
+  description: ""
+- title: Video Multitask Transformer Network
+  authors:
+    Hongje Seong, Junhyuk Hyun and Euntai Kim
+  conference: "The 2nd Workshop and Challenge on Comprehensive Video Understanding in the Wild (CoVieW’19, ICCV Workshop)"
+  year: 2019
+  month: October
+  venue: Seoul, Korea
+  description: ""
+- title: Partial Convolution for Scene Recognition
+  authors:
+    Hongje Seong, Junhyuk Hyun and Euntai Kim
+  conference: Proc. of the 19th International Conference on Control, Automation and Systems (ICCAS 2019)
+  year: 2019
+  month: October
+  venue: Jeju, Korea
+  description: ""
+- title: "Scene Recognition via Object-to-Scene Class Conversion: End-to-End Training"
+  authors:
+    Hongje Seong, Junhyuk Hyun, Hyunbae Chang, Suhyeon Lee, Suhan Woo and Euntai Kim 
+  conference: Proc. of The International Joint Conference on Neural Networks (IJCNN 2019)
+  year: 2019
+  month: July
+  venue: Budapest, Hungary
+  description: ""
+- title: Odometry Estimation CNN Using Sparse LiDAR Data
+  authors:
+    Hae Min Cho, HyungGi Jo, Seongwon Lee and Euntai Kim
+  conference: Proc. of the 16th International Conference on Ubiquitous Robots (UR 2019)
+  year: 2019
+  month: June
+  venue: Jeju, Korea
+  description: ""
+- title: Visual Loop Closure Detection over Illumination Change
+  authors:
+    Seongwon Lee, HyungGi Jo, Hae Min Cho and Euntai Kim
+  conference: Proc. of the 16th International Conference on Ubiquitous Robots (UR 2019)
+  year: 2019
+  month: June
+  venue: Jeju, Korea
+  description: ""
+
+
+  #2018
+- title: Robust Object Detection and Tracking for Autonomous Driving
+  authors:
+    Suhyeon Lee, Junhyuk Hyun and Euntai Kim
+  conference: Proc. of 2018 International Conference on Fuzzy Theory and Its Applications (iFuzzy2018)
+  year: 2018
+  month: November
+  venue: Daegu, Korea
+  description: ""
+- title: Weakly Supervised Temporal Localization in Video Scene Recognition
+  authors:
+    Junhyuk Hyun, Hongje Seong, Suhyeon Lee, Suhan Woo and Euntai Kim
+  conference: Proc. of the 18th International Conference on Control, Automation and Systems (ICCAS 2018)
+  year: 2018
+  month: October
+  venue: GangWon, Korea
+  description: ""
+- title: Large Scale Representation of Volumetric Fusion using ICP
+  authors:
+    HyungGi Cho, Hae Min Cho, Seongwon Lee and Euntai Kim
+  conference: Proc. of the 18th International Conference on Control, Automation and Systems (ICCAS 2018)
+  year: 2018
+  month: October
+  venue: GangWon, Korea
+  description: ""
+- title: Object Classification of Laser Scanner by Using Recurrent Neural Network
+  authors:
+    Minho Cho, Jhonghyun An, Wonje Jang, Euntai Kim
+  conference: Proc. of the IEEE TENCON 2018
+  year: 2018
+  month: October
+  venue: Jeju, Korea
+  description: ""
+- title: New Feature-level Video Classification via Temporal Attention Model
+  authors:
+    Hongje Seong, Junhyuk Hyun, Suhyeon Lee, Suhan Woo, Hyunbae Chang and Euntai Kim
+  conference: "The 1st Workshop and Challenge on Comprehensive Video Understanding in the Wild (CoVieW’18, ACM MM Workshop)"
+  year: 2018
+  month: October
+  venue: Seoul, Korea
+  description: ""
+- title: Road Lane Semantic Segmentation for High Definition Map
+  authors:
+    Wonje Jang, Jhonghyun An, Sangyun Lee, Minho Cho, Myungki Sun and Euntai Kim
+  conference: Proc. of the IEEE Intelligent Vehicle Symposium (IV 2018)
+  year: 2018
+  month: June
+  venue: Changshu, China
+  description: ""
+- title: Robust Visual Loop Closure Detection with Repetitive Features
+  authors:
+    Seongwon Lee, HyungGi Jo, Hae Min Cho and Euntai Kim
+  conference: Proc. of the 15th International Conference on Ubiquitous Robots (UR 2018)
+  year: 2018
+  month: June
+  venue: Hawaii, United States
+  description: ""
+- title: "Robust 6-DOF Localization Using Sensor Fusion System in Indoor-Outdoor Environments"
+  authors:
+    HyungGi Cho, Hae Min Cho, Seongwon Lee and Euntai Kim
+  conference: Proc. of the 15th International Conference on Ubiquitous Robots (UR 2018)
+  year: 2018
+  month: June
+  venue: Hawaii, United States
+  description: ""
+
+
+  #2017
+- title: Real Time Road Lane Detection for Outdoor Autonomous Navigation of Mobile Robot
+  authors:
+    Wonje Jang, Jhonghyun An, Minho Cho and Euntai Kim
+  conference: The 1st Workshop and Challenge on Comprehensive Video Understanding in the Wild (ICCAS 2017)
+  year: 2017
+  month: October
+  venue: Jeju, Korea
+  description: ""
+- title: Empty Area Search on Occupancy Grid Map for Mobile Robot Navigation
+  authors:
+    Seongwon Lee, HyungGi Jo, Hae Min Cho and Euntai Kim
+  conference: Proc. of the 18th International Symposium on Advanced Intelligent Systems (ISIS 2017)
+  year: 2017
+  month: October
+  venue: Daegu, Korea
+  description: ""
+- title: Real-Time Tracking-by-Detection using Deep Learning for Mobile Vision Applications
+  authors:
+    S. Lee, S. Hong and Euntai Kim #저자 모름
+  conference: Proc. of the 18th International Symposium on Advanced Intelligent Systems (ISIS 2017)
+  year: 2017
+  month: October
+  venue: Daegu, Korea
+  description: ""
+- title: Multi-Resolution Point Cloud Generation Based on Heterogeneous Sensor Fusion System
+  authors:
+    HyungGi Cho, Hae Min Cho, Seongwon Lee and Euntai Kim
+  conference: Proc. of the 2017 14th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2017)
+  year: 2017
+  month: June
+  venue: Jeju, Korea
+  description: ""
+
+  #2016
+- title: Fast Vehicle Detection using Cascade Classifier
+  authors:
+    Jeonghyun Baek, Jisu Kim and Euntai Kim # Jisu Kim이 맞는지?
+  conference: Proc. of 2016 International Conference on Fuzzy Theory and Its Applications (iFuzzy2016)
+  year: 2016
+  month: November
+  venue: Taichung, Taiwan
+  description: ""
+- title: Efficient 3D Mapping with RGB-D Camera Based on Distance Dependent Update
+  authors:
+    HyungGi Jo, Sungjin Jo, Hae Min Cho and Euntai Kim
+  conference: Proc. of the 2016 16th International Conference on Control, Automation and Systems (ICCAS 2016)
+  year: 2016
+  month: October
+  venue: Gyeongju, Korea
+  description: ""
+- title: Histogram-model based Road Boundary Estimation by using Laser Scanner
+  authors:
+    Minho Cho, Jhonghyun An, Wonje Jang and Euntai Kim
+  conference: Proc. of the 2016 16th International Conference on Control, Automation and Systems (ICCAS 2016)
+  year: 2016
+  month: October
+  venue: Gyeongju, Korea
+  description: ""
+- title: Application of Soft Histogram of Oriented Gradient on Traffic Sign Detection
+  authors:
+    Peyman Hosseinzadeh Kassani, Junhyuk Hyun and Euntai Kim
+  conference: Proc. of the 2017 14th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2017)
+  year: 2017
+  month: June
+  venue: Jeju, Korea
+  description: ""
+- title: A novel rear-end collision warning system using neural network ensemble
+  authors:
+    Jhonghyun An, Baehoon Choi, Taehun Hwang and Euntai Kim
+  conference: Proc. of IEEE Intelligent Vehicle Symposium (IV2016)
+  year: 2016
+  month: June
+  venue: Gothenburg, Sweden
+  description: ""
+- title: Getting Higher Performance Using a Two-Layer Extreme Learning Machine
+  authors:
+    Junhyuk Hyun, Jeonghyun Baek, Jisu Kim, Peyman Hosseinzadeh Kassani and Euntai Kim
+  conference: Proc. of the 2016 International Workshop on Advanced Image Technology (IWAIT 2016)
+  year: 2016
+  month: January
+  venue: Busan, Korea
+  description: ""
+
+
+   #2015
+- title: Novel Intersection Recognition Approach for Advanced Driver Assistance System Using Multi-Layer Laser Scanner
+  authors:
+    Jhonghyun An, Baehoon Choi, Kwee-Bo Sim and Euntai Kim
+  conference: Proc. of the 16th Intelligent Systems and 15th International Symposium on Advanced Intelligent Systems(ISIS 2015)
+  year: 2015
+  month: November
+  venue: Mokpo, Korea
+  description: ""
+- title: Road Boundary Estimation by using Laser Scanner
+  authors:
+    Minho Cho, Baehoon Choi, Jonghyun An and Euntai Kim
+  conference: Proc. of 2015 International Conference on Fuzzy Theory and Its Applications (iFuzzy2015)
+  year: 2015
+  month: November
+  venue: Yilan, Taiwan
+  description: ""
+- title: A Simple Extrinsic Calibration Method of Color and Depth Camera
+  authors:
+    Hae Min Cho, Sungjin Jo, HyungGi Jo and E. Kim #성진이형이 맞는지?
+  conference: Proc. of 2015 International Conference on Fuzzy Theory and Its Applications (iFuzzy2015)
+  year: 2015
+  month: November
+  venue: Yilan, Taiwan
+  description: ""
+- title: WiFi-based Indoor Localization Using a Continuous Space Estimator From Topological Information
+  authors:
+    Noelia Hernandez, Manuel Ocana, Jose M. Alonso and Euntai Kim
+  conference: Proc. of the 2015 Indoor Positioning and Indoor Navigation (IPIN 2015)
+  year: 2015
+  month: October
+  venue: Banff, Alberta, Canada
+  description: ""
+- title: Proposing a GPU Based Modified Fuzzy Nearest Neighbor Rule for Traffic Sign Detection
+  authors:
+    Peyman Hosseinzadeh Kassani, Junhyuk Hyun and Euntai Kim
+  conference: Proc. of the 2015 15th International Conference on Control, Automation and Systems (ICCAS 2015)
+  year: 2015
+  month: October
+  venue: Busan, Korea
+  description: ""
+- title: Vehicle detection and classification in the Scala sensor by using binary classification
+  authors:
+    Junhyuk Hyun, Jeonghyun Baek, Jisu Kim, Peyman Hosseinzadeh Kassani and Euntai Kim
+  conference: Proc. of the 2015 15th International Conference on Control, Automation and Systems (ICCAS 2015)
+  year: 2015
+  month: October
+  venue: Busan, Korea
+  description: ""
+- title: 3D Proposing a Fast Circular HOG Descriptor for Detecting Rotated Objects
+  authors:
+    Junhyuk Hyun, Jeonghyun Baek, Jisu Kim, Peyman Hosseinzajeh Kassani and Euntai Kim
+  conference: Proc. of The 2015 International Joint Conference on Neural Networks (IJCNN 2015)
+  year: 2015
+  month: July
+  venue: Killarney, Ireland
+  description: ""
+- title: New efficient speed-up scheme for cascade implementation of SVM classifier
+  authors:
+    Jeonghyun Baek, Jisu Kim, Junhyuk Hyun and Euntai Kim
+  conference: Proc. of The 2015 International Joint Conference on Neural Networks (IJCNN 2015)
+  year: 2015
+  month: July
+  venue: Killarney, Ireland
+  description: ""
+- title: Pose Estimation and 3D Environment Reconstruction using less Reliable Depth Data
+  authors:
+    Sungjin Jo, HyungGi Jo, Hae Min Cho and Euntai Kim
+  conference: Proc. of The 2015 IEEE/ASME International Conference on Advanced Intelligent Mechatronic (AIM 2015)
+  year: 2015
+  month: July
+  venue: Busan, Korea
+  description: ""
+- title: Head-Shoulder Detection using Cascade form of SVM
+  authors:
+    Jeonghyun Baek, Jisu Kim and Euntai Kim
+  conference: Proc. of The 30th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2015)
+  year: 2015
+  month: July
+  venue: Seoul, Korea
+  description: ""
+
+  
+   #2014
+- title: 3D FastSLAM Algorithm with Kinect Sensor
+  authors:
+    HyungGi Jo, Sungjin Jo, Sewoong Jun, Changyong Yoon and Euntai Kim
+  conference: Proc. of Joint 7th International Conference on Soft Computing and Intelligent Systems and 15th International Symposium on Advanced Intelligent Systems (SCIS&ISIS 2014)
+  year: 2014
+  month: December
+  venue: Kitakyushu, Japan
+  description: ""
+- title: Rear-end Collision Warning System Using Linear Discriminant Analysis
+  authors:
+    Jhonghyun An, Baehoon Choi, Beomseong Kim, Jaeho Hwang and Euntai Kim
+  conference: Proc. of Joint 7th International Conference on Soft Computing and Intelligent Systems and 15th International Symposium on Advanced Intelligent Systems (SCIS&ISIS 2014)
+  year: 2014
+  month: December
+  venue: Kitakyushu, Japan
+  description: ""
+- title: WiFi-based indoor localization and tracking of a moving device
+  authors:
+    Noelia Hernandez, Manuel Ocana, Jose M. Alonso and Euntai Kim
+  conference: Proc. of Ubiquitous Positioning, Indoor Navigation and Location-Based Services (UPINLBS 2014)
+  year: 2014
+  month: November
+  venue: Corpus Christ, TX, United States
+  description: ""
+- title: Multimodel approach for pedestrian detection
+  authors:
+    Junhyuk Hyun, Jeonghyun Baek, Jisu Kim, Peyman Hosseinzajeh Kassani and Euntai Kim
+  conference: Proc. of 2014 International Conference on Fuzzy Theory and Its Applications (iFuzzy2014)
+  year: 2014
+  month: November
+  venue: Kaohsiung, Taiwan
+  description: ""
+- title: Part-based Face Detection using SLBP
+  authors:
+    Jeonghyun Baek, Jisu Kim and Euntai Kim
+  conference: Proc. of 14th International Conference on Control, Automation and System (ICCAS 2014)
+  year: 2014
+  month: October
+  venue: Gyeonggi-do, Korea
+  description: ""
+- title: Efficient face recognition based on GAP feature
+  authors:
+    Jisu Kim, Jeonghyun Baek and Euntai Kim
+  conference: Proc. of 14th International Conference on Control, Automation and System (ICCAS 2014)
+  year: 2014
+  month: October
+  venue: Gyeonggi-do, Korea
+  description: ""
+- title: On-road precise vehicle detection system using ROI estimation
+  authors:
+    Jisu Kim, Jeonghyun Baek and Euntai Kim
+  conference: Proc. of 17th International IEEE Conference on Intelligent Transportation Systems (ITSC 2014)
+  year: 2014
+  month: October
+  venue: Qingdao, China
+  description: ""
+
+
+    #2013
+- title: A part-based rotational invariant hand detection
+  authors:
+    Jisu Kim, Jeonghyun Baek and Euntai Kim
+  conference: Proc. of 2013 International Conference on Fuzzy Theory and Its Applications (iFuzzy 2013)
+  year: 2013
+  month: December
+  venue: Taipei, Taiwan
+  description: ""
+- title: Intervehicular Sensor Fusion for Situation Awareness
+  authors:
+    Baehoon Choi, Jhonghyen An, Beomseong Kim and Euntai Kim
+  conference: Proc. of The 3rd IFAC Symposium on Telematics Applications (TA 2013)
+  year: 2013
+  month: November
+  venue: seoul, Korea
+  description: ""
+- title: A Ceiling Environment Discrimination based on Ceiling Segmentation
+  authors:
+    S. Jo, C.Yoon and Euntai Kim #저자 모름
+  conference: Proc. of The 14th International Symposium on Advanced Intelligent Systems (ISIS 2013)
+  year: 2013
+  month: November
+  venue: Daejeon, Korea
+  description: ""
+- title: Vision-based Wet Area Detection Using EM
+  authors:
+    Jeonghyun Baek, Jisu Kim, C.Yoon and Euntai Kim #저자 모름
+  conference: Proc. of The 14th International Symposium on Advanced Intelligent Systems (ISIS 2013)
+  year: 2013
+  month: November
+  venue: Daejeon, Korea
+  description: ""
+- title: Particle Recovery of FastSLAM form Tracking Failure for Autonomous Vehicles
+  authors:
+    Hyuk Doo Choi and Euntai Kim
+  conference: Proc. of The 14th International Symposium on Advanced Intelligent Systems (ISIS 2013)
+  year: 2013
+  month: November
+  venue: Daejeon, Korea
+  description: ""
+- title: Grid Mapping Adaptive to Various Map Sizes for Sbot
+  authors:
+    HyungGi Jo, Hyukdoo Choi, Sungjin Jo and Euntai Kim
+  conference: Proc. of 2013 13th International Conference on Control, Automation and Systems (ICCAS 2013)
+  year: 2013
+  month: October
+  venue: Gwangju, Korea
+  description: ""
+- title: Comparison Study of different Feature Classifiers for Hand Posture Classification
+  authors:
+    Jeonghyun Baek, Jisu Kim and Euntai Kim
+  conference: Proc. of 2013 13th International Conference on Control, Automation and Systems (ICCAS 2013)
+  year: 2013
+  month: October
+  venue: Gwangju, Korea
+  description: ""
+- title: On-road vehicle detection based on effective hypothesis generation
+  authors:
+    Jisu Kim, Jeonghyun Baek, Dong Yeop Kim and Euntai Kim
+  conference: Proc. of 2013 22nd IEEE InternationalSymposium on Robot and Human Interactive Communication (RO-MAN 2013)
+  year: 2013
+  month: August
+  venue: Gyeongju, Korea
+  description: ""
+
+  
+    #2012
+- title: A new target recognition scheme using 24GHz microwave RADAR
+  authors:
+    Baehoon Choi, Beomseong Kim, Heejin Lee, KwangWoong Yang and Euntai Kim
+  conference: Proc. of 2012 International Conference on Fuzzy Theory and Its Applications (iFuzzy 2012)
+  year: 2012
+  month: November
+  venue: Taichung, Taiwan
+  description: ""
+- title: CV-SLAM using line and point features
+  authors:
+    Hyukdoo Choi, Sungjin Jo and Euntai Kim
+  conference: Proc. of 2012 12th International Conference on Control, Automation and Systems (ICCAS 2012)
+  year: 2012
+  month: October
+  venue: Jeju, Korea
+  description: ""
+- title: Ceiling vision based SLAM approach using sensor fusion of sonar sensor and monocular camera
+  authors:
+    Sungjin Jo, Hyukdoo Choi and Euntai Kim
+  conference: Proc. of 2012 12th International Conference on Control, Automation and Systems (ICCAS 2012)
+  year: 2012
+  month: October
+  venue: Jeju, Korea
+  description: ""
+- title: Indoor localization using laser scanner and vision marker for intelligent robot
+  authors:
+    Beomseong Kim, Baehoon Choi, Euntai Kim and KwangWoong Yang
+  conference: Proc. of 2012 12th International Conference on Control, Automation and Systems (ICCAS 2012)
+  year: 2012
+  month: October
+  venue: Jeju, Korea
+  description: ""
+- title: A modified dynamic window approach in crowded indoor environment for intelligent transport robot
+  authors:
+    Baehoon Choi, Beomseong Kim, Euntai Kim and Kwang Woong Yang
+  conference: Proc. of 2012 12th International Conference on Control, Automation and Systems (ICCAS 2012)
+  year: 2012
+  month: October
+  venue: Jeju, Korea
+  description: ""
+- title: Adaptive ROI-based autonomous pedestrian detection system
+  authors:
+    Jeonghyun Baek, Sungjun Hong, Jisu Kim, Euntai Kim and Heejin Lee
+  conference: Proc. of 2012 12th International Conference on Control, Automation and Systems (ICCAS 2012)
+  year: 2012
+  month: October
+  venue: Jeju, Korea
+  description: ""
+- title: Autonomous vehicle detection system using visible and infrared camera
+  authors:
+    Jisu Kim, Sungjun Hong, Jeonghyun Baek, Euntai Kim and Heejin Lee
+  conference: Proc. of 2012 12th International Conference on Control, Automation and Systems (ICCAS 2012)
+  year: 2012
+  month: October
+  venue: Jeju, Korea
+  description: ""
+- title: Multiple hypothesis tracking for mobile robot localization
+  authors:
+    Hyukdoo Choi, Euntai Kim, Yong Woon Park and Chong Hui Kim
+  conference: Proc. of International Conference on Instrumentation, Control and Information Technology (SICE 2012)
+  year: 2012
+  month: August
+  venue: Akita, Japan
+  description: ""
+- title: LIDAR sensor matching system using database
+  authors:
+    Junho Moon1, Hyuk Doo Choi, Nam Hun Park, Chong Hui Kim, Yong Woon Park and Euntai Kim
+  conference: Proc. of International Conference on Automation and Control Engineering (ICACE 2012)
+  year: 2012
+  month: February
+  venue: Kualalumpur, Malaysia
+  description: ""
+
+
+    #2011
+- title: Multiple object recognition system for intelligent vehicle system using 24GHz radar
+  authors:
+    Baehoon Choi, Heesung Lee and Euntai Kim
+  conference: Proc. of 2011 11th International Conference on Control, Automation and Systems (ICCAS 2011)
+  year: 2011
+  month: October
+  venue: Gyeonggi-do, Korea
+  description: ""
+- title: A soft computing approach for collision risk assessments
+  authors:
+    Seongkeun Park, Beomsung Kim, Baehoon Choi, Euntai Kim, Heejin Lee and Hyung-Jin Kang
+  conference: Proc. of 2011 11th International Conference on Control, Automation and Systems (ICCAS 2011)
+  year: 2011
+  month: October
+  venue: Gyeonggi-do, Korea
+  description: ""
+- title: "An obstacle classification for intelligent vehicle using 24GHz microwave RADAR: various distribution approach"
+  authors:
+    Baehoon Choi,  Beomseong Kim, Seongkeun Park and Euntai Kim
+  conference: Proc. of The 12th International Symposium on Advanced Intelligent Systems (ISIS 2011)
+  year: 2011
+  month: September
+  venue: Suwon, Korea
+  description: ""
+- title: An indoor navigation system using fuzzy dynamic window approach
+  authors:
+    Beomsung Kim, Baehoon Choi, Euntai Kim and Heejin Lee ##Heegin Lee가 맞는지 아닌지?
+  conference: Proc. of The 12th International Symposium on Advanced Intelligent Systems (ISIS 2011)
+  year: 2011
+  month: September
+  venue: Suwon, Korea
+  description: ""
+- title: Regularized eigenspace-based gait recognition system for human identification
+  authors:
+    Byungyun Lee, Sungjun Hong, Heesung Lee and Euntai Kim
+  conference: Proc. of The 6th IEEE Conference on Industrial Electronics and Applications (ICIEA 2011)
+  year: 2011
+  month: June
+  venue: Beijing, China
+  description: ""
+- title: Mobile robot exploration via pseudo range model
+  authors:
+    Ryun Seok Kim, Hyukdoo Choi, Euntai Kim and Chang Woo Park
+  conference: Proc. of 1st ACIS/JNU International Conference on Computers, Networks, Systems, and Industrial Engineering (CNSI 2011)
+  year: 2011
+  month: May
+  venue: Jeju, Korea
+  description: ""
+
+
+    #2010
+- title: Constructing customized fuzzy sets using Bayesian probability
+  authors:
+    Wooyong Chung, Jaehun Lee and Euntai Kim
+  conference: Proc. of Joint 5th International Conference on Soft Computing and Intelligent Systems and 11th International Symposium on Advanced Intelligent Systems (SCIS & ISIS 2010)
+  year: 2010
+  month: December
+  venue: Okayama, Japan
+  description: ""
+- title: Segmentation of the silhouette image and their combinations for gait recognition
+  authors:
+    Sungjun Hong, Heesung Lee, Byungyun Lee and Euntai Kim
+  conference: Proc. of Joint 5th International Conference on Soft Computing and Intelligent Systems and 11th International Symposium on Advanced Intelligent Systems (SCIS & ISIS 2010)
+  year: 2010
+  month: December
+  venue: Okayama, Japan
+  description: ""
+- title: Novel obstacle avoidance system in dynamic environment using radar
+  authors:
+    Beomseong Kim, Seongkeun Park, Baehoon Choi and Euntai Kim
+  conference: Proc. of the 7th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2010)
+  year: 2010
+  month: November
+  venue: Busan, Korea
+  description: ""
+- title: Gait-based human identification using scores fusion
+  authors:
+    Sungjun Hong, Heesung Lee, Byungyun Lee and Euntai Kim
+  conference: Proc. of the 7th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2010)
+  year: 2010
+  month: November
+  venue: Busan, Korea
+  description: ""
+- title: Robust DV-hop algorithm for localization in wireless sensor network
+  authors:
+    Jaehun Lee, Wooyong Chung, Euntai Kim and In Wha Hong
+  conference: Proc. of International Conference on Control, Automation and Systems 2010 (ICCAS 2010)
+  year: 2010
+  month: October
+  venue: Gyeonggi-do, Korea
+  description: ""
+- title: Intelligent collision risk assessment based on neural network ensemble
+  authors:
+    Bumsung Kim, Baehoon Choi, Seongkeun Park and Euntai Kim
+  conference: Proc. of The Society of Instrument and Control Engineers Annual Conference (SICE2010)
+  year: 2010
+  month: August
+  venue: Taipei, Taiwan
+  description: ""
+- title: "Collision risk assessment for pedestrians’ safety : neural network with interacting multiple model approach"
+  authors:
+    Seongkeun Park, Baehoon Choi, Bumsung Kim and Euntai Kim
+  conference: Proc. of The Society of Instrument and Control Engineers Annual Conference (SICE2010)
+  year: 2010
+  month: August
+  venue: Taipei, Taiwan
+  description: ""
+- title: Gait Recognition System using Decision-Level Fusion 
+  authors:
+    Byungyun Lee, Sungjun Hong, Heesung Lee and Euntai Kim 
+  conference: Proc. of 2010 International Conference on Electronics, Information, and Communication (ICEIC 2010)
+  year: 2010
+  month: June
+  venue: Cebu, Philippines
+  description: ""
+- title: Distance based outlier detection for nearest neighborhood
+  authors:
+    Heesung Lee, Sungjun Hong, Byungyun Lee and Euntai Kim
+  conference: Proc. of 2010 International Conference on Electronics, Information, and Communication (ICEIC 2010)
+  year: 2010
+  month: June
+  venue: Cebu, Philippines
+  description: ""
+- title: CV SLAM using ceiling boundary
+  authors:
+    Hyukdoo Choi, Dong Yeop Kim, Jae Pil Hwang, Euntai Kim and Young-Ouk Kim #저자가 기존 홈페이지와 다른 것으로 확인됨
+  conference: Proc. of The 5th IEEE Conference on Industrial Electronics and Applications (ICIEA 2010)
+  year: 2010
+  month: June
+  venue: Taichung, Taiwan
+  description: ""
+- title: Gait recognition system using decision-level fusion
+  authors:
+    Byungyun Lee, Sungjun Hong, Heesung Lee and Euntai Kim
+  conference: Proc. of The 5th IEEE Conference on Industrial Electronics and Applications (ICIEA 2010)
+  year: 2010
+  month: June
+  venue: Taichung, Taiwan
+  description: ""
+
+ 
+    #2009
+- title: Sensors for intelligent vehicle systems
+  authors:
+    Seongkeun Park and Euntai Kim
+  conference: Proc. of International Conference on Humanized Systems (ICHS 2009)
+  year: 2009
+  month: October
+  venue: Seoul, Korea
+  description: ""
+- title: FCV-SLAM for multi-obstacle space
+  authors:
+    Dong Yeop Kim, Hyukdoo Choi, Jae Pil Hwang, Euntai Kim and Young-Ouk Kim 
+  conference: Proc. of the First International Conference on Smart IT Applications (SITA 2009)
+  year: 2009
+  month: September
+  venue: Qingdao, China
+  description: ""
+- title: classification system using 24GHz microwave radar
+  authors:
+    Seongkeun Park and Euntai Kim
+  conference: Proc. of The 6th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2009)
+  year: 2009
+  month: September
+  venue: Gwangju, Korea
+  description: ""
+- title: A new state estimation method for unknown system
+  authors:
+    Seongkeun Park, Jae Pil Hwang, Euntai Kim, Heesung Lee and Ho Gi Jung #저자 확실하지않음
+  conference: Proc. of The 10th International Symposium on Advanced Intelligent Systems (ISIS 2009)
+  year: 2009
+  month: August
+  venue: Busan, Korea
+  description: ""
+- title: A new design method for linguistically understandable fuzzy classifier
+  authors:
+    Heesung Lee, Sanghun Jang, Euntai Kim and Ho Gi Jung
+  conference: Proc. of IEEE International Conference on Fuzzy Systems
+  year: 2009
+  month: August
+  venue: Jeju, Korea
+  description: ""
+- title: Efficient range-free localization algorithm for wireless sensor network based on shortest path information
+  authors:
+    Jaehun Lee, Wooyong Chung and Euntai Kim 
+  conference: Proc. of ICROS-SICE International Joint Conference 2009 (ICCAS-SICE 2009)
+  year: 2009
+  month: August
+  venue: Fukuoka, Japan
+  description: ""
+- title: Optimal classifier design method using hierarchical fair competition model based parallel genetic algorithm
+  authors:
+    Heesung Lee, Sungjun Hong and Euntai Kim
+  conference: Proc. of ICROS-SICE International Joint Conference 2009 (ICCAS-SICE 2009)
+  year: 2009
+  month: August
+  venue: Fukuoka, Japan
+  description: ""
+- title: Fusion of multiple gait cycles for human identification
+  authors:
+    Sungjun Hong, Heesung Lee and Euntai Kim
+  conference: Proc. of ICROS-SICE International Joint Conference 2009 (ICCAS-SICE 2009)
+  year: 2009
+  month: June
+  venue: Beijing, China
+  description: ""
+- title: Automatic gait recognition using width vector mean
+  authors:
+    Sungjun Hong, Heesung Lee and Euntai Kim
+  conference: Proc. of the 4th IEEE Conference on Industrial Electronics and Applications (ICIEA 2009)
+  year: 2009
+  month: May
+  venue: Xi'an, China
+  description: ""
+
+  
+    #2008
+- title: r-θ Motion Model for EKF SLAM of Two-Wheeled Mobile Robot
+  authors:
+    Dong Yeop Kim, Jae Pil Hwang, Euntai Kim and Young Ouk Kim
+  conference: Proc. of 39th Internatioinal Symposium on Robotics 2008
+  year: 2008
+  month: October
+  venue: Seoul, Korea
+  description: ""
+- title: Multiple Data Association and Tracking Using Millimeter Wave Radar
+  authors:
+    Seongkeun Park, Euntai Kim, Heejin Lee and Hogi Jung
+  conference: Proc. of International Conference on Control, Automation and Systems 2008 (ICCAS 2008)
+  year: 2008
+  month: October
+  venue: Seoul, Korea
+  description: ""
+- title: Fusion of Multiple Gait Features for Human Identification
+  authors:
+    Sungjun Hong, Heesung Lee, Sung Je An and Euntai Kim
+  conference: Proc. of International Conference on Control, Automation and Systems 2008
+  year: 2008
+  month: October
+  venue: Seoul, Korea
+  description: ""
+- title: Efficient classification scheme based on hybrid global and local properties of feature
+  authors:
+    Heesung Lee, Sungjun Hong, Sungje An and Euntai Kim
+  conference: Proc. of International Conference on Control, Automation and Systems 2008 (ICCAS 2008)
+  year: 2008
+  month: October
+  venue: Seoul, Korea
+  description: ""
+- title: Reducing power consumption in Error-Correcting Code using various genetic operators
+  authors:
+    Heesung Lee, Sungjun Hong and Euntai Kim
+  conference: Proc. of Joint International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS & ISIS 2008)
+  year: 2008
+  month: September
+  venue: Nagoya, Japan
+  description: ""
+- title: Multi-view gait recognition fusion methodology
+  authors:
+    Imran Fareed Nizami, Sungjun Hong, Heesung Lee, Sungje Ahn, Kar-Ann Toh and Euntai Kim
+  conference: Proc. the 3rd IEEE Conference on Industrial Electronics and Applications (ICIEA 2008)
+  year: 2008
+  month: June 
+  venue: Singapore
+  description: ""
+
+   
+    #2007
+- title: Human Identification Based on Gait Analysis
+  authors:
+    Sungjun Hong, Heesung Lee, Imran Fareed Nizami, Sung-Je An and Euntai Kim
+  conference: Proc. of International Conference on Control, Automation and Systems 2007
+  year: 2007
+  month: October
+  venue: Seoul, Korea
+  description: ""
+- title: Combination of multiple classifiers using probabilistic method
+  authors:
+    Heesung Lee, Sungjun Hong and Euntai Kim
+  conference: Proc. of International Conference on Control, Automation and Systems 2007
+  year: 2007
+  month: October
+  venue: Seoul, Korea
+  description: ""
+- title: Context Awareness for Sensor Network Using Bayesian Networks and Fuzzy Knowledge
+  authors:
+    Jaehun Lee, Wooyong Chung and Euntai Kim 
+  conference: Proc. of 2007 International Symposium on advanced Intelligent Systems
+  year: 2007
+  month: September
+  venue: Sokcho, Korea
+  description: ""
+- title: Centroid Localization Method in Wireless Sensor Networks using TSK Fuzzy Modeling
+  authors:
+    S. Yun, Jaehun Lee, Wooyong Chung and Euntai Kim #저자 모름
+  conference: Proc. of 2007 International Symposium on advanced Intelligent Systems
+  year: 2007
+  month: September
+  venue: Sokcho, Korea
+  description: ""
+- title: Multi-objective genetic design for error correcting code
+  authors:
+     H. Lee, Jaehun Lee and Euntai Kim #저자 모름
+  conference: Proc. of 2007 International Symposium on advanced Intelligent Systems
+  year: 2007
+  month: September
+  venue: Sokcho, Korea
+  description: ""
+- title: Multi-Classifier Based LIDAR and Camera Fusion
+  authors:
+    Jae Pil Hwang, Seung Eun Cho, Kyung Jin Ryu, Seungkeun Park and Euntai Kim
+  conference: Proc. Intelligent Transportation Systems Conference 2007
+  year: 2007
+  month: September
+  venue: Seattle, WA, United States
+  description: ""
+- title: "A New Gait Representation for Human Identification: Mass Vector"
+  authors:
+    Sungjun Hong, Heesung Lee, Imran Fareed Nizami and Euntai Kim
+  conference: Proc. of the Second IEEE Conference on Industrial Electronics and Applications (ICIEA 2007)
+  year: 2007
+  month: May
+  venue: Harbin, China
+  description: ""
+- title: A New Particle Filter Inspired by Biological Evolution:Genetic Filter
+  authors:
+    Seomgkeun Park, JaePil Hwang, KyungJin Rou and Euntai Kim
+  conference: Proc. of Int. Conf. on Computer, Information, and Systems Science, and Engineering
+  year: 2007
+  month: January
+  venue: ## 모름
+  description: ""
+- title: Reducing Power in Error Correcting Code Using Genetic Algorithm
+  authors:
+    Heesung Lee, Joonkyung Sung and Euntai Kim 
+  conference: Proc. of Int. Conf. on Computer, Information, and Systems Science, and Engineering
+  year: 2007
+  month: January
+  venue: ## 모름
+  description: ""
+- title: Path Planning of a Robot Manipulator Using Retrieval RRT Strategy
+  authors:
+    Kyongsae Oh, Jae Pil Hwang, Euntai Kim and Heejin Lee
+  conference: Proc. of Int. Conf. on Computer, Information, and Systems Science, and Engineering
+  year: 2007
+  month: January
+  venue: ## 모름
+  description: ""
+
+   
+    #before 2007 / 1
+- title: New Estimation Method based on Genetic Algorithm and its Application to Control of Moving Train
+  authors:
+    Seong Keun Park, Jae Phil Hwang, Kyung Jin Rou, Euntai Kim and Min Yong Park
+  conference: Proc. of SICE-ICCAS International Joint Conference 2006
+  year: 2006
+  month: October
+  venue: Busan, Korea
+  description: ""
+- title: TSK Fuzzy modeling approach for Face detection
+  authors:
+    Heesung Lee, Sungjun Hong, Kyongsae Oh, Euntai Kim and Mignon Park
+  conference: Proc. of SICE-ICCAS International Joint Conference 2006
+  year: 2006
+  month: October
+  venue: Busan, Korea
+  description: ""
+- title: Gait Recognition using Sampled Point Vectors
+  authors:
+    Sungjun Hong, Heesung Lee, Kyongsae Oh, Mignon Park and Euntai Kim
+  conference: Proc. of SICE-ICCAS International Joint Conference 2006
+  year: 2006
+  month: October
+  venue: Busan, Korea
+  description: ""
+- title: Side View Face Recognition as an Aid to Gait Recognition
+  authors:
+    Kyongsae Oh, Heesung Lee, Sungjun Hong and Euntai Kim
+  conference: Proc. of Joint 3rd International Conference on Soft Computing and Intelligent Systems and 7th International Symposium on advanced Intelligence Systems 2006
+  year: 2006
+  month: September
+  venue: Tokyo, Japan
+  description: ""
+- title: PCA based vehicle detection system for ACC
+  authors:
+    Jaepil Hwang, Kyungjin Rou, Seongkeun Park, Euntai Kim and Hyung-Jin Kang
+  conference: Proc. of ICEIC 2006
+  year: 2006
+  month: June
+  venue: Mongolia, Ulaanbaatar
+  description: ""
+- title: Structure Learning of Bayesian Networks by Genetic Algorithms using novel genetic operators
+  authors:
+    Jaehun Lee, W. Jung and Euntai Kim #저자 모름
+  conference: Proc. of Korea-Japan Joint Workshop on Info-Mechatronic systems
+  year: 2005
+  month: October
+  venue: Seoul, Korea
+  description: ""
+- title: An Immunotronic Approach for Hardware Fault Detection and its Application to the Design of Stigmergy Engine
+  authors:
+    Sanghyung Lee, Gunbae Kim, Euntai Kim, Hyekyung Cho, Hongil Yoon and Sungho Kang
+  conference: International Technical Conference on Circuits/Systems, Computers and Communications 2005
+  year: 2005
+  month: July
+  venue: Jeju, Korea
+  description: ""
+- title: Constructing Context-aware Home based on Bayesian Network
+  authors:
+    Wooyong Chung, Jaehun Lee and Euntai Kim
+  conference: International Technical Conference on Circuits/Systems, Computers and Communications 2005
+  year: 2005
+  month: July
+  venue: Jeju, Korea
+  description: ""
+- title: Cosimulation of the control 6-DOF Kuka manipulator by Simulink and Recurdyn
+  authors:
+    SeongKeun Park, KyungSe Oh, Euntai Kim, Sungsoo Lim and Sungul Lee 
+  conference: International Technical Conference on Circuits/Systems, Computers and Communications 2005
+  year: 2005
+  month: July
+  venue: Jeju, Korea
+  description: ""
+- title: Efficient Test Point Selection using Multi-Objective Genetic Algorithms with Biological Kronecker Delta Evolution
+  authors:
+    Jaehun Lee, Jin-Ho Ahn, Euntai Kim, Hyekyung Cho, Hongil Yoon and Sungho Kang
+  conference: International Technical Conference on Circuits/Systems, Computers and Communications 2005
+  year: 2005
+  month: July
+  venue: Jeju, Korea
+  description: ""
+
+  #before 2007 / 2
+
+- title: TSK Approach to Camera Calibration
+  authors:
+    Heesung Lee, Sungjun Hong, Euntai Kim and Mignon Park
+  conference: International Technical Conference on Circuits/Systems, Computers and Communications 2005
+  year: 2005
+  month: July
+  venue: Jeju, Korea
+  description: ""
+- title: Trajectory Generation for Biped Robot on Surface with Various Friction Using Fuzzy Logic
+  authors:
+    Jungho Joo, Jae Pil Hwang, Euntai Kim and Mignon Park
+  conference: International Technical Conference on Circuits/Systems, Computers and Communications 2005
+  year: 2005
+  month: July
+  venue: Jeju, Korea
+  description: ""
+- title: A new TSK fuzzy modeling approach
+  authors:
+    Kyoungjung Kim, You Keun Kim, Euntai Kim and Mignon Park
+  conference: Proc. of FUZZ/IEEE
+  year: 2004
+  month: July
+  venue: Budapest, Hungary
+  description: ""
+- title: "LMI based L2 robust stable fuzzy control, Part 2: numerical robust control design"
+  authors:
+    C. Park, C. Hyun, C. Lee, Euntai Kim and Mignon Park #저자 모름
+  conference: Proc. of ICEIC 2002
+  year: 2002
+  month: July
+  venue: Ulaanbaatar, Mongolia
+  description: ""
+- title: "LMI based L2 robust stable fuzzy control, Part 1: numerical robust stability analysis"
+  authors:
+     K. Kim, C. Park, Euntai Kim and Mignon Park #저자 모름
+  conference: Proc. of ICEIC 2002
+  year: 2002
+  month: July
+  venue: Ulaanbaatar, Mongolia
+  description: ""
+- title: Mobile robot control using decision assistance information
+  authors:
+    G. Lee, C. Lee, S. Lee, Euntai Kim, and Mignon Park #저자 모름
+  conference: Proc. of ICEIC 2002
+  year: 2002
+  month: July
+  venue: Ulaanbaatar, Mongolia
+  description: ""
+- title: EKF-based on-line identification of a fuzzy system
+  authors:
+    E. Kim, H. Lee, E. Kim, S. Lee, Minkee Park and Mignon Park #저자 모름
+  conference: Proc. of 4th Asian Fuzzy Systems Symposium
+  year: 2000
+  month: May
+  venue: Tsukuba, Japan
+  description: ""
+- title: Development on semi-active suspension system using fuzzy logic controller
+  authors:
+    S. Lee, Euntai Kim, C. Kwon and Mignon Park #저자 모름
+  conference: Proc. of 4th Asian Fuzzy Systems Symposium
+  year: 2000
+  month: May
+  venue: Tsukuba, Japan
+  description: ""
+- title: Fuzzy control of a direct current motor system with the guaranteed stability
+  authors:
+    Euntai Kim, Heejin Lee and Mignon Park 
+  conference: Proc. of IEEE Int. Conf. on Fuzzy Systems (IEEE/FUZZ 99)
+  year: 1999
+  month: August
+  venue: Seoul, Korea
+  description: ""
+- title: Tracking control of nonlinear systems using fuzzy sliding surfaces
+  authors:
+    H. Lee, K. Lee, Euntai Kim, J. Kim and Mignon Park #저자 모름
+  conference: Proc. of Iizuka 98
+  year: 1998
+  month: September
+  venue: Iizuka,Japan
+  description: ""
+
+  #before 2007 / 3
+
+- title: Variable structure control of manipulator using linear time- varying sliding surfaces
+  authors:
+    Heejin Lee, Hyunseok Shin, Euntai Kim, Seungwoo Kim and Mignon Park
+  conference: Proc. of IEEE/RSJ Int. Conf. Intell. Robots and Sys.
+  year: 1998
+  month: October
+  venue: Victoria, B. C., Canada,
+  description: ""
+- title: On-line identification of a fuzzy system
+  authors:
+    Euntai Kim, Heejin Lee, Minkee Park and Mignon Park
+  conference: Proc. of 3rd Asian Fuzzy Symposium
+  year: 1998
+  month: June
+  venue: Masan, Korea
+  description: ""
+- title: Variable structure control of nonlinear system using fuzzy variable boundary layer
+  authors:
+    Heejin Lee, Hongyoup Son, Euntai Kim and Mignon Park
+  conference: Proc. of IEEE Int. Conf. Fuzzy Systems (FUZZ-IEEE)
+  year: 1998
+  month: August
+  venue: Alaska, United States
+  description: ""
+- title: A study on self-excited oscillation of a fuzzy control system - static case
+  authors:
+    Euntai Kim, C. Park, Y. Cho and Mignon Park #저자 모름
+  conference: Proc. of 2nd Asian Control Conference
+  year: 1997
+  month: July
+  venue: Seoul, Korea
+  description: ""
+- title: A study on self-excited oscillation of a fuzzy control system - dynamic case
+  authors:
+    Euntai Kim, H, Lee, Y. Yee and Mignon Park #저자 모름
+  conference: Proc. of 2nd Asian Control Conference
+  year: 1997
+  month: July
+  venue: Seoul, Korea
+  description: ""
+- title: "An analysis of self-excited oscillation of a fuzzy controlled- system based on FBF: dynamic case"
+  authors:
+    Euntai Kim, H, Lee, S. Kim and Mignon Park #저자 모름
+  conference: Proc. of IFSA World Congress
+  year: 1997
+  month: June
+  venue: Prague
+  description: ""
+- title: "An analysis of self-excited oscillation of a fuzzy controlled-system based on FBF: static case"
+  authors:
+    Euntai Kim, H, Lee, Minkee Park and Mignon Park #저자 모름
+  conference: Proc. of IFSA World Congress
+  year: 1997
+  month: June
+  venue: Prague
+  description: ""
+- title: Simply identified Sugeno-type fuzzy modeling
+  authors:
+    Euntai Kim, Heejin Lee, Minkee Park and Mignon Park
+  conference: Proc. of Iizuka '96
+  year: 1996
+  month: August
+  venue: Fukuoka, Japan
+  description: ""
+- title: New stiffness conrol of a robot manipulator using a fuzzy model
+  authors:
+    Minkee Park, Euntai Kim and Mignon Park
+  conference: Japanese Robotics Lecture Meeting #확실하지않음
+  year: 1995
+  month: ##모름
+  venue: ##모름
+  description: ""
+- title: A new fuzzy adaptive controller using a robust property of fuzzy controller
+  authors:
+    S. Kim, Euntai Kim and Mignon Park #저자 모름
+  conference: IEEE/RSJ Int. Conf. Intell. Robots and Sys.
+  year: 1993
+  month: July
+  venue: Yokohama, Japan
+  description: ""

@@ -1,0 +1,517 @@
+#- title:
+#  authors:
+#  journal:
+#  year:
+#  month:
+#  vol:
+#  issue:
+#  page:
+#  description: 
+#  accepted:
+
+- title: "A Deep Convolutional Neural Network Based 6-DOF Relocalization with Sensor Fusion System"
+  authors:
+    HyungGi Jo, Hae Min Cho, Seongwon Lee and Euntai Kim
+  journal: Journal of Korea Robtics Society
+  year: 2019
+  month: Jun
+  vol: 14
+  issue: 2
+  page:
+  description: ""
+  accepted: 0
+- title: "A New Automatic Gait Cycle Partitioning Method and Its Application to Human Identification"
+  authors:
+    Sungjun Hong and Euntai Kim
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2017
+  month: Jun
+  vol: 17
+  issue: 2
+  page: 51-57
+  description: ""
+  accepted: 0
+- title: "Pseudoinverse Matrix Decomposition Based Incremental Extreme Learning Machine with Growth of Hidden Nodes"
+  authors:
+    Peyman Hosseinzadeh Kassani and Euntai Kim
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2016
+  month: Jun
+  vol: 16
+  issue: 2
+  page: 125-130
+  description: ""
+  accepted: 0
+- title: "Sensitivity Analysis of Width Representation for Gait Recognition"
+  authors:
+    Sungjun Hong and Euntai Kim
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2016
+  month: Jun
+  vol: 16
+  issue: 2
+  page: 87-94
+  description: ""
+  accepted: 0
+- title: "Segmentation and Histogram of Oriented Gradient with Ship Size Ratio"
+  authors:
+    Hyukmin Eum, Jaeyun Bae, Changyong Yoon and Euntai Kim
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2015
+  month: Dec
+  vol: 15
+  issue: 4
+  page: 251-259
+  description: ""
+  accepted: 0
+- title: "Genetic outlier detection for a robust support vector machine"
+  authors:
+    Heesung Lee and Euntai Kim
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2015
+  month: Jun
+  vol: 15
+  issue: 2
+  page: 96-101
+  description: ""
+  accepted: 0
+- title: "MCMC기반 파티클 필터를 이용한 지능형 자동차의 다수 전방 차량 추적 시스템"
+  authors:
+    최배훈, 안종현, 조민호, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2015
+  month: Apr
+  vol: 25
+  issue: 2
+  page: 186-190
+  description: ""
+  accepted: 0
+- title: "신경회로망을 이용한 새로운 충돌 경고 시스템"
+  authors:
+    김범성, 최배훈, 안종현, 황재호, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2014
+  month: Aug
+  vol: 24
+  issue: 4
+  page: 392-397
+  description: ""
+  accepted: 0
+- title: "HOG를 이용한 파트 기반 손 검출 알고리즘"
+  authors:
+    백정현, 김지수, 윤창용, 김동연, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2013
+  month: Dec
+  vol: 23
+  issue: 6
+  page: 551-557
+  description: ""
+  accepted: 0
+- title: "퍼지 논리와 Interacting Multiple Model (IMM)을 통한 잡음환경에서의 맞은편 차량의 중앙선 침범 예측"
+  authors:
+    김범성, 최배훈, 안종현, 이희진, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2013
+  month: Oct
+  vol: 23
+  issue: 5
+  page: 444-450
+  description: ""
+  accepted: 0
+- title: "데이터베이스 기반 GPS 위치 보정 시스템"
+  authors:
+    문준호, 최혁두, 박남훈, 김종희, 박용운, 김은태
+  journal: 로봇학회논문지
+  year: 2012
+  month: Sep
+  vol: 7
+  issue: 3
+  page: 205-215
+  description: ""
+  accepted: 0
+- title: "무인 차량의 도로주행을 위한 경유점 생성 방법"
+  authors:
+    최혁두, 박남훈, 김종희, 박용운, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2012
+  month: 4
+  vol: 22
+  issue: 2
+  page: 161-167
+  description: ""
+  accepted: 0
+- title: "A novel range-free localization algorithm for anisotropic network"
+  authors:
+    Jaehun Lee, Wooyong Chung and Euntai Kim
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2011
+  month: 12
+  vol: 11
+  issue: 4
+  page: 223-228
+  description: ""
+  accepted: 0
+- title: "커널 함수를 도입한 새로운 추천 시스템"
+  authors:
+    이제헌, 황재필, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2011
+  month: 10
+  vol: 21
+  issue: 5
+  page: 624-629
+  description: ""
+  accepted: 0
+- title: "측정 아웃라이어 제거를 통해 개선된 GraphSLAM"
+  authors:
+    김륜석, 최혁두, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2011
+  month: 8
+  vol: 21
+  issue: 4
+  page: 493-498
+  description: ""
+  accepted: 0
+- title: "재귀적 확률 갱신 방법을 이용한 보행자 충돌 위험 판단 방법"
+  authors:
+    박성근, 김범성, 김은태, 이희진, 강형진
+  journal: 한국지능시스템학회 논문지
+  year: 2011
+  month: 8
+  vol: 21
+  issue: 4
+  page: 475-480
+  description: ""
+  accepted: 0
+- title: "실내형 이동로봇을 위한 레이저 스캐너를 이용한 위치 인식과 장애물 추적"
+  authors:
+    최배훈, 김범성, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2011
+  month: 6
+  vol: 21
+  issue: 3
+  page: 329-334
+  description: ""
+  accepted: 0
+- title: "고유특징 정규화 및 추출 기법을 이용한 걸음걸이 바이오 정보 기반 사용자 인식 시스템"
+  authors:
+    이병윤, 홍성준, 이희성, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2011
+  month: 2
+  vol: 21
+  issue: 1
+  page: 6-11
+  description: ""
+  accepted: 0
+- title: "신경 회로망을 이용한 보행자와의 충돌 위험 판단 방법"
+  authors:
+    김범성, 박성근, 최배훈, 김은태, 이희진, 강형진
+  journal: 제어 로봇 시스템학회 논문지
+  year: 2011
+  month: 1
+  vol: 17
+  issue: 1
+  page: 6-11
+  description: ""
+  accepted: 0
+- title: "유전자 알고리즘을 이용한 강인한 Support vector machine 설계"
+  authors:
+    이희성, 홍성준, 이병윤, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2010
+  month: Jun
+  vol: 20
+  issue: 3
+  page: 375-379
+  description: ""
+  accepted: 0
+- title: "자동차 검출을 위한 GAVaPS를 이용한 최적 분류기 앙상블 설계"
+  authors:
+     이희성, 이제헌, 김은태
+  journal: 제어 로봇 시스템학회 논문지
+  year: 2010
+  month: Jan
+  vol: 16
+  issue: 1
+  page: 96-100
+  description: ""
+  accepted: 0
+- title: "On-road Tracking using Laser Scanner with Multiple Hypothesis Assumption"
+  authors:
+    Kyungjin Ryu, Seongkeun Park, Jae Pil Hwang, Euntai Kim and Mignon Park
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2009
+  month: Sep
+  vol: 9
+  issue: 3
+  page: 232-237
+  description: ""
+  accepted: 0
+- title: "어파인-자기 회귀 모델과 강인 통계를 사용한 교통 표지판 추적"
+  authors:
+    윤창용, 천민규, 이희진, 김은태, 박민용
+  journal: 대한전자공학회지
+  year: 2009
+  month: Sep
+  vol: 46
+  issue: 5
+  page: 126-134
+  description: ""
+  accepted: 0
+- title: "다양한 유전 연산자를 이용한 저전력 오류 정정 코드 설계"
+  authors:
+    이희성, 홍성준, 안성제, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2009
+  month: Apr
+  vol: 19
+  issue: 2
+  page: 180-184
+  description: ""
+  accepted: 0
+- title: "도로 상의 자동차 탐지를 위한 카메라와 LIDAR 복합 시스템"
+  authors:
+    황재필, 박성근, 김은태, 강형진
+  journal: 제어 로봇 시스템 학회 논문지
+  year: 2009
+  month: Apr
+  vol: 15
+  issue: 4
+  page: 390-395
+  description: ""
+  accepted: 0
+- title: "A New Vehicle Detection Method based on Color Integral Histogram"
+  authors:
+    Jae Pil Hwang, Kyungjin Ryu, Seongkeun Park, Euntai Kim and Hyung-jin Kang
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2008
+  month: Dec
+  vol: 8
+  issue: 4
+  page: 248-253
+  description: ""
+  accepted: 0
+- title: "GAVaPS를 이용한 다수 K-Nearest Neighbor classifier들의 Feature 선택"
+  authors:
+    이희성, 이제헌, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2008
+  month: Dec
+  vol: 18
+  issue: 6
+  page: 871-875
+  description: ""
+  accepted: 0
+- title: "Fuzzy Interacting Multiple Model을 이용한 관측왜곡 시스템의 차량추적"
+  authors:
+    박성근, 황재필, 류경진, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2008
+  month: Dec
+  vol: 18
+  issue: 6
+  page: 863-870
+  description: ""
+  accepted: 0
+- title: "다목적 Error correcting code의 새로운 설계방법"
+  authors:
+    이희성, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2008
+  month: Oct
+  vol: 18
+  issue: 5
+  page: 611-616
+  description: ""
+  accepted: 0
+- title: "퍼지 모델링과 유전자 알고리즘을 이용한 무선 센서 네트워크에서 위치추정"
+  authors:
+    윤숙현, 이제헌, 정우용, 김은태
+  journal: 한국지능시스템학회 논문지
+  year: 2008
+  month: Aug
+  vol: 18
+  issue: 4
+  page: 530-536
+  description: ""
+  accepted: 0
+- title: "얼굴과 발걸음을 결합한 인식"
+  authors:
+    Imran Fareed Nizami, 안성제, 홍성준, 이희성, 김은태, 박민용
+  journal: 한국 퍼지 및 지능 시스템학회 논문지
+  year: 2008
+  month: Jan
+  vol: 18
+  issue: 1
+  page: 72-77
+  description: ""
+  accepted: 0
+- title: "움직임 실루엣 영상의 일반적인 표현 방식에 대한 연구"
+  authors:
+    홍성준, 이희성, 김은태
+  journal: Journal of Control, Automation, and Systems Engineering
+  year: 2007
+  month: Aug
+  vol: 13
+  issue: 8
+  page: 749-753
+  description: ""
+  accepted: 0
+- title: "FCM 이산화를 이용한 스마트 홈에서 행동 모델링"
+  authors:
+    정우용, 이제헌, 윤숙현, 조영완, 김은태
+  journal: 제어 자동화 시스템공학
+  year: 2007
+  month: Jun
+  vol: 13
+  issue: 6
+  page: 542-546
+  description: ""
+  accepted: 0
+- title: "베이지안 네트워크에 기반한 스마트 홈에서의 상황인식 기법개발"
+  authors:
+    정우용, 김은태
+  journal: 퍼지 및 지능 시스템학회
+  year: 2007
+  month: Apr
+  vol: 17
+  issue: 2
+  page: 179-184
+  description: ""
+  accepted: 0
+- title: "Activity Recognition Using Sensor Network"
+  authors:
+    Jaehun Lee, Byoungyun Lee, Wooyong Chung and Euntai Kim
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2006
+  month: Sep
+  vol: 6
+  issue: 3
+  page: 197-201
+  description: ""
+  accepted: 0
+- title: "개선된 움직임 실루엣 영상을 이용한 발걸음 인식에 관한 연구"
+  authors:
+    홍성준,이희성,오경세,김은태
+  journal: 한국 퍼지 및 지능 시스템학회 논문지
+  year: 2006
+  month: Jun
+  vol: 16
+  issue: 3
+  page: 266-270
+  description: ""
+  accepted: 0
+- title: "적응 백스테핑 방법을 이용한 이족보행 로봇의 퍼지 논리 제어"
+  authors:
+    황재필, 주정호, 김은태, 이희진
+  journal: 한국정밀공학회지
+  year: 2006
+  month: Jul
+  vol: 23
+  issue: 7
+  page: 24-29
+  description: ""
+  accepted: 0
+- title: "국내의 지능형 홈 연구동향-차세대 복합 지능형 서비스 플랫폼 연구를 중심으로"
+  authors:
+    정우용, 강명석, 김은태
+  journal: 한국로봇공학회
+  year: 2006
+  month: Jan
+  vol: 3
+  issue: 1
+  page: 39-48
+  description: ""
+  accepted: 0
+- title: "이족 보행 로봇 제어에 대한 새로운 적응 퍼지 접근방법"
+  authors:
+    황재필, 김은태
+  journal: 대한전자공학회지
+  year: 2005
+  month: Sep
+  vol: 41
+  issue: 4
+  page: 43-50
+  description: ""
+  accepted: 0
+- title: "공생 진화를 이용한 Immunotronic 접근 방식의하드웨어 오류 검출"
+  authors:
+    이상형, 김은태, 이희진, 박민용
+  journal: 대한전자공학회지
+  year: 2005
+  month: Sep
+  vol: 41
+  issue: 4
+  page: 43-50
+  description: ""
+  accepted: 0
+- title: "T-S퍼지 모델을 이용한 불확실한 카오스 시스템의 적응동기화"
+  authors:
+    김재훈, 박창우, 김은태, 박민용
+  journal: 퍼지및 지능시스템학회지
+  year: 2005
+  month: Apr
+  vol: 15
+  issue: 2
+  page: 270-275
+  description: ""
+  accepted: 0
+- title: "온라인 진화형 TSK 퍼지식별"
+  authors:
+    김경중, 박창우, 김은태, 박민용
+  journal: 퍼지및 지능시스템학회지
+  year: 2005
+  month: Apr
+  vol: 15
+  issue: 2
+  page: 204-210
+  description: ""
+  accepted: 0
+- title: "외향 기반 환경 인식을 사용한 이동 로봇의 위치인식 알고리즘"
+  authors:
+    이희성, 김은태
+  journal: 대한전자공학회지
+  year: 2004
+  month: Nov
+  vol: 41
+  issue: 4
+  page: 1-12
+  description: ""
+  accepted: 0
+- title: "적응형 퍼지 백스테핑 방식을 이용한 단일축 유연관절 로봇의 강인 제어"
+  authors:
+    김은태, 이희진
+  journal: 대한전자공학회지
+  year: 2004
+  month: Nov
+  vol: 41
+  issue: 4
+  page: 1-12
+  description: ""
+  accepted: 0
+- title: "Antibody Diversity 원리와 Antigen Presenting Cell을 구현한 새로운 인공 면역 시스템"
+  authors:
+    이상형, 김은태, 박민용
+  journal: 대한전자공학회지
+  year: 2004
+  month: Jul
+  vol: 41
+  issue: 4
+  page: 51-58
+  description: ""
+  accepted: 0
+- title: "A Biologically Inspired New Hardware Fault Detection : immunotronic and Genetic Algorithm-Based Approach"
+  authors:
+    Sanghyung Lee, Euntai Kim and Mignon Park
+  journal: International Journal of Fuzzy Logic and Intelligent Systems
+  year: 2004
+  month: Jun
+  vol: 4
+  issue: 1
+  page: 7-11
+  description: ""
+  accepted: 0

@@ -1,0 +1,308 @@
+#- title: 격자 지도 생성 장치 및 방법
+#  authors: 김은태, 이성원
+#  application_number: 10-2095842
+#  year: 2020
+#  month: 3월
+#  description: ""
+#- title: 
+#  authors: 김은태,
+#  application_number: 
+#  year: 20
+#  month: 월
+#  description: ""  
+- title: 딥러닝 기반의 자세 추정을 이용한 3차원 전역 위치 인식 장치 및 이동 로봇
+  authors: 김은태, 조형기
+  application_number: 10-2020-0035622
+  year: 2020
+  month: 3월
+  description: ""
+- title: 박스 레벨의 객체 위치 정보를 사용한 픽셀 레벨의 동영상 객체 추적 장치
+  authors: 김은태, 성홍제, 이영조, 현준혁 
+  application_number: 10-2020-0030214 (PCT/KR2020/005383)
+  year: 2020
+  month: 3월
+  description: ""
+- title: 인공 신경망 기반의 비정제 동영상에서의 행동 인식 방법 및 장치
+  authors: 김은태, 성홍제, 현준혁
+  application_number: 10-2020-0029743
+  year: 2020
+  month: 3월
+  description: ""
+
+- title: 상관관계 점수 행렬 생성 알고리즘을 이용한 인공 신경망 기반의 장소 인식 장치 및 방법
+  authors: 김은태, 성홍제, 현준혁, 이수현, 우수한, 장현배
+  application_number: 10-2019-0041544 (PCT/KR2020/001018)
+  year: 2019
+  month: 4월
+  description: "" 
+
+- title: 도로 지도 생성 시스템 및 도로 지도 생성 방법
+  authors: 김은태, 안종현, 조민호, 장원제, 김현주
+  application_number: 10-2018-0079265
+  year: 2018
+  month: 7월
+  description: ""
+- title: 영상 특징의 미분 및 지도 학습을 이용하여 비디오의 장면 상황 정보를 생성하는 방법 및 장치
+  authors: 김은태, 현준혁, 이수현, 우수한, 성홍제
+  application_number: 10-2018-0049520
+  year: 2018
+  month: 5월
+  description: ""
+- title: 이종 센서를 기반으로 객체를 검출하는 객체 검출 장치 및 방법
+  authors: 김은태, 현준혁, 이수현, 우수한, 성홍제
+  application_number: 10-2018-0055179
+  year: 2018
+  month: 4월
+  description: ""
+- title: ＡＫＢＩＮＧ을 이용한 영상의 객체 후보 검출 장치 및 방법
+  authors: 김은태, 백정현
+  application_number: 10-2018-0008043
+  year: 2018
+  month: 1월
+  description: ""
+
+- title: 격자지도 생성 장치 및 방법
+  authors: 김은태, 조형기, 조해민, 이성원
+  application_number: 10-2017-0171099
+  year: 2017
+  month: 12월
+  description: ""
+- title: 깊이 영상에서 카메라 모델 및 필터를 이용한 도로 검출 방법 및 장치
+  authors: 김은태, 백정현, 김지수, 현준혁, 이수현
+  application_number: 10-2017-0052739
+  year: 2017
+  month: 4월
+  description: ""
+
+- title: 레이저 스캔 데이터를 이용한 물체의 속도 검출 장치 및 그 방법
+  authors: 김은태, 안종현, 조민호, 장원제
+  application_number: 10-2016-0163458
+  year: 2016
+  month: 12월
+  description: ""  
+- title: 파티클 간에 지도를 공유하는 이동체의 위치 추정 및 지도 작성 방법 및 장치
+  authors: 김은태, 조형기, 조해민
+  application_number: 10-2016-0161159
+  year: 2016
+  month: 11월
+  description: ""  
+- title: 차량 및 그 제어 방법
+  authors: 김은태, 안종현
+  application_number: 10-2016-0117949
+  year: 2016
+  month: 9월
+  description: ""  
+- title: 도로 영역 추출 장치 및 방법
+  authors: 김은태, 백정현, 김지수, 현준혁
+  application_number: 10-2016-0061588
+  year: 2016
+  month: 5월
+  description: ""  
+- title: 3차원 영상 생성 방법 및 장치
+  authors: 김은태, 조성진, 조형기, 조해민
+  application_number: 10-2016-0060975
+  year: 2016
+  month: 5월
+  description: ""  
+- title: 도로영역 분할 및 Support Vector Boundary Machine을 이용한 도로경계 검출 방법
+  authors: 김은태, 안종현, 최배훈, 김영원, 김현주, 노주윤, 이훈, 박성근, 유민균
+  application_number: 10-2015-0186101
+  year: 2016
+  month: 2월
+  description: ""  
+- title: 레이저스캐너 기반 Scoring Hough Transform을 이용한 도로 경계 검출 알고리즘 개발
+  authors: 김은태, 김범성, 김영원, 김현주, 노주윤, 이훈, 박성근, 유민균
+  application_number: 10-2015-0186097 (미국, 독일, 중국 출원 중)
+  year: 2016
+  month: 2월
+  description: ""  
+- title: 레이저스캐너를 이용한 센서중심 좌표계의 점유 격자지도를 작성하는 시스템
+  authors: 김은태, 김범성, 최배훈, 안종현, 김영원, 김현주, 장형선, 이훈, 박성근, 유민균
+  application_number: 10-2015-0090720 (DE102015224197.1, US14-958-670, CN201510897798.9)
+  year: 2016
+  month: 2월
+  description: ""  
+
+- title: 도로 경계 검출 시스템 및 방법과 이를 이용한 차량
+  authors: 김은태, 최배훈, 안종현
+  application_number: 10-2015-0186101
+  year: 2015
+  month: 12월
+  description: ""
+- title: 도로 경계 검출 시스템 및 방법과 이를 이용한 차량
+  authors: 김은태, 김범성
+  application_number: 10-2015-0186097
+  year: 2015
+  month: 12월
+  description: ""
+- title: 주행 차량에서 촬영된 영상에서의 차량 정보 검출 장치 및 그 방법
+  authors: 김은태, 김지수, 조민호
+  application_number: 10-2015-0127564
+  year: 2015
+  month: 9월
+  description: ""
+- title: 카메라를 이용한 차량 정보 검출 장치 및 그 방법
+  authors: 김은태, 김지수, 조민호
+  application_number: 10-2015-0076425
+  year: 2015
+  month: 5월
+  description: ""
+- title: 다단계의 부분 분류기를 이용한 서포트 벡터 머신 기반 데이터 분류 장치 및 그 방법
+  authors: 김은태, 백정현, 김지수
+  application_number: 10-2015-0051974
+  year: 2015
+  month: 4월
+  description: ""
+- title: 도로의 젖은 영역 검출 장치 및 그 방법
+  authors: 김은태, 백정현, 김지수
+  application_number: 10-2015-0021440
+  year: 2015
+  month: 2월
+  description: ""
+  
+- title: 장애물 인지 시스템 및 그 방법
+  authors: 김은태, 김범성, 최배훈, 안종현, 박성근, 유민균, 이훈, 김영원, 장형선, 김현주
+  application_number: 10-2014-0179610
+  year: 2014
+  month: 12월
+  description: ""
+- title: 주요 픽셀 정보에 기반한 물체 검출 장치 및 그 방법
+  authors: 김은태, 백정현, 김지수
+  application_number: 10-2014-0165450(US14/952,318)
+  year: 2014
+  month: 11월
+  description: ""
+- title: 에지 방향성분의 히스토그램에 기반한 물체 검출 장치 및 그 방법
+  authors: 김은태, 백정현, 김지수
+  application_number: 10-2014-0135092
+  year: 2014
+  month: 10월
+  description: ""
+- title: 스테레오 영상을 이용한 도로 물웅덩이 검출 장치 및 그 방법
+  authors: 김은태, 백정현, 최혁두, 김지수
+  application_number: 10-2014-0128666
+  year: 2014
+  month: 9월
+  description: ""
+- title: 로봇 청소기, 제스처 인식 장치 및 방법
+  authors: 김은태, 백정현
+  application_number: 10-2014-0072838(EPO15170223.0, US14/701,195)
+  year: 2014
+  month: 6월
+  description: ""
+  
+- title: 레이저 스캐너를 이용하여 장애물을 인식하기 위한 특징점 추출 장치 및 방법
+  authors: 김은태, 김범성, 최배훈
+  application_number: 10-2013-0113659(CN201310744740.1, DE102013227222.7, US14/142,054)
+  year: 2013
+  month: 9월
+  description: ""  
+- title: 레이저 스캐너를 이용한 장애물 인식 장치 및 방법
+  authors: 김은태, 김범성, 최배훈
+  application_number: 10-2013-0108446(US14/142,054 , CN201310757107.6)
+  year: 2013
+  month: 9월
+  description: ""  
+- title: 이동 로봇의 전역위치인식 및 지도 업데이트 장치 및 방법
+  authors: 김은태, 최혁두
+  application_number: 10-2013-0080688
+  year: 2013
+  month: 7월
+  description: ""  
+
+- title: SLAM 기술 기반 이동 로봇의 지도를 관리하기 위한 장치 및 그 방법
+  authors: 김은태, 최혁두
+  application_number: 10-2011-0086179
+  year: 2011
+  month: 8월
+  description: ""  
+
+- title: 이동 로봇의 위치 및 지도의 이중 보정 장치 및 방법
+  authors: 김은태, 최혁두, 김동엽, 황재필, 김영욱
+  application_number: 10-2010-0017147
+  year: 2010
+  month: 2월
+  description: ""
+- title: 객체 인식 시스템과 그 방법, 및 상기 방법을 구현하는 프로그램이 기록된 기록매체
+  authors: 김은태, 홍성준, 이희성
+  application_number: 10-2010-0017130
+  year: 2010
+  month: 2월
+  description: ""
+  
+- title: 무선 센서 네트워크에서의 센서의 위치 추정 방법 및 이를 구현하기 위한 프로그램을 기록한 기록매체와 센서 위치 추정 장치
+  authors: 김은태, 이제헌
+  application_number: 10-2009-0054400
+  year: 2009
+  month: 6월
+  description: ""
+- title: 걸음걸이 인식을 위한 가방제거 방법 및 시스템
+  authors: 김은태, 김재희
+  application_number: 10-2009-0026921
+  year: 2009
+  month: 3월
+  description: ""
+- title: 이동 로봇에서 자신의 위치를 추정하기 위한 방법 및 장치
+  authors: 김은태, 김동엽, 황재필
+  application_number: 10-2009-0023096
+  year: 2009
+  month: 3월
+  description: ""  
+- title: 스테레오 카메라 영상으로부터의 지면 추출 방법과 장치 및 이와 같은 방법을 구현하는 프로그램이 기록된 기록매체
+  authors: 김은태, 황재필
+  application_number: 10-2009-0009337
+  year: 2009
+  month: 2월
+  description: ""  
+
+- title: 자차 주변의 물체의 종류를 파악하기 위한 물체종류식별 방법 및 그 시스템
+  authors: 김은태, 박성근, 이희진, 정호기
+  application_number: 10-2008-0034327
+  year: 2008
+  month: 4월
+  description: ""  
+- title: 물체의 위치 추적 장치 및 방법
+  authors: 김은태, 박성근, 황재필
+  application_number: 10-2008-0018510
+  year: 2008
+  month: 2월
+  description: ""  
+
+- title: 적분 히스토그램을 이용한 자동차 탐지 방법 및 시스템
+  authors: 김은태, 황재필
+  application_number: 10-2007-0051763
+  year: 2007
+  month: 5월
+  description: ""  
+- title: 비디오 영상에서 확률적 접근법을 이용한 생체인식방법
+  authors: 김은태, 오경세
+  application_number: 10-2007-0013998
+  year: 2007
+  month: 2월
+  description: ""  
+- title: 걸음걸이를 이용한 생체 인식 방법
+  authors: 김은태, 홍성준
+  application_number: 10-2007-0013594
+  year: 2007
+  month: 2월
+  description: ""  
+
+- title: 확률적인 접근방법을 적용한 영상 감시 시스템 및 방법
+  authors: 김은태, 이희성, 홍성준, 오경세
+  application_number: 10-2006-0069570
+  year: 2006
+  month: 7월
+  description: ""  
+- title: 상황 인식 방법 및 이를 구현하기 위한 프로그램을 기록한 기록매체
+  authors: 김은태, 이제헌, 김승우
+  application_number: 10-2006-0042258
+  year: 2006
+  month: 5월
+  description: ""  
+
+- title: 무선 통신 시스템 및 퍼지 알고리즘을 이용한 소의 원거리 진단
+  authors: 김은태, 이희진, 김동연
+  application_number: 10-1999-0005308
+  year: 1999
+  month: 2월
+  description: ""  

@@ -1,0 +1,29 @@
+- name: Wooyong Chung
+  photo: Wooyong Chung.jpg
+  info: PhD Course Completion
+  email:
+  affiliation: LG Electronics
+  cv:
+    url:
+    exist: 0
+
+- name: Se Woong Kim
+  photo: Se Woong Kim.jpg
+  info: PhD Course Completion
+  email:
+  affiliation: MANDO Corporation
+  cv:
+    url:
+    exist: 0
+
+- name: Lee Deok Won
+  photo: bio-photo.jpg
+  info: PhD Course Completion
+  email:
+  affiliation: Korea Institute of Science and Technology (KIST)
+  cv:
+    url:
+    exist: 0
+
+
+  

@@ -1,0 +1,17 @@
+#- name: HyungGi Jo
+#  photo: hygijo.jpg
+#  info: PhD Student
+#  email: HyungGi Jo@yonsei.ac.kr
+#  affiliation: KETI
+#  cv:
+#    url:
+#    exist: 0
+
+- name: Pang Seok Jin
+  photo: Pang Seok Jin.jpg
+  info: Master Course Completion
+  email:
+  affiliation: LG Electronics
+  cv:
+    url:
+    exist: 0

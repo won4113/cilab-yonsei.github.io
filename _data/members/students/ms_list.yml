@@ -1,0 +1,98 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  cv:
+#    url:
+#    exist: 0 or 1
+
+- name: Jonghyun Yun
+  photo: jonghyunyun.jpg
+  info: Master's Degree Programs
+  email: prestigeblackleopard@yonsei.ac.kr
+  research: Mobile Robotics
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Sangyong Lee
+  photo: sangyonglee.jpg
+  info: Master's Degree Programs
+  email: lsy0500@yonsei.ac.kr
+  research: Machine Vision Technology
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Suyeon Kim
+  photo: suyeonkim.jpg
+  info: Master's Degree Programs
+  email: yeonykim2@yonsei.ac.kr
+  research: Intelligent Vehicle System
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Minseong Park
+  photo: minseongpark.jpg
+  info: Master's/Doctoral Combined Programs
+  email: msp922@yonsei.ac.kr
+  research: Intelligent Vehicle System
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Chungmyeon Lee
+  photo: chungmyeonlee.jpg
+  info: Master's Degree Programs
+  email: chmax7213@yonsei.ac.kr
+  research: Intelligent Vehicle System
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Youngjo Lee
+  photo: youngjolee.jpg
+  info: Master's/Doctoral Combined Programs
+  email: lzozo95@yonsei.ac.kr
+  research: Machine Vision Technology
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Young Joo Kim
+  photo: youngjookim.jpg
+  info: Master's Degree Programs
+  email: youngjoo.kim@yonsei.ac.kr
+  research: Intelligent Vehicle System
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Jang Yoon Kim
+  photo: jangyoonkim.jpg
+  info: Master's Degree Programs
+  email: jyoonkim@yonsei.ac.kr
+  research: Machine Vision Technology
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Gyu Hyeon Pak
+  photo: gyuhyeonpak.jpg
+  info: Master's/Doctoral Combined Programs
+  email: ghpak1002@yonsei.ac.kr
+  research: Mobile Robotics
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+

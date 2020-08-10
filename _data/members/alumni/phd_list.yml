@@ -1,0 +1,125 @@
+- name: Heesung Lee
+  photo: Heesung Lee.jpg
+  info: PhD Student
+  email:
+  affiliation: Associate Professor, Korea National University of Transportation
+  cv:
+    url:
+    exist: 0
+
+- name: Jae Pil Hwang
+  photo: Jae Pil Hwang.jpg
+  info: PhD Student
+  email:
+  affiliation: Hyundai Motors Company
+  cv:
+    url:
+    exist: 0
+
+- name: Seongkeun Park
+  photo: Seongkeun Park.jpg
+  info: PhD Student
+  email:
+  affiliation: Assistant Professor, Soonchunhyang University
+  cv:
+    url:
+    exist: 0
+
+- name: Jae Hun Lee
+  photo: Jae Hun Lee.jpg
+  info: PhD Student
+  email:
+  affiliation: Korea Institute for Defence Analyses (KIDA)
+  cv:
+    url:
+    exist: 0
+
+- name: Sungjun Hong
+  photo: Sungjun Hong.jpg
+  info: PhD Student
+  email:
+  affiliation: Assistant Professor, Sungkonghoe University
+  cv:
+    url:
+    exist: 0
+
+- name: Hyuk Doo Choi
+  photo: Hyuk Doo Choi.jpg
+  info: PhD Student
+  email:
+  affiliation: Assistant Professor, Soonchunhyang University
+  cv:
+    url:
+    exist: 0
+
+- name: Beomseong Kim
+  photo: Beomseong Kim.jpg
+  info: PhD Student
+  email:
+  affiliation: SK Telecom
+  cv:
+    url:
+    exist: 0
+
+- name: Baehoon Choi
+  photo: Baehoon Choi.jpg
+  info: PhD Student
+  email:
+  affiliation: Phantom AI Korea
+  cv:
+    url:
+    exist: 0
+
+- name: Jeonghyun Baek
+  photo: Jeonghyun Baek.jpg
+  info: PhD Student
+  email:
+  affiliation: Agency for Defense Development (ADD)
+  cv:
+    url:
+    exist: 0
+
+- name: Sangyun Lee
+  photo: Sangyun Lee.jpg
+  info: PhD Student
+  email:
+  affiliation: Samsung Electronics
+  cv:
+    url:
+    exist: 0
+
+- name: Peyman H. K.
+  photo: Peyman H. K..jpg
+  info: PhD Student
+  email:
+  affiliation: Postdoc Researcher, Stanford University
+  cv:
+    url:
+    exist: 0
+
+- name: Jhonghyun An
+  photo: Jhonghyun An.jpg
+  info: PhD Student
+  email:
+  affiliation: Agency for Defense Development (ADD)
+  cv:
+    url:
+    exist: 0
+
+- name: Jeong Min Kang
+  photo: Jeong Min Kang.jpg
+  info: PhD Student
+  email: kangjm@yonsei.ac.kr
+  affiliation:
+  cv:
+    url:
+    exist: 0
+
+- name: HyungGi Jo
+  photo: HyungGi Jo.jpg
+  info: PhD Student
+  email: hygijo@yonsei.ac.kr
+  affiliation: Korea Electronics Technology Institute (KETI)
+  cv:
+    url:
+    exist: 0
