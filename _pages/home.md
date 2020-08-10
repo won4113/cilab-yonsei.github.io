@@ -19,14 +19,14 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
     </ol>
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item">
+        <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV_SHJ.png" alt="Slide 1" />
             <div class="carousel-caption bg-dark mb-4">
               <h1>ECCV 2020</h1>
               <p>Kernelized Memory Network for Video Object Segmentation</p>
             </div>
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TITS_AJH.png" alt="Slide 2" />
             <div class="carousel-caption bg-dark mb-4">
               <h3>IEEE Transactions on Intelligent Transportation Systems (TITS)</h3>
