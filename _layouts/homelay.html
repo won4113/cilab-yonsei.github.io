@@ -2,11 +2,16 @@
 layout: default
 ---
 
-  <div id="homeid" class="col-sm-8">
-        <h1>Welcome to the CILAB</h1>
+<div id="internid" class="col-sm-12" >
+  {% include intern.html %}
+</div>
 
-	{{ content }}
-  </div>
-  <div id="internid" class="col-sm-4" >
-    {% include intern.html %}
-    </div>
+<div id="homeid" class="col-sm-12">
+  <h1>Welcome to the CILAB</h1>
+  {{ content }}
+</div>
+
+
+<div id="newsid" class="col-sm-12" >
+  {% include news.html %}
+</div>
