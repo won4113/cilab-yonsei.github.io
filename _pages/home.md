@@ -22,7 +22,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ECCV_SHJ.png" alt="Slide 1" />
             <div class="carousel-caption bg-dark mb-4">
-              <h1>ECCV 2020</h1>
+              <h3>ECCV 2020</h3>
               <p>Kernelized Memory Network for Video Object Segmentation</p>
             </div>
         </div>
