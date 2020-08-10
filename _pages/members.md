@@ -39,7 +39,7 @@ permalink: /members/
 
 # Students
 
-Jump to [Master's/Doctoral Combined Program Students](#combined-students), [PhD Students](#phd-students) and [Master Students](#master-students).
+Jump to [Master's/Doctoral Combined Program Students](#combined-students), [PhD Program Students](#phd-students) and [Master Program Students](#master-students).
 
 ## Master's/Doctoral Combined Program Students
 {% assign number_printed = 0 %}
@@ -109,7 +109,7 @@ Jump to [Master's/Doctoral Combined Program Students](#combined-students), [PhD 
 </div>
 {% endif %}
 
-## PhD Students
+## PhD Program Students
 {% assign number_printed = 0 %}
 {% for member in site.data.members.students.phd_list %}
 
@@ -177,7 +177,7 @@ Jump to [Master's/Doctoral Combined Program Students](#combined-students), [PhD 
 </div>
 {% endif %}
 
-## Master Students
+## Master Program Students
 {% assign number_printed = 0 %}
 {% for member in site.data.members.students.ms_list %}
 
