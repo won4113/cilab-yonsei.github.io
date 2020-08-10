@@ -32,7 +32,7 @@ For more information on our research areas, please see below sections.
 - A New Contour-Based Approach to Moving Object Detection and Tracking Using a Low-end 3-Dimensional Laser Scanner, TVT, 2019
 
 <div markdown="0" class="video-container"> 
-    <iframe width="100%" src="https://www.youtube.com/embed/ywRchkIXQVI" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" src="https://www.youtube.com/embed/ifHTvlM9FU8" frameborder="0" allowfullscreen></iframe>
 </div> 
 <br/>
 
@@ -52,7 +52,7 @@ For more information on our research areas, please see below sections.
 - Kernelized Memory Network for Video Object Segmentation, ECCV, 2020
 
 <div markdown="0" class="video-container"> 
-    <iframe width="100%" src="https://www.youtube.com/embed/gSPUzY2tkV8" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" src="https://www.youtube.com/embed/ywRchkIXQVI" frameborder="0" allowfullscreen></iframe>
 </div> 
 <br/>
 
