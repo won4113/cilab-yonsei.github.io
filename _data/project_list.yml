@@ -7,7 +7,7 @@
 - title: 실도로 주행 환경에서의 3차원 라이다 센서 기반 객체 분류 기술
   start: 2019.07.01
   end: 2020.06.30
-  company: 현대NGV(주)
+  company: 현대자동차/현대NGV(주)
   description: ""
 
 - title: 밀집군중 사이 민첩기동이 가능한 인공지능 융합 실내외 로봇 자율주행 기술개발
@@ -97,13 +97,13 @@
 - title: 단일영상 기반 도로 특징 검출 및 지도 작성 기술 개발
   start: 2016.07.01
   end: 2017.01.17
-  company: 현대NGV(주)
+  company: 현대자동차/현대NGV(주)
   description: ""
 
 - title: 기계학습기법을 이용한 후방 및 측방 충돌 감지 시스템 컨셉 도출
   start: 2016.08.01
   end: 2016.12.16
-  company: 현대NGV(주)
+  company: 현대자동차/현대NGV(주)
   description: ""
 
 - title: 센서 모듈을 이용한 3D 재구성 소프트웨어 개발
@@ -139,7 +139,7 @@
 - title: 교차로 충돌안전을 위한 레이저스캐너 인지기술 개발
   start: 2015.04.01
   end: 2016.03.31
-  company: 현대NGV(주)
+  company: 현대자동차/현대NGV(주)
   description: ""
 
 - title: RGB-D 센서를 이용한 3차원 자세 추정 및 시각화 기술 개발
@@ -169,7 +169,7 @@
 - title: 레이저스캐너 기반 전방위 주변환경 인식 알고리즘 개발
   start: 2013.11.01
   end: 2014.10.31
-  company: 현대NGV(주)
+  company: 현대자동차/현대NGV(주)
   description: ""
 
 - title: 사고 예방 및 승객 상해 경감을 위한 능동 및 수동 안전 통합 시스템 개발
@@ -187,7 +187,7 @@
 - title: 레이저 스캐너를 이용한 타겟 인식/추적/분류 알고리즘 개발
   start: 2012.10.01
   end: 2013.09.30
-  company: 현대NGV(주)
+  company: 현대자동차/현대NGV(주)
   description: ""
 
 - title: 인지모델기반 실시간 환경지도 구축 및 전역 공간인지 기술개발
