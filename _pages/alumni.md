@@ -23,7 +23,7 @@ Jump to [PhD Degree](#phd-degree), [Master Degree](#master-degree).
 {% if member.cv.exist == 1 %}
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
-  <h4>{{ member.name }} <a href="{{ site.url }}{{ site.baseurl }}/cv/{{ member.cv.url }}">CV</a></h4>
+  <h4>{{ member.name }}</h4>
   <i>{{ member.affiliation }}</i>
   <br>CV: <a href="{{ site.url }}{{ site.baseurl }}/cv/{{ member.cv.url }}">download</a>
   <ul style="overflow: hidden">
