@@ -103,14 +103,14 @@
   email:
   affiliation: Agency for Defense Development (ADD)
   cv:
-    url:
-    exist: 0
+    url: cv_jhonghyunan.pdf
+    exist: 1
 
 - name: Jeong Min Kang
   photo: Jeong Min Kang.jpg
   info: PhD Student
   email: kangjm@yonsei.ac.kr
-  affiliation:
+  affiliation: Stryx
   cv:
     url:
     exist: 0
@@ -121,5 +121,5 @@
   email: hygijo@yonsei.ac.kr
   affiliation: Korea Electronics Technology Institute (KETI)
   cv:
-    url:
-    exist: 0
+    url: cv_hyunggijo.pdf
+    exist: 1
