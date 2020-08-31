@@ -25,8 +25,8 @@ Jump to [PhD Degree](#phd-degree), [Master Degree](#master-degree).
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.affiliation }}</i>
-  <ul style="overflow: hidden">
   <br>CV: <a href="{{ site.url }}{{ site.baseurl }}/cv/{{ member.cv.url }}">download</a>
+  <ul style="overflow: hidden">
   </ul>
 </div>
 {% endif %}
@@ -36,8 +36,8 @@ Jump to [PhD Degree](#phd-degree), [Master Degree](#master-degree).
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: center" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.affiliation }}</i>
-  <ul style="overflow: hidden">
   <br>
+  <ul style="overflow: hidden">
   </ul>
 </div>
 {% endif %}
