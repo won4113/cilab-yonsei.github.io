@@ -68,3 +68,13 @@
   cv:
     url:
     exist: 0
+
+- name: Minwoo Park
+  photo: minwoopark.jpg
+  info: Master's Degree Programs
+  email: alsdn321@yonsei.ac.kr
+  research:
+  affiliation: Korea Shipbuilding & Offshore Engineering Co.,Ltd.
+  cv:
+    url:
+    exist: 0
