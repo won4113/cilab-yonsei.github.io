@@ -58,6 +58,13 @@ For more information on our research areas, please see below sections.
 
 ## AREA III - Mobile Robot Application <a id="area-3"></a>
 
+- 3D Mapping and Localization in BaekYang-Street, Yonsei University
+
+<div markdown="0" class="video-container"> 
+    <iframe width="100%" src="https://www.youtube.com/embed/ug9hgtCKo3M" frameborder="0" allowfullscreen></iframe>
+</div> 
+<br/>
+
 - Mixture Density-PoseNet and Its Application to Monocular Camera-based Global Localization, TII, 2020
 
 <div class="container-fluid d-none d-sm-block" style="text-align:center">
