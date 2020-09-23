@@ -27,7 +27,7 @@ Jump to
 
   {% endfor %}
 
-  {% if data_exist == true %}
+  {% if false %}
 ## {{ current_year }}
     {% for publi in site.data.publications.dom_journal_list %}
 
