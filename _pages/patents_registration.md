@@ -14,8 +14,7 @@ permalink: /patents_registration/
 Jump to
 {% for current_year in (first_year..last_year) reversed -%}
 [{{ current_year }}](#{{ current_year }}),
-{% endfor -%}
-[Before {{ first_year }}](#before-{{ first_year }}).<br />
+{% endfor -%}.<br />
 
 {% for current_year in (first_year..last_year) reversed %}
   {% assign data_exist = false %}
@@ -37,17 +36,4 @@ Jump to
       {% endif %}
     {% endfor %}
   {% endif %}
-{% endfor %}
-
-## Before {{ first_year }}
-{% for publi in site.data.patents.registration_list %}
-
-  {% if publi.year < current_year %}
-
-  <strong>{{ publi.title }}</strong> <br />
-  <em>{{ publi.authors }}</em> <br />
-  <em>{{ publi.registration_number }}</em>, {{ publi.month }}, {{ publi.year }}.<br />
-
-  {% endif %}
-
 {% endfor %}
