@@ -18,6 +18,15 @@ Jump to
 [Before {{ first_year }}](#before-{{ first_year }}).<br />
 
 {% for current_year in (first_year..last_year) reversed %}
+  {% assign data_exist = false %}
+  {% for publi in site.data.publications.int_conference_list %}
+
+    {% if publi.year == current_year %}
+      {% assign data_exist = true %}
+    {% endif %}
+
+  {% endfor %}
+  {% if data_exist %}
 ## {{ current_year }}
 {% for publi in site.data.publications.dom_journal_list %}
 
@@ -38,6 +47,7 @@ Jump to
   {% endif %}
 
 {% endfor %}
+{% endif %}
 {% endfor %}
 
 ## Before {{ first_year }}
