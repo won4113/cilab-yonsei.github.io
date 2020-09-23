@@ -11,7 +11,7 @@ permalink: /patents_application/
 
 {% assign last_year = site.data.year_information.current_year %}
 {% assign first_year = site.data.year_information.pub_first_showing_year %}
-{% assign first_year_plus_one = {{ site.data.year_information.pub_first_showing_year | plus : 1}} %}
+{% assign first_year_plus_one = site.data.year_information.pub_first_showing_year_plus_one %}
 
 Jump to
 {% for current_year in (first_year_plus_one..last_year) reversed -%}
