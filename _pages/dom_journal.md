@@ -19,7 +19,7 @@ Jump to
 
 {% for current_year in (first_year..last_year) reversed %}
   {% assign data_exist = false %}
-  {% for publi in site.data.publications.int_conference_list %}
+  {% for publi in site.data.publications.dom_journal_list %}
 
     {% if publi.year == current_year %}
       {% assign data_exist = true %}
@@ -27,10 +27,9 @@ Jump to
 
   {% endfor %}
 
-  {% if false %}
+  {% if data_exist %}
 ## {{ current_year }}
     {% for publi in site.data.publications.dom_journal_list %}
-
       {% if publi.year == {{current_year}} %}
 
         {% if publi.accepted == 0 %}
@@ -38,6 +37,7 @@ Jump to
 <em>{{ publi.authors }}</em> <br />
 <em>{{ publi.journal }}</em>, vol. {{ publi.vol }}, no. {{ publi.issue }}, pp. {{ publi.page }}, {{ publi.month }}, {{ publi.year }}.<br />
         {% endif %}
+
         {% if publi.accepted == 1 %}
 <strong>{{ publi.title }}</strong> <br />
 <em>{{ publi.authors }}</em> <br />
@@ -47,7 +47,6 @@ Jump to
       {% endif %}
     {% endfor %}
   {% endif %}
-
 {% endfor %}
 
 ## Before {{ first_year }}
