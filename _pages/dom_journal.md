@@ -20,11 +20,9 @@ Jump to
 {% for current_year in (first_year..last_year) reversed %}
   {% assign data_exist = false %}
   {% for publi in site.data.publications.dom_journal_list %}
-
     {% if publi.year == current_year %}
       {% assign data_exist = true %}
     {% endif %}
-
   {% endfor %}
 
   {% if data_exist %}
