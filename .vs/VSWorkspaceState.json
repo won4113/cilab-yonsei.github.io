@@ -1,16 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\cv",
-    "\\fonts",
-    "\\images",
     "\\_data",
-    "\\_includes",
-    "\\_layouts",
-    "\\_pages",
-    "\\_sass",
+    "\\_data\\members",
+    "\\_data\\patents",
     "\\_sass\\bootstrap"
   ],
-  "SelectedNode": "\\_pages\\int_journal.md",
+  "SelectedNode": "\\_data\\news.yml",
   "PreviewInSolutionExplorer": false
 }
