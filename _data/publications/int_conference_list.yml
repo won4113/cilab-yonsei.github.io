@@ -3,7 +3,9 @@
 #  Conference:
 #  year:
 #  month:
-#  venue: 
+#  venue:
+#  vol:
+#  page:
 #  description:
 
 - title: "3D-DEEP: 3-Dimensional Deep-Learning Based on Elevation Patterns for Road Scene Interpretation"
@@ -13,6 +15,8 @@
   year: 2020
   month: October
   venue: Las Vegas, United States
+  vol:
+  page:
   description: ""
 - title: Kernelized Memory Network for Video Object Segmentation
   authors:
@@ -21,6 +25,8 @@
   year: 2020
   month: August
   venue: Glasgow, Scotland
+  vol:
+  page:
   description: ""
 - title: Is Whole Object Information Helpful for Scene Recognition?
   authors:
@@ -29,6 +35,8 @@
   year: 2020
   month: June
   venue: Kyoto, Japan
+  vol:
+  page: 149-152
   description: ""
 - title: A Kernel-based Approach for Video Object Segmentation
   authors:
@@ -37,6 +45,8 @@
   year: 2020
   month: June
   venue: Seattle, United States
+  vol:
+  page:
   description: ""
 
 
@@ -48,6 +58,8 @@
   year: 2019
   month: November
   venue: Macau, China
+  vol:
+  page: 455-461
   description: ""
 - title: Video Multitask Transformer Network
   authors:
@@ -56,6 +68,8 @@
   year: 2019
   month: October
   venue: Seoul, Korea
+  vol:
+  page:
   description: ""
 - title: Partial Convolution for Scene Recognition
   authors:
@@ -64,6 +78,8 @@
   year: 2019
   month: October
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 - title: "Scene Recognition via Object-to-Scene Class Conversion: End-to-End Training"
   authors:
@@ -72,6 +88,8 @@
   year: 2019
   month: July
   venue: Budapest, Hungary
+  vol:
+  page: 1-6 ##
   description: ""
 - title: Odometry Estimation CNN Using Sparse LiDAR Data
   authors:
@@ -80,6 +98,8 @@
   year: 2019
   month: June
   venue: Jeju, Korea
+  vol:
+  page: 124-127
   description: ""
 - title: Visual Loop Closure Detection over Illumination Change
   authors:
@@ -88,6 +108,8 @@
   year: 2019
   month: June
   venue: Jeju, Korea
+  vol:
+  page: 77-80
   description: ""
 
 
@@ -99,6 +121,8 @@
   year: 2018
   month: November
   venue: Daegu, Korea
+  vol:
+  page:
   description: ""
 - title: Weakly Supervised Temporal Localization in Video Scene Recognition
   authors:
@@ -107,6 +131,8 @@
   year: 2018
   month: October
   venue: GangWon, Korea
+  vol:
+  page:
   description: ""
 - title: Large Scale Representation of Volumetric Fusion using ICP
   authors:
@@ -115,6 +141,8 @@
   year: 2018
   month: October
   venue: GangWon, Korea
+  vol:
+  page:
   description: ""
 - title: Object Classification of Laser Scanner by Using Recurrent Neural Network
   authors:
@@ -123,6 +151,8 @@
   year: 2018
   month: October
   venue: Jeju, Korea
+  vol:
+  page: 1440-1444
   description: ""
 - title: New Feature-level Video Classification via Temporal Attention Model
   authors:
@@ -131,6 +161,8 @@
   year: 2018
   month: October
   venue: Seoul, Korea
+  vol:
+  page: 31-34
   description: ""
 - title: Road Lane Semantic Segmentation for High Definition Map
   authors:
@@ -139,6 +171,8 @@
   year: 2018
   month: June
   venue: Changshu, China
+  vol:
+  page: 1001-1006
   description: ""
 - title: Robust Visual Loop Closure Detection with Repetitive Features
   authors:
@@ -147,6 +181,8 @@
   year: 2018
   month: June
   venue: Hawaii, United States
+  vol:
+  page: 891-895
   description: ""
 - title: "Robust 6-DOF Localization Using Sensor Fusion System in Indoor-Outdoor Environments"
   authors:
@@ -155,6 +191,8 @@
   year: 2018
   month: June
   venue: Hawaii, United States
+  vol:
+  page:
   description: ""
 
 
@@ -166,6 +204,8 @@
   year: 2017
   month: October
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 - title: Empty Area Search on Occupancy Grid Map for Mobile Robot Navigation
   authors:
@@ -174,6 +214,8 @@
   year: 2017
   month: October
   venue: Daegu, Korea
+  vol:
+  page:
   description: ""
 - title: Real-Time Tracking-by-Detection using Deep Learning for Mobile Vision Applications
   authors:
@@ -182,6 +224,8 @@
   year: 2017
   month: October
   venue: Daegu, Korea
+  vol:
+  page:
   description: ""
 - title: Multi-Resolution Point Cloud Generation Based on Heterogeneous Sensor Fusion System
   authors:
@@ -190,6 +234,8 @@
   year: 2017
   month: June
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 
   #2016
@@ -200,6 +246,8 @@
   year: 2016
   month: November
   venue: Taichung, Taiwan
+  vol:
+  page:
   description: ""
 - title: Efficient 3D Mapping with RGB-D Camera Based on Distance Dependent Update
   authors:
@@ -208,6 +256,8 @@
   year: 2016
   month: October
   venue: Gyeongju, Korea
+  vol:
+  page:
   description: ""
 - title: Histogram-model based Road Boundary Estimation by using Laser Scanner
   authors:
@@ -216,6 +266,8 @@
   year: 2016
   month: October
   venue: Gyeongju, Korea
+  vol:
+  page:
   description: ""
 - title: Application of Soft Histogram of Oriented Gradient on Traffic Sign Detection
   authors:
@@ -224,6 +276,8 @@
   year: 2017
   month: June
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 - title: A novel rear-end collision warning system using neural network ensemble
   authors:
@@ -232,6 +286,8 @@
   year: 2016
   month: June
   venue: Gothenburg, Sweden
+  vol:
+  page:
   description: ""
 - title: Getting Higher Performance Using a Two-Layer Extreme Learning Machine
   authors:
@@ -240,6 +296,8 @@
   year: 2016
   month: January
   venue: Busan, Korea
+  vol:
+  page:
   description: ""
 
 
@@ -251,6 +309,8 @@
   year: 2015
   month: November
   venue: Mokpo, Korea
+  vol:
+  page:
   description: ""
 - title: Road Boundary Estimation by using Laser Scanner
   authors:
@@ -259,6 +319,8 @@
   year: 2015
   month: November
   venue: Yilan, Taiwan
+  vol:
+  page:
   description: ""
 - title: A Simple Extrinsic Calibration Method of Color and Depth Camera
   authors:
@@ -267,6 +329,8 @@
   year: 2015
   month: November
   venue: Yilan, Taiwan
+  vol:
+  page:
   description: ""
 - title: WiFi-based Indoor Localization Using a Continuous Space Estimator From Topological Information
   authors:
@@ -275,6 +339,8 @@
   year: 2015
   month: October
   venue: Banff, Alberta, Canada
+  vol:
+  page:
   description: ""
 - title: Proposing a GPU Based Modified Fuzzy Nearest Neighbor Rule for Traffic Sign Detection
   authors:
@@ -283,6 +349,8 @@
   year: 2015
   month: October
   venue: Busan, Korea
+  vol:
+  page:
   description: ""
 - title: Vehicle detection and classification in the Scala sensor by using binary classification
   authors:
@@ -291,6 +359,8 @@
   year: 2015
   month: October
   venue: Busan, Korea
+  vol:
+  page:
   description: ""
 - title: 3D Proposing a Fast Circular HOG Descriptor for Detecting Rotated Objects
   authors:
@@ -299,6 +369,8 @@
   year: 2015
   month: July
   venue: Killarney, Ireland
+  vol:
+  page:
   description: ""
 - title: New efficient speed-up scheme for cascade implementation of SVM classifier
   authors:
@@ -307,6 +379,8 @@
   year: 2015
   month: July
   venue: Killarney, Ireland
+  vol:
+  page:
   description: ""
 - title: Pose Estimation and 3D Environment Reconstruction using less Reliable Depth Data
   authors:
@@ -315,6 +389,8 @@
   year: 2015
   month: July
   venue: Busan, Korea
+  vol:
+  page:
   description: ""
 - title: Head-Shoulder Detection using Cascade form of SVM
   authors:
@@ -323,6 +399,8 @@
   year: 2015
   month: July
   venue: Seoul, Korea
+  vol:
+  page:
   description: ""
 
   
@@ -334,6 +412,8 @@
   year: 2014
   month: December
   venue: Kitakyushu, Japan
+  vol:
+  page:
   description: ""
 - title: Rear-end Collision Warning System Using Linear Discriminant Analysis
   authors:
@@ -342,6 +422,8 @@
   year: 2014
   month: December
   venue: Kitakyushu, Japan
+  vol:
+  page:
   description: ""
 - title: WiFi-based indoor localization and tracking of a moving device
   authors:
@@ -350,6 +432,8 @@
   year: 2014
   month: November
   venue: Corpus Christ, TX, United States
+  vol:
+  page:
   description: ""
 - title: Multimodel approach for pedestrian detection
   authors:
@@ -358,6 +442,8 @@
   year: 2014
   month: November
   venue: Kaohsiung, Taiwan
+  vol:
+  page:
   description: ""
 - title: Part-based Face Detection using SLBP
   authors:
@@ -366,6 +452,8 @@
   year: 2014
   month: October
   venue: Gyeonggi-do, Korea
+  vol:
+  page:
   description: ""
 - title: Efficient face recognition based on GAP feature
   authors:
@@ -374,6 +462,8 @@
   year: 2014
   month: October
   venue: Gyeonggi-do, Korea
+  vol:
+  page:
   description: ""
 - title: On-road precise vehicle detection system using ROI estimation
   authors:
@@ -382,6 +472,8 @@
   year: 2014
   month: October
   venue: Qingdao, China
+  vol:
+  page:
   description: ""
 
 
@@ -393,6 +485,8 @@
   year: 2013
   month: December
   venue: Taipei, Taiwan
+  vol:
+  page:
   description: ""
 - title: Intervehicular Sensor Fusion for Situation Awareness
   authors:
@@ -401,6 +495,8 @@
   year: 2013
   month: November
   venue: seoul, Korea
+  vol:
+  page:
   description: ""
 - title: A Ceiling Environment Discrimination based on Ceiling Segmentation
   authors:
@@ -409,6 +505,8 @@
   year: 2013
   month: November
   venue: Daejeon, Korea
+  vol:
+  page:
   description: ""
 - title: Vision-based Wet Area Detection Using EM
   authors:
@@ -417,6 +515,8 @@
   year: 2013
   month: November
   venue: Daejeon, Korea
+  vol:
+  page:
   description: ""
 - title: Particle Recovery of FastSLAM form Tracking Failure for Autonomous Vehicles
   authors:
@@ -425,6 +525,8 @@
   year: 2013
   month: November
   venue: Daejeon, Korea
+  vol:
+  page:
   description: ""
 - title: Grid Mapping Adaptive to Various Map Sizes for Sbot
   authors:
@@ -433,6 +535,8 @@
   year: 2013
   month: October
   venue: Gwangju, Korea
+  vol:
+  page:
   description: ""
 - title: Comparison Study of different Feature Classifiers for Hand Posture Classification
   authors:
@@ -441,6 +545,8 @@
   year: 2013
   month: October
   venue: Gwangju, Korea
+  vol:
+  page:
   description: ""
 - title: On-road vehicle detection based on effective hypothesis generation
   authors:
@@ -449,6 +555,8 @@
   year: 2013
   month: August
   venue: Gyeongju, Korea
+  vol:
+  page:
   description: ""
 
   
@@ -460,6 +568,8 @@
   year: 2012
   month: November
   venue: Taichung, Taiwan
+  vol:
+  page:
   description: ""
 - title: CV-SLAM using line and point features
   authors:
@@ -468,6 +578,8 @@
   year: 2012
   month: October
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 - title: Ceiling vision based SLAM approach using sensor fusion of sonar sensor and monocular camera
   authors:
@@ -476,6 +588,8 @@
   year: 2012
   month: October
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 - title: Indoor localization using laser scanner and vision marker for intelligent robot
   authors:
@@ -484,6 +598,8 @@
   year: 2012
   month: October
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 - title: A modified dynamic window approach in crowded indoor environment for intelligent transport robot
   authors:
@@ -492,6 +608,8 @@
   year: 2012
   month: October
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 - title: Adaptive ROI-based autonomous pedestrian detection system
   authors:
@@ -500,6 +618,8 @@
   year: 2012
   month: October
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 - title: Autonomous vehicle detection system using visible and infrared camera
   authors:
@@ -508,6 +628,8 @@
   year: 2012
   month: October
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 - title: Multiple hypothesis tracking for mobile robot localization
   authors:
@@ -516,6 +638,8 @@
   year: 2012
   month: August
   venue: Akita, Japan
+  vol:
+  page:
   description: ""
 - title: LIDAR sensor matching system using database
   authors:
@@ -524,6 +648,8 @@
   year: 2012
   month: February
   venue: Kualalumpur, Malaysia
+  vol:
+  page:
   description: ""
 
 
@@ -535,6 +661,8 @@
   year: 2011
   month: October
   venue: Gyeonggi-do, Korea
+  vol:
+  page:
   description: ""
 - title: A soft computing approach for collision risk assessments
   authors:
@@ -543,6 +671,8 @@
   year: 2011
   month: October
   venue: Gyeonggi-do, Korea
+  vol:
+  page:
   description: ""
 - title: "An obstacle classification for intelligent vehicle using 24GHz microwave RADAR: various distribution approach"
   authors:
@@ -551,6 +681,8 @@
   year: 2011
   month: September
   venue: Suwon, Korea
+  vol:
+  page:
   description: ""
 - title: An indoor navigation system using fuzzy dynamic window approach
   authors:
@@ -559,6 +691,8 @@
   year: 2011
   month: September
   venue: Suwon, Korea
+  vol:
+  page:
   description: ""
 - title: Regularized eigenspace-based gait recognition system for human identification
   authors:
@@ -567,6 +701,8 @@
   year: 2011
   month: June
   venue: Beijing, China
+  vol:
+  page:
   description: ""
 - title: Mobile robot exploration via pseudo range model
   authors:
@@ -575,6 +711,8 @@
   year: 2011
   month: May
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 
 
@@ -586,6 +724,8 @@
   year: 2010
   month: December
   venue: Okayama, Japan
+  vol:
+  page:
   description: ""
 - title: Segmentation of the silhouette image and their combinations for gait recognition
   authors:
@@ -594,6 +734,8 @@
   year: 2010
   month: December
   venue: Okayama, Japan
+  vol:
+  page:
   description: ""
 - title: Novel obstacle avoidance system in dynamic environment using radar
   authors:
@@ -602,6 +744,8 @@
   year: 2010
   month: November
   venue: Busan, Korea
+  vol:
+  page:
   description: ""
 - title: Gait-based human identification using scores fusion
   authors:
@@ -610,6 +754,8 @@
   year: 2010
   month: November
   venue: Busan, Korea
+  vol:
+  page:
   description: ""
 - title: Robust DV-hop algorithm for localization in wireless sensor network
   authors:
@@ -618,6 +764,8 @@
   year: 2010
   month: October
   venue: Gyeonggi-do, Korea
+  vol:
+  page:
   description: ""
 - title: Intelligent collision risk assessment based on neural network ensemble
   authors:
@@ -626,6 +774,8 @@
   year: 2010
   month: August
   venue: Taipei, Taiwan
+  vol:
+  page:
   description: ""
 - title: "Collision risk assessment for pedestrians’ safety : neural network with interacting multiple model approach"
   authors:
@@ -634,6 +784,8 @@
   year: 2010
   month: August
   venue: Taipei, Taiwan
+  vol:
+  page:
   description: ""
 - title: Gait Recognition System using Decision-Level Fusion 
   authors:
@@ -642,6 +794,8 @@
   year: 2010
   month: June
   venue: Cebu, Philippines
+  vol:
+  page:
   description: ""
 - title: Distance based outlier detection for nearest neighborhood
   authors:
@@ -650,6 +804,8 @@
   year: 2010
   month: June
   venue: Cebu, Philippines
+  vol:
+  page:
   description: ""
 - title: CV SLAM using ceiling boundary
   authors:
@@ -658,6 +814,8 @@
   year: 2010
   month: June
   venue: Taichung, Taiwan
+  vol:
+  page:
   description: ""
 - title: Gait recognition system using decision-level fusion
   authors:
@@ -666,6 +824,8 @@
   year: 2010
   month: June
   venue: Taichung, Taiwan
+  vol:
+  page:
   description: ""
 
  
@@ -677,6 +837,8 @@
   year: 2009
   month: October
   venue: Seoul, Korea
+  vol:
+  page:
   description: ""
 - title: FCV-SLAM for multi-obstacle space
   authors:
@@ -685,6 +847,8 @@
   year: 2009
   month: September
   venue: Qingdao, China
+  vol:
+  page:
   description: ""
 - title: classification system using 24GHz microwave radar
   authors:
@@ -693,6 +857,8 @@
   year: 2009
   month: September
   venue: Gwangju, Korea
+  vol:
+  page:
   description: ""
 - title: A new state estimation method for unknown system
   authors:
@@ -701,6 +867,8 @@
   year: 2009
   month: August
   venue: Busan, Korea
+  vol:
+  page:
   description: ""
 - title: A new design method for linguistically understandable fuzzy classifier
   authors:
@@ -709,6 +877,8 @@
   year: 2009
   month: August
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 - title: Efficient range-free localization algorithm for wireless sensor network based on shortest path information
   authors:
@@ -717,6 +887,8 @@
   year: 2009
   month: August
   venue: Fukuoka, Japan
+  vol:
+  page:
   description: ""
 - title: Optimal classifier design method using hierarchical fair competition model based parallel genetic algorithm
   authors:
@@ -725,6 +897,8 @@
   year: 2009
   month: August
   venue: Fukuoka, Japan
+  vol:
+  page:
   description: ""
 - title: Fusion of multiple gait cycles for human identification
   authors:
@@ -733,6 +907,8 @@
   year: 2009
   month: June
   venue: Beijing, China
+  vol:
+  page:
   description: ""
 - title: Automatic gait recognition using width vector mean
   authors:
@@ -741,6 +917,8 @@
   year: 2009
   month: May
   venue: Xi'an, China
+  vol:
+  page:
   description: ""
 
   
@@ -752,6 +930,8 @@
   year: 2008
   month: October
   venue: Seoul, Korea
+  vol:
+  page:
   description: ""
 - title: Multiple Data Association and Tracking Using Millimeter Wave Radar
   authors:
@@ -760,6 +940,8 @@
   year: 2008
   month: October
   venue: Seoul, Korea
+  vol:
+  page:
   description: ""
 - title: Fusion of Multiple Gait Features for Human Identification
   authors:
@@ -768,6 +950,8 @@
   year: 2008
   month: October
   venue: Seoul, Korea
+  vol:
+  page:
   description: ""
 - title: Efficient classification scheme based on hybrid global and local properties of feature
   authors:
@@ -776,6 +960,8 @@
   year: 2008
   month: October
   venue: Seoul, Korea
+  vol:
+  page:
   description: ""
 - title: Reducing power consumption in Error-Correcting Code using various genetic operators
   authors:
@@ -784,6 +970,8 @@
   year: 2008
   month: September
   venue: Nagoya, Japan
+  vol:
+  page:
   description: ""
 - title: Multi-view gait recognition fusion methodology
   authors:
@@ -792,6 +980,8 @@
   year: 2008
   month: June 
   venue: Singapore
+  vol:
+  page:
   description: ""
 
    
@@ -803,6 +993,8 @@
   year: 2007
   month: October
   venue: Seoul, Korea
+  vol:
+  page:
   description: ""
 - title: Combination of multiple classifiers using probabilistic method
   authors:
@@ -811,6 +1003,8 @@
   year: 2007
   month: October
   venue: Seoul, Korea
+  vol:
+  page:
   description: ""
 - title: Context Awareness for Sensor Network Using Bayesian Networks and Fuzzy Knowledge
   authors:
@@ -819,6 +1013,8 @@
   year: 2007
   month: September
   venue: Sokcho, Korea
+  vol:
+  page:
   description: ""
 - title: Centroid Localization Method in Wireless Sensor Networks using TSK Fuzzy Modeling
   authors:
@@ -827,6 +1023,8 @@
   year: 2007
   month: September
   venue: Sokcho, Korea
+  vol:
+  page:
   description: ""
 - title: Multi-objective genetic design for error correcting code
   authors:
@@ -835,6 +1033,8 @@
   year: 2007
   month: September
   venue: Sokcho, Korea
+  vol:
+  page:
   description: ""
 - title: Multi-Classifier Based LIDAR and Camera Fusion
   authors:
@@ -843,6 +1043,8 @@
   year: 2007
   month: September
   venue: Seattle, WA, United States
+  vol:
+  page:
   description: ""
 - title: "A New Gait Representation for Human Identification: Mass Vector"
   authors:
@@ -851,6 +1053,8 @@
   year: 2007
   month: May
   venue: Harbin, China
+  vol:
+  page:
   description: ""
 - title: A New Particle Filter Inspired by Biological Evolution:Genetic Filter
   authors:
@@ -859,6 +1063,8 @@
   year: 2007
   month: January
   venue: ## 모름
+  vol:
+  page:
   description: ""
 - title: Reducing Power in Error Correcting Code Using Genetic Algorithm
   authors:
@@ -867,6 +1073,8 @@
   year: 2007
   month: January
   venue: ## 모름
+  vol:
+  page:
   description: ""
 - title: Path Planning of a Robot Manipulator Using Retrieval RRT Strategy
   authors:
@@ -875,6 +1083,8 @@
   year: 2007
   month: January
   venue: ## 모름
+  vol:
+  page:
   description: ""
 
    
@@ -886,6 +1096,8 @@
   year: 2006
   month: October
   venue: Busan, Korea
+  vol:
+  page:
   description: ""
 - title: TSK Fuzzy modeling approach for Face detection
   authors:
@@ -894,6 +1106,8 @@
   year: 2006
   month: October
   venue: Busan, Korea
+  vol:
+  page:
   description: ""
 - title: Gait Recognition using Sampled Point Vectors
   authors:
@@ -902,6 +1116,8 @@
   year: 2006
   month: October
   venue: Busan, Korea
+  vol:
+  page:
   description: ""
 - title: Side View Face Recognition as an Aid to Gait Recognition
   authors:
@@ -910,6 +1126,8 @@
   year: 2006
   month: September
   venue: Tokyo, Japan
+  vol:
+  page:
   description: ""
 - title: PCA based vehicle detection system for ACC
   authors:
@@ -918,6 +1136,8 @@
   year: 2006
   month: June
   venue: Mongolia, Ulaanbaatar
+  vol:
+  page:
   description: ""
 - title: Structure Learning of Bayesian Networks by Genetic Algorithms using novel genetic operators
   authors:
@@ -926,6 +1146,8 @@
   year: 2005
   month: October
   venue: Seoul, Korea
+  vol:
+  page:
   description: ""
 - title: An Immunotronic Approach for Hardware Fault Detection and its Application to the Design of Stigmergy Engine
   authors:
@@ -934,6 +1156,8 @@
   year: 2005
   month: July
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 - title: Constructing Context-aware Home based on Bayesian Network
   authors:
@@ -942,6 +1166,8 @@
   year: 2005
   month: July
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 - title: Cosimulation of the control 6-DOF Kuka manipulator by Simulink and Recurdyn
   authors:
@@ -950,6 +1176,8 @@
   year: 2005
   month: July
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 - title: Efficient Test Point Selection using Multi-Objective Genetic Algorithms with Biological Kronecker Delta Evolution
   authors:
@@ -958,6 +1186,8 @@
   year: 2005
   month: July
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 
   #before 2007 / 2
@@ -969,6 +1199,8 @@
   year: 2005
   month: July
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 - title: Trajectory Generation for Biped Robot on Surface with Various Friction Using Fuzzy Logic
   authors:
@@ -977,6 +1209,8 @@
   year: 2005
   month: July
   venue: Jeju, Korea
+  vol:
+  page:
   description: ""
 - title: A new TSK fuzzy modeling approach
   authors:
@@ -985,6 +1219,8 @@
   year: 2004
   month: July
   venue: Budapest, Hungary
+  vol:
+  page:
   description: ""
 - title: "LMI based L2 robust stable fuzzy control, Part 2: numerical robust control design"
   authors:
@@ -993,6 +1229,8 @@
   year: 2002
   month: July
   venue: Ulaanbaatar, Mongolia
+  vol:
+  page:
   description: ""
 - title: "LMI based L2 robust stable fuzzy control, Part 1: numerical robust stability analysis"
   authors:
@@ -1001,6 +1239,8 @@
   year: 2002
   month: July
   venue: Ulaanbaatar, Mongolia
+  vol:
+  page:
   description: ""
 - title: Mobile robot control using decision assistance information
   authors:
@@ -1009,6 +1249,8 @@
   year: 2002
   month: July
   venue: Ulaanbaatar, Mongolia
+  vol:
+  page:
   description: ""
 - title: EKF-based on-line identification of a fuzzy system
   authors:
@@ -1017,6 +1259,8 @@
   year: 2000
   month: May
   venue: Tsukuba, Japan
+  vol:
+  page:
   description: ""
 - title: Development on semi-active suspension system using fuzzy logic controller
   authors:
@@ -1025,6 +1269,8 @@
   year: 2000
   month: May
   venue: Tsukuba, Japan
+  vol:
+  page:
   description: ""
 - title: Fuzzy control of a direct current motor system with the guaranteed stability
   authors:
@@ -1033,6 +1279,8 @@
   year: 1999
   month: August
   venue: Seoul, Korea
+  vol:
+  page:
   description: ""
 - title: Tracking control of nonlinear systems using fuzzy sliding surfaces
   authors:
@@ -1041,6 +1289,8 @@
   year: 1998
   month: September
   venue: Iizuka,Japan
+  vol:
+  page:
   description: ""
 
   #before 2007 / 3
@@ -1052,6 +1302,8 @@
   year: 1998
   month: October
   venue: Victoria, B. C., Canada,
+  vol:
+  page:
   description: ""
 - title: On-line identification of a fuzzy system
   authors:
@@ -1060,6 +1312,8 @@
   year: 1998
   month: June
   venue: Masan, Korea
+  vol:
+  page:
   description: ""
 - title: Variable structure control of nonlinear system using fuzzy variable boundary layer
   authors:
@@ -1068,6 +1322,8 @@
   year: 1998
   month: August
   venue: Alaska, United States
+  vol:
+  page:
   description: ""
 - title: A study on self-excited oscillation of a fuzzy control system - static case
   authors:
@@ -1076,6 +1332,8 @@
   year: 1997
   month: July
   venue: Seoul, Korea
+  vol:
+  page:
   description: ""
 - title: A study on self-excited oscillation of a fuzzy control system - dynamic case
   authors:
@@ -1084,6 +1342,8 @@
   year: 1997
   month: July
   venue: Seoul, Korea
+  vol:
+  page:
   description: ""
 - title: "An analysis of self-excited oscillation of a fuzzy controlled- system based on FBF: dynamic case"
   authors:
@@ -1092,6 +1352,8 @@
   year: 1997
   month: June
   venue: Prague
+  vol:
+  page:
   description: ""
 - title: "An analysis of self-excited oscillation of a fuzzy controlled-system based on FBF: static case"
   authors:
@@ -1100,6 +1362,8 @@
   year: 1997
   month: June
   venue: Prague
+  vol:
+  page:
   description: ""
 - title: Simply identified Sugeno-type fuzzy modeling
   authors:
@@ -1108,6 +1372,8 @@
   year: 1996
   month: August
   venue: Fukuoka, Japan
+  vol:
+  page:
   description: ""
 - title: New stiffness conrol of a robot manipulator using a fuzzy model
   authors:
@@ -1116,6 +1382,8 @@
   year: 1995
   month: ##모름
   venue: ##모름
+  vol:
+  page:
   description: ""
 - title: A new fuzzy adaptive controller using a robust property of fuzzy controller
   authors:
@@ -1124,4 +1392,6 @@
   year: 1993
   month: July
   venue: Yokohama, Japan
+  vol:
+  page:
   description: ""
