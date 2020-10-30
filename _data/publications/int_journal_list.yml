@@ -23,10 +23,10 @@
   authors: HyungGi Jo, Woosub Lee and Euntai Kim
   journal: IEEE Transactions on Industrial Informatics
   year: 2021
-  month:
-  vol:
-  issue:
-  page:
+  month: Jan
+  vol: 17
+  issue: 1
+  page: 388-397
   description: ""
   accepted: 1
 - title: "FOSNet: An End-to-End Trainable Deep Neural Network for Scene Recognition"
