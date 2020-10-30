@@ -28,7 +28,7 @@
   issue: 1
   page: 388-397
   description: ""
-  accepted: 1
+  accepted: 0
 - title: "FOSNet: An End-to-End Trainable Deep Neural Network for Scene Recognition"
   authors: Hongje Seong, Junhyuk Hyun and Euntai Kim
   journal: IEEE Access
