@@ -31,26 +31,19 @@ Jump to
 
       {% if publi.year == current_year %}
 
-        {% if publi.vol_exist == 0 %}
-          {% if publi.page_exist == 0 %}
+        {% if publi.page_exist == 0 %}
 <strong>{{ publi.title }}</strong> <br />
 <em>{{ publi.authors }}</em> <br />
 <em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}.<br />
-          {% endif %}
-          {% if publi.page_exist == 1 %}
+        {% endif %}
+        
+        {% if publi.page_exist == 1 %}
+          {% if publi.vol_exist == 0 %}
 <strong>{{ publi.title }}</strong> <br />
 <em>{{ publi.authors }}</em> <br />
 <em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, no. {{ publi.page }}.<br />
           {% endif %}
-        {% endif %}
-
-        {% if publi.vol_exist == 1 %}
-          {% if publi.page_exist == 0 %}
-<strong>{{ publi.title }}</strong> <br />
-<em>{{ publi.authors }}</em> <br />
-<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, vol. {{ publi.vol }}.<br />
-          {% endif %}
-          {% if publi.page_exist == 1 %}
+          {% if publi.vol_exist == 1 %}
 <strong>{{ publi.title }}</strong> <br />
 <em>{{ publi.authors }}</em> <br />
 <em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, vol. {{ publi.vol }}, no. {{ publi.page }}.<br />
@@ -68,31 +61,25 @@ Jump to
 
   {% if publi.year < first_year %}
 
-    {% if publi.vol_exist == 0 %}
-      {% if publi.page_exist == 0 %}
+    {% if publi.page_exist == 0 %}
 <strong>{{ publi.title }}</strong> <br />
 <em>{{ publi.authors }}</em> <br />
 <em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}.<br />
-      {% endif %}
-      {% if publi.page_exist == 1 %}
+    {% endif %}
+    
+    {% if publi.page_exist == 1 %}
+      {% if publi.vol_exist == 0 %}
 <strong>{{ publi.title }}</strong> <br />
 <em>{{ publi.authors }}</em> <br />
 <em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, no. {{ publi.page }}.<br />
       {% endif %}
-    {% endif %}
-
-    {% if publi.vol_exist == 1 %}
-      {% if publi.page_exist == 0 %}
-<strong>{{ publi.title }}</strong> <br />
-<em>{{ publi.authors }}</em> <br />
-<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, vol. {{ publi.vol }}.<br />
-      {% endif %}
-      {% if publi.page_exist == 1 %}
+      {% if publi.vol_exist == 1 %}
 <strong>{{ publi.title }}</strong> <br />
 <em>{{ publi.authors }}</em> <br />
 <em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, vol. {{ publi.vol }}, no. {{ publi.page }}.<br />
       {% endif %}
     {% endif %}
+
   {% endif %}
 
 {% endfor %}
