@@ -41,12 +41,12 @@ Jump to
           {% if publi.vol_exist == 0 %}
 <strong>{{ publi.title }}</strong> <br />
 <em>{{ publi.authors }}</em> <br />
-<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, no. {{ publi.page }}.<br />
+<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, pp. {{ publi.page }}.<br />
           {% endif %}
           {% if publi.vol_exist == 1 %}
 <strong>{{ publi.title }}</strong> <br />
 <em>{{ publi.authors }}</em> <br />
-<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, vol. {{ publi.vol }}, no. {{ publi.page }}.<br />
+<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, vol. {{ publi.vol }}, pp. {{ publi.page }}.<br />
           {% endif %}
         {% endif %}
 
@@ -71,12 +71,12 @@ Jump to
       {% if publi.vol_exist == 0 %}
 <strong>{{ publi.title }}</strong> <br />
 <em>{{ publi.authors }}</em> <br />
-<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, no. {{ publi.page }}.<br />
+<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, pp. {{ publi.page }}.<br />
       {% endif %}
       {% if publi.vol_exist == 1 %}
 <strong>{{ publi.title }}</strong> <br />
 <em>{{ publi.authors }}</em> <br />
-<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, vol. {{ publi.vol }}, no. {{ publi.page }}.<br />
+<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, vol. {{ publi.vol }}, pp. {{ publi.page }}.<br />
       {% endif %}
     {% endif %}
 
