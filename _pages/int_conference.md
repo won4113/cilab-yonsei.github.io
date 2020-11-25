@@ -66,7 +66,6 @@ Jump to
 ## Before {{ first_year }}
 {% for publi in site.data.publications.int_conference_list %}
 
-  {% if publi.year < first_year %}
       {% if publi.year == current_year %}
 
         {% if publi.vol_exist == 0 %}
@@ -96,6 +95,5 @@ Jump to
         {% endif %}
 
       {% endif %}
-  {% endif %}
 
 {% endfor %}
