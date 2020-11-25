@@ -32,7 +32,7 @@ Jump to
       {% if publi.year == current_year %}
 <strong>{{ publi.title }}</strong> <br />
 <em>{{ publi.authors }}</em> <br />
-<em>{{ publi.conference }}</em> {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, vol. {{ publi.vol }}, no. {{ publi.issue }}.<br />
+<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}.<br />
       {% endif %}
 
     {% endfor %}
@@ -46,7 +46,7 @@ Jump to
 
   <strong>{{ publi.title }}</strong> <br />
   <em>{{ publi.authors }}</em> <br />
-  <em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, vol. {{ publi.vol }}, no. {{ publi.issue }},.<br />
+  <em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}.<br />
 
   {% endif %}
 
