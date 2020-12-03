@@ -3,8 +3,9 @@
     "",
     "\\_data",
     "\\_data\\members",
-    "\\_data\\patents"
+    "\\_data\\patents",
+    "\\_data\\publications"
   ],
-  "SelectedNode": "\\_data\\news.yml",
+  "SelectedNode": "\\_data\\publications\\int_conference_list.yml",
   "PreviewInSolutionExplorer": false
 }
