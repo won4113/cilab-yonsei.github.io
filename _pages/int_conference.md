@@ -30,9 +30,26 @@ Jump to
     {% for publi in site.data.publications.int_conference_list %}
 
       {% if publi.year == current_year %}
+
+        {% if publi.page_exist == 0 %}
 <strong>{{ publi.title }}</strong> <br />
 <em>{{ publi.authors }}</em> <br />
 <em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}.<br />
+        {% endif %}
+        
+        {% if publi.page_exist == 1 %}
+          {% if publi.vol_exist == 0 %}
+<strong>{{ publi.title }}</strong> <br />
+<em>{{ publi.authors }}</em> <br />
+<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, pp. {{ publi.page }}.<br />
+          {% endif %}
+          {% if publi.vol_exist == 1 %}
+<strong>{{ publi.title }}</strong> <br />
+<em>{{ publi.authors }}</em> <br />
+<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, vol. {{ publi.vol }}, pp. {{ publi.page }}.<br />
+          {% endif %}
+        {% endif %}
+
       {% endif %}
       
     {% endfor %}
@@ -44,9 +61,24 @@ Jump to
 
   {% if publi.year < first_year %}
 
-  <strong>{{ publi.title }}</strong> <br />
-  <em>{{ publi.authors }}</em> <br />
-  <em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}.<br />
+    {% if publi.page_exist == 0 %}
+<strong>{{ publi.title }}</strong> <br />
+<em>{{ publi.authors }}</em> <br />
+<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}.<br />
+    {% endif %}
+    
+    {% if publi.page_exist == 1 %}
+      {% if publi.vol_exist == 0 %}
+<strong>{{ publi.title }}</strong> <br />
+<em>{{ publi.authors }}</em> <br />
+<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, pp. {{ publi.page }}.<br />
+      {% endif %}
+      {% if publi.vol_exist == 1 %}
+<strong>{{ publi.title }}</strong> <br />
+<em>{{ publi.authors }}</em> <br />
+<em>{{ publi.conference }}</em>, {{ publi.venue }}, {{ publi.month }}, {{ publi.year }}, vol. {{ publi.vol }}, pp. {{ publi.page }}.<br />
+      {% endif %}
+    {% endif %}
 
   {% endif %}
 
