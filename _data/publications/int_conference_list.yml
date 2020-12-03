@@ -7,6 +7,55 @@
 #  vol:
 #  page:
 #  description:
+- title: "Unsupervised Domain Adaptation for Semantic Segmentation by Content Transfer"
+  authors:
+    Suhyeon Lee, Junhyuk Hyun, Hongje Seong, Euntai Kim
+  conference: Proc. of the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2021)
+  year: 2021
+  month: February
+  venue: Vancouver, Canada
+  description: ""
+- title: "3D-DEEP: 3-Dimensional Deep-Learning Based on Elevation Patterns for Road Scene Interpretation"
+  authors:
+    A. H. Saz, Suhan Woo, H. C. Schez, I. P. Alonso, Euntai Kim, D. F. Llorca and M. A. Sotelo  #저자 모름
+  conference: Proc. of the IEEE Intelligent Vehicle Symposium (IV 2020)
+  year: 2020
+  month: October
+  venue: Las Vegas, United States
+  vol:
+  page:
+  description: ""
+- title: Kernelized Memory Network for Video Object Segmentation
+  authors:
+    Hongje Seong, Junhyuk Hyun and Euntai Kim
+  conference: Proc. of the European Conference on Computer Vision (ECCV 2020)
+  year: 2020
+  month: August
+  venue: Glasgow, Scotland
+  vol: 12367
+  page: 629-645
+  description: ""
+- title: Is Whole Object Information Helpful for Scene Recognition?
+  authors:
+    Hongje Seong, Junhyuk Hyun and Euntai Kim
+  conference: Proc. of the 17th International Conference on Ubiquitous Robots (UR 2020)
+  year: 2020
+  month: June
+  venue: Kyoto, Japan
+  vol:
+  page: 149-152
+  description: ""
+- title: A Kernel-based Approach for Video Object Segmentation
+  authors:
+    Hongje Seong, Junhyuk Hyun and Euntai Kim
+  conference: The 2020 DAVIS Challenge on Video Object Segmentation (DAVIS'20, CVPR Workshop)
+  year: 2020
+  month: June
+  venue: Seattle, United States
+  vol:
+  page:
+  description: ""
+
 
   #2019
 - title: Normal Distribution Mixture Matching based Model Free Object Tracking Using 2D LIDAR
