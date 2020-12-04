@@ -1,11 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\images",
+    "\\images\\researchpic",
+    "\\images\\slider7001400",
     "\\_data",
-    "\\_data\\members",
     "\\_data\\patents",
-    "\\_data\\publications"
+    "\\_data\\publications",
+    "\\_includes",
+    "\\_layouts",
+    "\\_pages"
   ],
-  "SelectedNode": "\\_data\\publications\\int_conference_list.yml",
+  "SelectedNode": "\\images\\slider7001400",
   "PreviewInSolutionExplorer": false
 }
