@@ -9,7 +9,19 @@
 #  application_number: 
 #  year: 20
 #  month: 월
-#  description: ""  
+#  description: ""
+- title: 박스-레벨 객체 위치 정보만을 이용한 박스-레벨 객체 이동 예측 장치
+  authors: 김은태, 이영조, 성홍제, 현준혁
+  registration_number: 10-2020-0149532
+  year: 2020
+  month: 11월
+  description: ""
+- title: 다중 객체의 박스-레벨 위치 정보만을 이요한 박스-레벨 다중 객체 동선 예측 장치
+  authors: 김은태, 이영조, 성홍제, 현준혁
+  registration_number: 10-2020-0149533
+  year: 2020
+  month: 11월
+  description: ""
 - title: 딥러닝 기반의 자세 추정을 이용한 3차원 전역 위치 인식 장치 및 이동 로봇
   authors: 김은태, 조형기
   application_number: 10-2020-0035622
