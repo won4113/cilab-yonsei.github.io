@@ -43,9 +43,9 @@
   month: August
   venue: Glasgow, Scotland
   vol: 12367
-  vol_exist: 0
+  vol_exist: 1
   page: 629-645
-  page_exist: 0
+  page_exist: 1
   description: ""
 - title: Is Whole Object Information Helpful for Scene Recognition?
   authors:
