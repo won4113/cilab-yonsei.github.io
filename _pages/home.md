@@ -86,6 +86,6 @@ We are grateful for funding from [Yonsei University](https://ee.yonsei.ac.kr/ee_
 <div class="container-fluid d-none d-sm-block" style="text-align:center">
 
   <p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_lge.png" style="height: 50px; margin-right: 10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_lg_uplus.png" style="height: 50px; margin-right: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_lg_uplus.png" style="height: 50px; margin-right: 10px"></p>
 </div>
 <br/>
