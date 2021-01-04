@@ -77,7 +77,7 @@ We are grateful for funding from [Yonsei University](https://ee.yonsei.ac.kr/ee_
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nrf.jpeg" style="height: 50px; margin-right: 10px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_keit.jpg" style="height: 50px; margin-right: 10px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_lge.png" style="height: 50px; margin-right: 10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_lg_uplus.png" style="height: 50px; margin-right: 10px">
+#  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_lg_uplus.png" style="height: 50px; margin-right: 10px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hyundai_motors.jpg" style="height: 50px; margin-right: 10px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hyundai_mobis.jpg" style="height: 50px; margin-right: 10px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hyundai_mns.png" style="height: 50px; margin-right: 10px"></p>
