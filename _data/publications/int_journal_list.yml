@@ -9,6 +9,16 @@
 #  description: 
 #  accepted:
 
+- title: Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning
+  authors: Soowook Choe, Hongje Seong and Euntai Kim
+  journal: IEEE Transactions on Cybernetics
+  year: 2021
+  month:
+  vol:
+  issue:
+  page:
+  description: "Early Access"
+  accepted: 1
 - title: Novel Vehicle Bounding Box Tracking Using a Low-End 3D Laser Scanner
   authors: Jhonghyun An and Euntai Kim
   journal: IEEE Transactions on Intelligent Transportation Systems
