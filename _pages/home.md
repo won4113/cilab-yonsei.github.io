@@ -65,7 +65,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
   </a>
 </div>
 
-We are grateful for funding from [Yonsei University](https://ee.yonsei.ac.kr/ee_en/index.do), [National Research Foundation (NRF) of Korea](https://www.nrf.re.kr/eng/index), [Korea Evaluation Institute of Industrial Technology](https://www.keit.re.kr/eng/), [LG Electronics](https://www.lg.com/us), [Hyundai Motors](https://www.hyundai.com/kr/en/main), [Hyundai Mobis](https://en.mobis.co.kr/main/index.do) and [Hyundai MnSOFT](http://www.hyundai-mnsoft.com/EN/index.mms).
+We are grateful for funding from [Yonsei University](https://ee.yonsei.ac.kr/ee_en/index.do), [National Research Foundation (NRF) of Korea](https://www.nrf.re.kr/eng/index), [Korea Evaluation Institute of Industrial Technology](https://www.keit.re.kr/eng/), [LG Electronics](https://www.lg.com/us), [LG U+](http://www.uplus.co.kr/com/main/pemain/PeMain.hpi), [Hyundai Motors](https://www.hyundai.com/kr/en/main), [Hyundai Mobis](https://en.mobis.co.kr/main/index.do) and [Hyundai MnSOFT](http://www.hyundai-mnsoft.com/EN/index.mms).
 <br/>
 
 
@@ -76,7 +76,8 @@ We are grateful for funding from [Yonsei University](https://ee.yonsei.ac.kr/ee_
   <p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_yonsei.png" style="height: 50px; margin-right: 10px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nrf.jpeg" style="height: 50px; margin-right: 10px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_keit.jpg" style="height: 50px; margin-right: 10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_lge.jpg" style="height: 50px; margin-right: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_lge.png" style="height: 50px; margin-right: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_lg_uplus.png" style="height: 50px; margin-right: 10px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hyundai_motors.jpg" style="height: 50px; margin-right: 10px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hyundai_mobis.jpg" style="height: 50px; margin-right: 10px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_hyundai_mns.png" style="height: 50px; margin-right: 10px"></p>
