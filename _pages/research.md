@@ -49,6 +49,14 @@ For more information on our research areas, please see below sections.
 
 ## AREA II - Machine Vision <a id="area-2"></a>
 
+- Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning, TCYB, 2021
+
+<div class="container-fluid d-none d-sm-block" style="text-align:center">
+  <p><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TCYB_CSW.png" style="max-width: 100%"></p>
+</div>
+<br/>
+
+
 - Unsupervised Domain Adaptation for Semantic Segmentation by Content Transfer, AAAI, 2021
 
 <div class="container-fluid d-none d-sm-block" style="text-align:center">
