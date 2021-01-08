@@ -29,7 +29,7 @@ We are a dynamic research group at the [School of Electrical and Electronic Engi
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TCYB_CSW.png" alt="Slide 1" />
             <div class="carousel-caption bg-dark mb-4">
-              <h3>EEE Transactions on Cybernetics (TCYB)</h3>
+              <h3>IEEE Transactions on Cybernetics (TCYB)</h3>
               <p>Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning</p>
             </div>
         </div>
