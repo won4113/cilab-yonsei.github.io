@@ -6,10 +6,26 @@
 #  venue: 
 #  description:
 
+- title: Depth map이 Semantic Segmentation에 끼치는 영향
+  authors:
+    우수한, 조성진, 조민호, 김은태
+  conference: 정보 및 제어 학술대회(CICS 2020)
+  year: 2020
+  month: 10월
+  venue: 제주
+  description: ""
+- title: 자율 주행차의 라이다 센서를 위한 Blockage 검출
+  authors:
+    이충면, 장원제, 김은태
+  conference: 정보 및 제어 학술대회(CICS 2020)
+  year: 2020
+  month: 10월
+  venue: 제주
+  description: ""
 - title: Pyramid Pooling Module을 이용한 두드러진 객체 찾기
   authors:
     이영조, 성홍제, 현준혁, 김은태
-  conference: 제 35회 제어로봇시스템학회 학술대회(ICROS 2020)
+  conference: 제 35회 제어로봇시스템학회 학술대회(CICS 2020)
   year: 2020
   month: 7월
   venue: 고성
