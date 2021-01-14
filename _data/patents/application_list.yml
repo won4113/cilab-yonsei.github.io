@@ -10,6 +10,18 @@
 #  year: 20
 #  month: 월
 #  description: ""
+- title: 컨텐츠 전송을 이용한 도메인 적응에서의 클래스 불균형 해결 장치 및 방법
+  authors: 김은태, 이수현, 현준혁, 성홍제
+  application_number: 10-2021-0003077
+  year: 2021
+  month: 1월
+  description: ""
+- title: 제로 스타일 로스를 이용한 도메인 적응 장치 및 방법
+  authors: 김은태, 이수현, 현준혁, 성홍제
+  application_number: 10-2021-0003078
+  year: 2021
+  month: 1월
+  description: ""
 - title: 박스-레벨 객체 위치 정보만을 이용한 박스-레벨 객체 이동 예측 장치
   authors: 김은태, 이영조, 성홍제, 현준혁
   application_number: 10-2020-0149532
