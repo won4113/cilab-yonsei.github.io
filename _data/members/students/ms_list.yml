@@ -17,8 +17,6 @@
     url:
     exist: 0
 
-
-
 - name: Young Joo Kim
   photo: youngjookim.jpg
   info: Master's Degree Programs
@@ -50,7 +48,7 @@
     exist: 0
 
 - name: Minseong Kim
-  photo: 
+  photo: bio-photo.jpg
   info: Master's Degree Programs
   email: 
   research:
@@ -60,7 +58,7 @@
     exist: 0
 
 - name: Seokjin Bang
-  photo: 
+  photo: bio-photo.jpg
   info: Master's Degree Programs
   email: 
   research:
@@ -70,7 +68,7 @@
     exist: 0
 
 - name: Seokbum Song
-  photo: 
+  photo: bio-photo.jpg
   info: Master's Degree Programs
   email: lgs5751@gmail.com
   research:
@@ -80,7 +78,7 @@
     exist: 0
 
 - name: Junhyuk Jang
-  photo: 
+  photo: bio-photo.jpg
   info: Master's Degree Programs
   email: junmaniac@naver.com
   research: Intelligent Vehicle System
