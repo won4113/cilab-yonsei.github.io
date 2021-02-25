@@ -70,8 +70,8 @@
 - name: Seokbum Song
   photo: bio-photo.jpg
   info: Master's Degree Programs
-  email: lgs5751@gmail.com
-  research:
+  email: lgs5751@yonsei.ac.kr
+  research: Machine Vision Technology
   affiliation: HMC
   cv:
     url:
@@ -80,7 +80,7 @@
 - name: Junhyuk Jang
   photo: bio-photo.jpg
   info: Master's Degree Programs
-  email: junmaniac@naver.com
+  email: jhj216@yonsei.ac.kr
   research: Intelligent Vehicle System
   affiliation: HYUNDAI MOBIS
   cv:
