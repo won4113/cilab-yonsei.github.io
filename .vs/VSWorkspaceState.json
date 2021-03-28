@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\images",
-    "\\images\\logopic",
     "\\images\\slider7001400",
     "\\_data",
-    "\\_data\\patents",
-    "\\_data\\publications",
+    "\\_data\\members",
+    "\\_data\\members\\alumni",
+    "\\_data\\members\\students",
     "\\_includes",
     "\\_layouts",
     "\\_pages"
   ],
-  "SelectedNode": "\\_data\\publications\\dom_conference_list.yml",
+  "SelectedNode": "\\_data\\members\\students\\combined_list.yml",
   "PreviewInSolutionExplorer": false
 }
