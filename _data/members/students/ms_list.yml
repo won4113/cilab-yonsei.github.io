@@ -6,36 +6,6 @@
 #    url:
 #    exist: 0 or 1
 
-- name: Jonghyun Yun
-  photo: jonghyunyun.jpg
-  info: Master's Degree Programs
-  email: prestigeblackleopard@yonsei.ac.kr
-  research:
-  affiliation: Republic of Korea Air Force
-  cv:
-    url:
-    exist: 0
-
-- name: Sangyong Lee
-  photo: sangyonglee.jpg
-  info: Master's Degree Programs
-  email: lsy0500@yonsei.ac.kr
-  research: Machine Vision Technology
-  affiliation: 
-  cv:
-    url:
-    exist: 0
-
-- name: Suyeon Kim
-  photo: suyeonkim.jpg
-  info: Master's Degree Programs
-  email: yeonykim2@yonsei.ac.kr
-  research: Intelligent Vehicle System
-  affiliation: 
-  cv:
-    url:
-    exist: 0
-
 
 - name: Chungmyeon Lee
   photo: chungmyeonlee.jpg
@@ -46,8 +16,6 @@
   cv:
     url:
     exist: 0
-
-
 
 - name: Young Joo Kim
   photo: youngjookim.jpg
@@ -75,6 +43,46 @@
   email: alsdn321@yonsei.ac.kr
   research:
   affiliation: Korea Shipbuilding & Offshore Engineering Co.,Ltd.
+  cv:
+    url:
+    exist: 0
+
+- name: Minseong Kim
+  photo: bio-photo.jpg
+  info: Master's Degree Programs
+  email: 
+  research:
+  affiliation: SAMSUNG SDI
+  cv:
+    url:
+    exist: 0
+
+- name: Seokjin Bang
+  photo: bio-photo.jpg
+  info: Master's Degree Programs
+  email: 
+  research:
+  affiliation: LG Electronics
+  cv:
+    url:
+    exist: 0
+
+- name: Seokbum Song
+  photo: bio-photo.jpg
+  info: Master's Degree Programs
+  email: lgs5751@yonsei.ac.kr
+  research: Machine Vision Technology
+  affiliation: HMC
+  cv:
+    url:
+    exist: 0
+
+- name: Junhyuk Jang
+  photo: junhyukjang.jpg
+  info: Master's Degree Programs
+  email: jhj216@yonsei.ac.kr
+  research: Intelligent Vehicle System
+  affiliation: HYUNDAI MOBIS
   cv:
     url:
     exist: 0

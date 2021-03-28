@@ -135,3 +135,14 @@
   cv:
     url:
     exist: 0
+
+- name: Seunghyun Baik
+  photo: seunghyunbaik.jpg
+  info: Master's/Doctoral Combined Programs
+  email: shbaik104@yonsei.ac.kr
+  research: Machine Vision Technology
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+ 

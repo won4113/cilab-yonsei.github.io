@@ -303,3 +303,30 @@
   cv:
     url:
     exist: 0
+
+- name: Jonghyun Yun
+  photo: jonghyunyun.jpg
+  info: Master's Degree Programs
+  email: prestigeblackleopard@yonsei.ac.kr
+  affiliation: Republic of Korea Air Force
+  cv:
+    url:
+    exist: 0
+
+- name: Sangyong Lee
+  photo: sangyonglee.jpg
+  info: Master's Degree Programs
+  email: lsy0500@yonsei.ac.kr
+  affiliation: 
+  cv:
+    url:
+    exist: 0
+
+- name: Suyeon Kim
+  photo: suyeonkim.jpg
+  info: Master's Degree Programs
+  email: yeonykim2@yonsei.ac.kr
+  affiliation: Hyundai Mobis
+  cv:
+    url:
+    exist: 0
