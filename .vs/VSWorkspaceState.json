@@ -2,16 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\images",
-    "\\images\\slider7001400",
+    "\\images\\teampic",
     "\\_data",
     "\\_data\\members",
-    "\\_data\\members\\alumni",
     "\\_data\\members\\students",
     "\\_data\\patents",
+    "\\_data\\publications",
     "\\_includes",
     "\\_layouts",
     "\\_pages"
   ],
-  "SelectedNode": "\\_data\\patents\\application_list.yml",
+  "SelectedNode": "\\images\\teampic",
   "PreviewInSolutionExplorer": false
 }
