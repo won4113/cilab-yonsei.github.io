@@ -8,9 +8,9 @@
 #  page:
 #  description: 
 #  accepted:    
-- title: Evidence-Theoretic Reentry Target Classification Using Radar: A Fuzzy Logic Approach
-  authors: Kwangyong Jung, Sawon Min, Jeongwoo Kim, Nammoon Kim, and Euntai Kim
-  journal: IEEE Access
+- title: Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning
+  authors: Soowook Choe\*, Hongje Seong\* and Euntai Kim (\*equal contribution)
+  journal: IEEE Transactions on Cybernetics
   year: 2021
   month:
   vol:
@@ -18,9 +18,9 @@
   page:
   description: "Early Access"
   accepted: 1
-- title: Indoor Place Category Recognition for a Cleaning Robot by Fusing a Probabilistic Approach and Deep Learning
-  authors: Soowook Choe\*, Hongje Seong\* and Euntai Kim (\*equal contribution)
-  journal: IEEE Transactions on Cybernetics
+- title: Evidence-Theoretic Reentry Target Classification Using Radar: A Fuzzy Logic Approach
+  authors: Kwangyong Jung, Sawon Min, Jeongwoo Kim, Nammoon Kim, and Euntai Kim
+  journal: IEEE Access
   year: 2021
   month:
   vol:
